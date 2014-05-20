@@ -1,7 +1,7 @@
 Android全国职位列表 
 ==========  
 **我们相信来到这里的无论工程师还是招聘者都是靠谱的!!!**  
-欢迎[添加职位]( "Fork后Commit")，不过请遵守[规范](https://github.com/android-cn/android-recruitment/wiki "查看添加和编辑规范")。  
+欢迎[添加职位](# "Fork后Commit")，不过请遵守[规范](https://github.com/android-cn/android-recruitment/wiki "查看添加和编辑规范")。  
 
 
 ####北京
