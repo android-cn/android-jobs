@@ -32,6 +32,7 @@ Android全国职位列表
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
 :------------- | :------------- | :-------------  | :-------------   | :------------- 
 阿里 | [阿里集团 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2015-12-31
+多听科技 | [多听FM/车载 Android](http://www.duotin.com/m#android) | 13薪 风景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com) | 2015-12-31
 
 ####南京
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
