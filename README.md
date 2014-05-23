@@ -10,6 +10,7 @@ Android全国职位列表
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期  
 :------------- | :------------- | :-------------  | :-------------   | :------------- 
 阿里 | [淘宝等Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2015-12-31
+豌豆荚 | [Android工程师](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | google范儿有格调的Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com) | 2015-12-31
 
 ####上海
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
