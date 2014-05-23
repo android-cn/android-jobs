@@ -15,7 +15,7 @@ Android全国职位列表
 ####上海
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
 :------------- | :------------- | :-------------  | :-------------   | :------------- 
-安居客 | [Android工程师](http://www.trinea.cn/jobs/anjuke-android-php-jobs/) | 13薪+季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2014-09-20
+安居客 | [Android工程师](http://www.trinea.cn/jobs/anjuke-android-php-jobs/) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2014-09-20
 阿里 | [支付宝Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2015-12-31
 薄荷 | [Android工程师](http://www.boohee.com/boohee/zhaopin.htm#at10) | 妹子多 13薪 自由的做技术| [zhangqi@boohee.com](mailto:zhangqi@boohee.com) | 2015-12-31
 
@@ -33,7 +33,7 @@ Android全国职位列表
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
 :------------- | :------------- | :-------------  | :-------------   | :------------- 
 阿里 | [阿里集团 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2015-12-31
-多听 | [多听FM/车载 Android](http://www.duotin.com/m#android) | 13薪 风景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com) | 2015-12-31
+多听 | [FM/车载 Android](http://www.duotin.com/m#android) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com) | 2015-12-31
 
 ####南京
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
@@ -58,7 +58,7 @@ Android全国职位列表
 ####厦门
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
 :------------- | :------------- | :-------------  | :-------------   | :------------- 
-联想 | [Android主管工程师](https://github.com/android-cn/android-jobs/blob/master/%E5%8E%A6%E9%97%A8--JD/%E8%81%94%E6%83%B3%20Android.md) | 厦门顶级薪资 | [zhangyang12@lenovo.com](mailto:zhangyang12@lenovo.com) | 2015-12-31
+联想 | [Android主管工程师](https://github.com/android-cn/android-jobs/blob/master/%E5%8E%A6%E9%97%A8--JD/%E8%81%94%E6%83%B3%20Android.md) | 厦门顶级薪资 国企福利 | [zhangyang12@lenovo.com](mailto:zhangyang12@lenovo.com) | 2015-12-31
 
 ####西安
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
