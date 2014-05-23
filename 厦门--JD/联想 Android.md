@@ -1,8 +1,8 @@
 Lenovo Senior Software Engineer 软件开发主管工程师
 ==========  
 工作城市:  Fujian - XIAMEN  
-教育背景：  Bachelors Degree  
-工作经历：  5 - 7 Years  
+教育背景:  Bachelors Degree  
+工作经历:  5 - 7 Years  
 
 #####Position Description  
 1.独立完成Android系统的应用程序的设计、开发与调试  
@@ -10,7 +10,7 @@ Lenovo Senior Software Engineer 软件开发主管工程师
 3.负责解决产品开发过程中的关键技术问题  
   
 #####Position Requirements  
-1)具有3年以上的android移动终端应用软件开发经验，有高通平台手机相关开发工作经验尤佳  
-2)熟练掌握linux下JAVA和C/C++编程技能，熟悉android平台开发，对应用层和framework层有深入的了解  
-3)能够根据当前平台特点，对模块的运行效率、资源占用、稳定性等给出较好的优化方案  
-4)具备良好的职业素养和团队协作精神，以及较强的学习和交流能力； 5)英语CET4以上，具备良好的读写能力  
+1.具有3年以上的android移动终端应用软件开发经验，有高通平台手机相关开发工作经验尤佳  
+2.熟练掌握linux下JAVA和C/C++编程技能，熟悉android平台开发，对应用层和framework层有深入的了解  
+3.能够根据当前平台特点，对模块的运行效率、资源占用、稳定性等给出较好的优化方案  
+4.具备良好的职业素养和团队协作精神，以及较强的学习和交流能力； 5)英语CET4以上，具备良好的读写能力  
