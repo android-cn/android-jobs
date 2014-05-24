@@ -15,7 +15,7 @@ Android全国职位列表
 ####上海
 公司  | JD地址 | 一句话诱惑 | 联系人 | 有效期
 :------------- | :------------- | :-------------  | :-------------   | :------------- 
-安居客 | [Android工程师](http://www.trinea.cn/jobs/anjuke-android-php-jobs/) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2014-09-20
+安居客 | [Android工程师](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E5%AE%89%E5%B1%85%E5%AE%A2%20Android.md) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2014-09-20
 阿里 | [支付宝Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) | 2015-12-31
 薄荷 | [Android工程师](http://www.boohee.com/boohee/zhaopin.htm#at10) | 妹子多 13薪 自由的做技术| [zhangqi@boohee.com](mailto:zhangqi@boohee.com) | 2015-12-31
 
