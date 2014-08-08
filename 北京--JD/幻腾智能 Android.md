@@ -1,4 +1,4 @@
-幻腾智能招募iOS、Android工程师
+幻腾智能招募 Android 工程师
 ==============================  
 www.huantengsmart.com  
 
@@ -13,7 +13,7 @@ www.huantengsmart.com
 工作多年的大牛, 只希望你: 技术过硬, 成熟稳重, 团队合作, 对事不对人.  
 ####可选加分项:  
 1. 熟悉Git+  
-2. 熟悉cocoapods/mvn/gradle等自动构建工具+  
+2. 熟悉mvn/gradle等自动构建工具+  
 3. 运用runtime/多线程/脚本解决问题+  
 4. 熟悉Http, TCP/IP, WebSocket, 数据库++  
 4. stackoverflow积分/github 开源贡献++  
