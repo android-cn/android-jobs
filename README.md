@@ -14,6 +14,7 @@ Android 全国职位列表
 友邻小区 | [Android工程师](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%8F%8B%E9%82%BB%E5%B0%8F%E5%8C%BA%20Android.md) | 技术飞升，气氛轻松 | [zhukai@hiyoulin.com](mailto:zhukai@hiyoulin.com) | 2014-7-31
 魔方天空 | [Android工程师](https://github.com/android-cn/android-jobs/blob/master/北京--JD/魔方天空%20Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com) | 2015-7-31
 穷游网 | [Android工程师](http://www.qyer.com/job/vacancies.html#pos92) | 13薪+季度奖金+宽松的企业文化，成长空间 | [tom5953@163.com](mailto:tom5953@163.com) | 2014-12-31
+幻腾智能 | [Android工程师](https://github.com/android-cn/android-jobs/blob/master/北京--JD/幻腾智能%20Android.md) | 清华校内,智能家居,Geek轻松| [join.us@hhttech.com](mailto:join.us@hhttech.com) | 2014-12-31
 
 ####上海
 公司  | JD 地址 | 一句话诱惑 | 联系人 | 有效期
