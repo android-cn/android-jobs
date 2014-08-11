@@ -54,7 +54,7 @@ Android 全国职位列表
 ####武汉
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-AcFun | [Android 开发](https://github.com/neavo/android-jobs/blob/master/%E6%AD%A6%E6%B1%89--JD/AcFun%20Android.md) | 二次元文化 武汉地区极有竞争力的薪酬 | [jobs@acfun.tv](mailto:jobs@acfun.tv "有效期至 2014-12-31") 
+AcFun | [iOS 开发/测试](https://github.com/neavo/android-jobs/blob/master/%E6%AD%A6%E6%B1%89--JD/AcFun%20Android.md) | 二次元文化 武汉地区极有竞争力的薪酬 | [jobs@acfun.tv](mailto:jobs@acfun.tv "有效期至 2014-12-31") 
 
 ####福州
 公司  | JD 地址 | 一句话诱惑 | 联系人
