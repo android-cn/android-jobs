@@ -43,7 +43,7 @@ Android 全国职位列表
 ####南京
 公司  | JD 地址 | 一句话诱惑 | 联系人 | 有效期
 :------------- | :------------- | :-------------  | :-------------   | :------------- 
-随身云 | [Android工程师](http://www.zhwnl.cn/share/71v07fu082jxysta4nmv3?from=timeline&isappinstalled=0) | 14薪 健身房 自由氛围 亿级用户的产品 | [liqing@etouch.cn](mailto:liqing@etouch.cn) | 2014-12-31
+随身云 | [Android工程师](http://www.zhwnl.cn/share/71v07fu082jxysta4nmv3?from=timeline&isappinstalled=0) | 14薪 健身房 自由氛围 亿级用户的产品 | [yanweiquan@etouch.cn](mailto:yanweiquan@etouch.cn) | 2014-12-31
 
 ####成都
 公司  | JD 地址 | 一句话诱惑 | 联系人 | 有效期
