@@ -16,6 +16,7 @@ Android 全国职位列表
 穷游网 | [Android 开发](http://www.qyer.com/job/vacancies.html#pos92) | 13薪 季度奖金 宽松文化 成长空间 | [tom5953@163.com](mailto:tom5953@163.com "有效期至 2014-12-31")
 幻腾智能 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/幻腾智能%20Android.md) | 清华校内 智能家居 Geek轻松| [join.us@hhttech.com](mailto:join.us@hhttech.com "有效期至 2014-12-31")  
 朱李叶 | [Android 开发](https://github.com/tangren03/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%9C%B1%E6%9D%8E%E5%8F%B6%20Android.md) | 健康医疗创业 成长空间 资金稳定 | [tangren@zlycare.com](mailto:tangren@zlycare.com "有效期至 2015-12-31")
+千鱼教育 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%8D%83%E9%B1%BC%E6%95%99%E8%82%B2%20Android.md) | 16薪 年终奖金 足够成长空间 | [tangxinghua@iyuanzi.com](mailto:tangxinghua@iyuanzi.com "有效期至 2014-12-31")
 
 
 ####上海
