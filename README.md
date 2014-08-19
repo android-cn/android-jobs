@@ -30,7 +30,7 @@ Android 全国职位列表
 ####深圳
 公司  | JD 地址 | 一句话诱惑 | 联系人 
 :------------- | :------------- | :-------------  | :-------------   
-阿里 | [来往 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [支付宝 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####广东
 公司  | JD 地址 | 一句话诱惑 | 联系人 
