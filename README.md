@@ -16,7 +16,7 @@ Android 全国职位列表
 豌豆荚 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B1%8C%E8%B1%86%E8%8D%9A%20Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
 友邻小区 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%8F%8B%E9%82%BB%E5%B0%8F%E5%8C%BA%20Android.md) | 技术飞升，气氛轻松 | [zhukai@hiyoulin.com](mailto:zhukai@hiyoulin.com "有效期至 2014-7-31")
 魔方天空 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/魔方天空%20Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2015-7-31")
-穷游网 | [Android 开发](http://www.qyer.com/job/vacancies.html#pos92) | 14薪 季度奖金 宽松文化 成长空间 | [tom5953@163.com](mailto:tom5953@163.com "有效期至 2014-12-31")
+穷游网 | [Android 开发](http://www.qyer.com/job/vacancies.html#pos92) | 14薪 季度奖 Mac 宽松文化 成长空间 | [tom5953@163.com](mailto:tom5953@163.com "有效期至 2014-12-31")
 幻腾智能 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/幻腾智能%20Android.md) | 清华校内 智能家居 Geek轻松| [join.us@hhttech.com](mailto:join.us@hhttech.com "有效期至 2014-12-31")  
 朱李叶 | [Android 开发](https://github.com/tangren03/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%9C%B1%E6%9D%8E%E5%8F%B6%20Android.md) | 健康医疗创业 成长空间 资金稳定 | [tangren@zlycare.com](mailto:tangren@zlycare.com "有效期至 2015-12-31")
 千鱼教育 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%8D%83%E9%B1%BC%E6%95%99%E8%82%B2%20Android.md) | 16薪 年终奖金 足够成长空间 | [tangxinghua@iyuanzi.com](mailto:tangxinghua@iyuanzi.com "有效期至 2014-12-31")
