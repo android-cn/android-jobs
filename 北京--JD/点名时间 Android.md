@@ -1,7 +1,7 @@
 点名时间 - Android高级工程师
 ==========  
 
-[点名时间](http://www.demohour.com)是中国最大的智能新品预购网站。工作地点在北京竞园图片产业基地， 主要业务为智能产品预购电商平台。
+[点名时间](http://www.demohour.com)是中国最大的智能新品预购网站。工作地点在北京竞园图片产业基地，主要业务为智能产品预购电商平台。
 
 
 ####职位描述
@@ -30,4 +30,4 @@ Android高级工程师
 
 #### 联系方式：
 
-[handong@demohour.com](mailto: handong@demohour.com)
+[handong@demohour.com](mailto:handong@demohour.com)
