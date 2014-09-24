@@ -1,7 +1,7 @@
-Android 全国职位列表 
+Android 全国职位列表
 ==========  
 **我们相信来到这里的，无论工程师还是招聘者都是靠谱的!!!**  
-  
+
 招聘者：欢迎[添加职位](# "Fork 后修改直接 Commit 即可")，不过请遵守[规范](https://github.com/android-cn/android-recruitment/wiki "查看添加和编辑规范")。欢迎`Star`、`Fork`  
 求职者：`Watch` 这个项目，当有新职位发布时会自动出现在你的 New Feed 中  
 分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2Fandroid-cn%2Fandroid-jobs
@@ -9,8 +9,8 @@ Android 全国职位列表
 
 ####北京
 
-公司  | JD 地址 | 一句话诱惑 | 联系人 
-:------------- | :------------- | :-------------  | :-------------   
+公司  | JD 地址 | 一句话诱惑 | 联系人
+:------------- | :------------- | :-------------  | :-------------
 阿里 | [Android 开发](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93%20Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
 豌豆荚 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B1%8C%E8%B1%86%E8%8D%9A%20Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
@@ -20,35 +20,36 @@ Android 全国职位列表
 幻腾智能 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/幻腾智能%20Android.md) | 清华校内 智能家居 Geek轻松| [join.us@hhttech.com](mailto:join.us@hhttech.com "有效期至 2014-12-31")  
 朱李叶 | [Android 开发](https://github.com/tangren03/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%9C%B1%E6%9D%8E%E5%8F%B6%20Android.md) | 健康医疗创业 成长空间 资金稳定 | [tangren@zlycare.com](mailto:tangren@zlycare.com "有效期至 2015-12-31")
 千鱼教育 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%8D%83%E9%B1%BC%E6%95%99%E8%82%B2%20Android.md) | 16薪 年终奖金 足够成长空间 | [tangxinghua@iyuanzi.com](mailto:tangxinghua@iyuanzi.com "有效期至 2014-12-31")
+点名时间 | [Andriod 开发] 智能产品预购平台 年终奖金 足够成长空间 | [handong@demohour.com](mailto: handong@demohour.com)
 
 
 ####上海
-公司  | JD 地址 | 一句话诱惑 | 联系人 
+公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 安居客 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E5%AE%89%E5%B1%85%E5%AE%A2%20Android.md) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2014-12-31")
 阿里 | [Android 开发](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 薄荷 | [Android 开发](http://www.boohee.com/boohee/zhaopin.htm#at10) | 妹子多 13薪 自由的做技术| [zhangqi@boohee.com](mailto:zhangqi@boohee.com "有效期至 2015-12-31")
-哔哩哔哩 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/bilibili%20Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2014-12-31") 
-爱吧婚恋 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%88%B1%E5%90%A7%E5%A9%9A%E6%81%8B%20Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2014-12-31") 
+哔哩哔哩 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/bilibili%20Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2014-12-31")
+爱吧婚恋 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%88%B1%E5%90%A7%E5%A9%9A%E6%81%8B%20Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2014-12-31")
 
 ####深圳
-公司  | JD 地址 | 一句话诱惑 | 联系人 
-:------------- | :------------- | :-------------  | :-------------   
+公司  | JD 地址 | 一句话诱惑 | 联系人
+:------------- | :------------- | :-------------  | :-------------
 阿里 | [支付宝 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####广东
-公司  | JD 地址 | 一句话诱惑 | 联系人 
-:------------- | :------------- | :-------------  | :------------- 
+公司  | JD 地址 | 一句话诱惑 | 联系人
+:------------- | :------------- | :-------------  | :-------------
 CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/) | 13薪+季度奖+年终奖+很多软妹子！| [renzhibin@cvte.cn](mailto:renzhibin@cvte.cn "有效期至 2014-12-31")
 
 ####杭州
-公司  | JD 地址 | 一句话诱惑 | 联系人 
+公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 阿里 | [阿里集团 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 多听 | [FM/V电台 Android](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 
 ####南京
-公司  | JD 地址 | 一句话诱惑 | 联系人 
+公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 随身云 | [Android 开发](http://www.zhwnl.cn/share/71v07fu082jxysta4nmv3?from=timeline&isappinstalled=0) | 14薪 健身房 自由氛围 亿级用户的产品 | [yanweiquan@etouch.cn](mailto:yanweiquan@etouch.cn "有效期至 2014-12-31")
 
@@ -60,7 +61,7 @@ CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%
 ####武汉
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-AcFun | [iOS 开发/测试](https://github.com/neavo/android-jobs/blob/master/%E6%AD%A6%E6%B1%89--JD/AcFun%20iOS.md) | 二次元文化 武汉地区极有竞争力的薪酬 | [jobs@acfun.tv](mailto:jobs@acfun.tv "有效期至 2014-12-31") 
+AcFun | [iOS 开发/测试](https://github.com/neavo/android-jobs/blob/master/%E6%AD%A6%E6%B1%89--JD/AcFun%20iOS.md) | 二次元文化 武汉地区极有竞争力的薪酬 | [jobs@acfun.tv](mailto:jobs@acfun.tv "有效期至 2014-12-31")
 
 ####福州
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -70,7 +71,7 @@ AcFun | [iOS 开发/测试](https://github.com/neavo/android-jobs/blob/master/%E
 ####厦门
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-联想 | [Android主管工程师](https://github.com/android-cn/android-jobs/blob/master/%E5%8E%A6%E9%97%A8--JD/%E8%81%94%E6%83%B3%20Android.md) | 厦门顶级薪资 国企福利 | [zhangyang12@lenovo.com](mailto:zhangyang12@lenovo.com "有效期至 2015-12-31") 
+联想 | [Android主管工程师](https://github.com/android-cn/android-jobs/blob/master/%E5%8E%A6%E9%97%A8--JD/%E8%81%94%E6%83%B3%20Android.md) | 厦门顶级薪资 国企福利 | [zhangyang12@lenovo.com](mailto:zhangyang12@lenovo.com "有效期至 2015-12-31")
 
 ####西安
 公司  | JD 地址 | 一句话诱惑 | 联系人
