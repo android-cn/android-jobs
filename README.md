@@ -21,7 +21,7 @@ Android 全国职位列表
 朱李叶 | [Android 开发](https://github.com/tangren03/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%9C%B1%E6%9D%8E%E5%8F%B6%20Android.md) | 健康医疗创业 成长空间 资金稳定 | [tangren@zlycare.com](mailto:tangren@zlycare.com "有效期至 2015-12-31")
 千鱼教育 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%8D%83%E9%B1%BC%E6%95%99%E8%82%B2%20Android.md) | 16薪 年终奖金 足够成长空间 | [tangxinghua@iyuanzi.com](mailto:tangxinghua@iyuanzi.com "有效期至 2014-12-31")
 点名时间 | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%82%B9%E5%90%8D%E6%97%B6%E9%97%B4%20Android.md) | 智能新品预购平台 年终奖  | [handong@demohour.com](mailto:handong@demohour.com "有效期至 2014-12-31")
-空空科技 | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%82%B9%E5%90%8D%E6%97%B6%E9%97%B4%20Android.md) | 有期权的创业公司，技术大牛坐镇，移动社交和智能家居方向  | [hr@kongkong-inc.com](mailto:hr@kongkong-inc.com "有效期至 2014-12-31")
+空空科技 | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/空空科技%20Android.md) | 有期权的创业公司，技术大牛坐镇，移动社交和智能家居方向  | [hr@kongkong-inc.com](mailto:hr@kongkong-inc.com "有效期至 2014-12-31")
 
 
 ####上海
