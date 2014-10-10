@@ -22,3 +22,6 @@
 3、熟悉Android开发技术，包括UI、网络等方面  
 4、熟悉Android开发工具和相关开发测试工具的使用  
 5、较好的逻辑思维分析和表达和沟通能力，要有一定的自学能力，较强的团队协作意识  
+
+####联系方式
+[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)

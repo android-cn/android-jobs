@@ -13,4 +13,7 @@
 良好的数据结构和算法基础   
 熟悉 Java/C++，Android SDK/NDK   
 有 Android 商业软件的开发经验   
-如果你研究阅读过 Android 系统的源代码，会有加分   
+如果你研究阅读过 Android 系统的源代码，会有加分  
+
+####联系方式
+[joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com)
