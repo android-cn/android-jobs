@@ -1,6 +1,6 @@
 北上深杭----大批阿里职位袭来，包括蚂蚁金服、云 OS、淘宝等
 ------------
-受邀发一些阿里 Android 职位的招聘信息，有兴趣的简历到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
+受邀发一些阿里 Android 职位的招聘信息，有兴趣的简历(PDF版)到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 这次主要是蚂蚁金服等大量招聘，包括杭北上深的职位。  
 阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)   
 
