@@ -1,8 +1,8 @@
 北上深杭----大批阿里职位袭来，包括蚂蚁金服、云 OS、淘宝等
 ------------
-受邀发一些阿里 Android 职位的招聘信息，有兴趣的简历到 [trinea.cn+job@gmail.com](trinea.cn+job@gmail.com)  
+受邀发一些阿里 Android 职位的招聘信息，有兴趣的简历到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 这次主要是蚂蚁金服等大量招聘，包括杭北上深的职位。  
-阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](trinea.cn+job@gmail.com)   
+阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)   
 
 ###杭州职位
 一. 蚂蚁金服(支付宝) Android 中高级开发  
@@ -117,7 +117,7 @@
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16768](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16768)  
 
-阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](trinea.cn+job@gmail.com)   
+阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)   
 其他公司 Android 职位见 [Android 招聘@Github](https://github.com/android-cn/android-jobs)  
 
 PS：最近比较忙，博客许久未更新，11 月份会分享 Android 方面挖了半年的一个坑及简单的 Hadoop 知识，欢迎关注，哈哈  
