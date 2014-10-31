@@ -37,7 +37,7 @@ Android 全国职位列表
 ####深圳
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [支付宝 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [支付宝 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%B7%B1%E5%9C%B3--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####广东
 公司  | JD 地址 | 一句话诱惑 | 联系人
