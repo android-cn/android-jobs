@@ -5,7 +5,7 @@
 阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)   
 
 ###杭州职位
-一. 蚂蚁金服(支付宝) Android 中高级开发  
+####一. 蚂蚁金服(支付宝) Android 中高级开发  
 ```
 岗位描述：  
 1. 支付宝钱包客户端应用架构和开发工作  
@@ -19,7 +19,7 @@
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16904](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16904)  
 
-二. 阿里云 OS Andorid 高级开发  
+####二. 阿里云 OS Andorid 高级开发  
 ```
 岗位描述：  
 １. 负责生活服务客户端产品开发与框架  
@@ -29,7 +29,7 @@
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=15676](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=15676)  
 
-三. 共享业务事业部 资深无线开发专家  
+####三. 共享业务事业部 资深无线开发专家  
 ```
 岗位描述：  
 1. 负责淘宝无线开放客户端架构设计， 有力的支持到O2O,TAE等新业务的发展  
@@ -44,7 +44,7 @@
 
 
 ###北京职位
-一. 蚂蚁金服(支付宝) Android 中高级开发  
+####一. 蚂蚁金服(支付宝) Android 中高级开发  
 ```
 岗位描述：  
 1. 客户端应用架构和开发工作  
@@ -58,14 +58,14 @@
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16887](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16887)  
 
-二. 一淘无线资深 Android 开发  
+####二. 一淘无线资深 Android 开发  
 ```
 1、参与一淘无线app的开发工作（Android平台）  
 2、参与移动新技术的研究和在app中的应用  
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16932](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16932)  
 
-三. 阿里云 OS Andorid 高级开发  
+####三. 阿里云 OS Andorid 高级开发  
 ```
 岗位描述：  
 1. 负责yunos账号，系统更新，推送等应用服务模块开发  
@@ -75,7 +75,7 @@
 
 
 ###上海职位
-一. 蚂蚁金服(支付宝) Android 中高级开发  
+####一. 蚂蚁金服(支付宝) Android 中高级开发  
 ```
 岗位描述：  
 1. 客户端应用架构和开发工作  
@@ -89,7 +89,7 @@
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16865](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16865)  
 
-二. 阿里云 OS Andorid 高级开发  
+####二. 阿里云 OS Andorid 高级开发  
 ```
 岗位描述：  
 1. OS应用软件开发与维护，职责包括但不限于创新应用开发，云应用开发  
@@ -97,7 +97,7 @@
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14869](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14869)  
 
 ###深圳职位
-一. 蚂蚁金服(支付宝) Android 开发  
+####一. 蚂蚁金服(支付宝) Android 开发  
 ```
 岗位描述：  
 1. 二年以上客户端开发经验，精通 Android 手机平台，Symbian 平台也可以考虑  
@@ -110,7 +110,7 @@
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14331](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14331)  
 
-二. 阿里云 OS Andorid 高级开发  
+####二. 阿里云 OS Andorid 高级开发  
 岗位描述：  
 ```
 1. OS应用软件开发与维护，职责包括但不限于创新应用开发，云应用开发  
