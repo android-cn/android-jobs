@@ -4,6 +4,28 @@
 这次主要是蚂蚁金服等大量招聘，包括杭北上深的职位。  
 阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)   
 
+###上海职位
+####一. 蚂蚁金服(支付宝) Android 中高级开发  
+```
+岗位描述：  
+1. 客户端应用架构和开发工作  
+2. 根据支付宝业务产品需求开发相关的移动产品  
+3. 学习和研究新技术以满足产品的需求  
+4. 根据开发过程中的体验对产品提出改进建议  
+5. 验证和修正测试中发现的问题  
+6. 配合市场等其他部门，提供产品相关技术支持  
+7. 公司内部移动端开发技术培训  
+8. 领导公司客户端技术发展方向, 提高团队的技术影响力      
+```
+具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16865](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16865)  
+<p>&nbsp;</p>  
+####二. 阿里云 OS Andorid 高级开发  
+```
+岗位描述：  
+1. OS应用软件开发与维护，职责包括但不限于创新应用开发，云应用开发  
+```
+具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14869](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14869)  
+<p>&nbsp;</p>  
 ###杭州职位
 ####一. 蚂蚁金服(支付宝) Android 中高级开发  
 ```
@@ -71,28 +93,6 @@
 2. 优化客户端模块与服务端的通信交互体验  
 ```
 具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=15113](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=15113)  
-<p>&nbsp;</p>  
-###上海职位
-####一. 蚂蚁金服(支付宝) Android 中高级开发  
-```
-岗位描述：  
-1. 客户端应用架构和开发工作  
-2. 根据支付宝业务产品需求开发相关的移动产品  
-3. 学习和研究新技术以满足产品的需求  
-4. 根据开发过程中的体验对产品提出改进建议  
-5. 验证和修正测试中发现的问题  
-6. 配合市场等其他部门，提供产品相关技术支持  
-7. 公司内部移动端开发技术培训  
-8. 领导公司客户端技术发展方向, 提高团队的技术影响力      
-```
-具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16865](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=16865)  
-<p>&nbsp;</p>  
-####二. 阿里云 OS Andorid 高级开发  
-```
-岗位描述：  
-1. OS应用软件开发与维护，职责包括但不限于创新应用开发，云应用开发  
-```
-具体要求见：[http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14869](http://job.alibaba.com/zhaopin/position_detail.htm?positionId=14869)  
 <p>&nbsp;</p>  
 ###深圳职位
 ####一. 蚂蚁金服(支付宝) Android 开发  

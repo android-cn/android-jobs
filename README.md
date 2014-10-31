@@ -11,7 +11,7 @@ Android 全国职位列表
 
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [Android 开发](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93%20Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
 豌豆荚 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B1%8C%E8%B1%86%E8%8D%9A%20Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
 友邻小区 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%8F%8B%E9%82%BB%E5%B0%8F%E5%8C%BA%20Android.md) | 技术飞升，气氛轻松 | [zhukai@hiyoulin.com](mailto:zhukai@hiyoulin.com "有效期至 2014-12-31")
@@ -29,7 +29,7 @@ Android 全国职位列表
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 安居客 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E5%AE%89%E5%B1%85%E5%AE%A2%20Android.md) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2014-12-31")
-阿里 | [Android 开发](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 薄荷 | [Android 开发](http://www.boohee.com/boohee/zhaopin.htm#at10) | 妹子多 13薪 自由的做技术| [zhangqi@boohee.com](mailto:zhangqi@boohee.com "有效期至 2015-12-31")
 哔哩哔哩 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/bilibili%20Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2014-12-31")
 爱吧婚恋 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%88%B1%E5%90%A7%E5%A9%9A%E6%81%8B%20Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2014-12-31")
@@ -37,7 +37,7 @@ Android 全国职位列表
 ####深圳
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [支付宝 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [支付宝 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####广东
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -47,7 +47,7 @@ CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%
 ####杭州
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-阿里 | [阿里集团 Android](http://www.trinea.cn/jobs/alibaba-taobao-zhifubao-b2b-aliyun-jobs/) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [阿里集团 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 多听 | [FM/V电台 Android](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 
 ####南京
@@ -83,4 +83,4 @@ AcFun | [iOS 开发/测试](https://github.com/neavo/android-jobs/blob/master/%E
 ####其他
 城市 | 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :------------- | :-------------  | :-------------  
-阿里 | [Android 开发]() |  |  |  |
+阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%85%B6%E4%BB%96--JD/%E9%98%BF%E9%87%8C%20Android.md) |  |  |  |
