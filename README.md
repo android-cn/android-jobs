@@ -33,7 +33,7 @@ Android 全国职位列表
 薄荷 | [Android 开发](http://www.boohee.com/boohee/zhaopin.htm#at10) | 妹子多 13薪 自由的做技术| [zhangqi@boohee.com](mailto:zhangqi@boohee.com "有效期至 2015-12-31")
 哔哩哔哩 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/bilibili%20Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2014-12-31")
 爱吧婚恋 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%88%B1%E5%90%A7%E5%A9%9A%E6%81%8B%20Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2014-12-31")
-乔布简历 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E4%B9%94%E5%B8%83%E7%AE%80%E5%8E%86%20Android.md) | A轮到位 弹性上班 薪水发多少 能力说了算 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
+乔布简历 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E4%B9%94%E5%B8%83%E7%AE%80%E5%8E%86%20Android.md) | A轮 弹性上班 薪水视能力定 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 
 ####深圳
 公司  | JD 地址 | 一句话诱惑 | 联系人
