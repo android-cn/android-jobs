@@ -37,4 +37,4 @@
 人事专员  HR Specialist
 Weimob  微盟中国  
 Tel: 021-36386066-8087
-E-mail: june.zhao@weimob.com
+E-mail: [june.zhao@weimob.com](mailto:june.zhao@weimob.com)
