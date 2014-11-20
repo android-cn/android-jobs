@@ -56,7 +56,7 @@ CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%
 ####南京
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-随身云 | [Android 开发](http://www.zhwnl.cn/share/71v07fu082jxysta4nmv3?from=timeline&isappinstalled=0) | 14薪 健身房 自由氛围 亿级用户的产品 | [yanweiquan@etouch.cn](mailto:yanweiquan@etouch.cn "有效期至 2014-12-31")
+待定 |  |  |  |
 
 ####成都
 公司  | JD 地址 | 一句话诱惑 | 联系人
