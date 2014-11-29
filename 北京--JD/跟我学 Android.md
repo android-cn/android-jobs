@@ -33,4 +33,4 @@ Android高级工程师
 
 #### 联系方式：
 
-[zubin.jiang@gmail.com](mailto:ubin.jiang@gmail.com)
+[zubin.jiang@gmail.com](mailto:zubin.jiang@gmail.com)
