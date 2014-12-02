@@ -42,6 +42,11 @@ Android 全国职位列表
 :------------- | :------------- | :-------------  | :-------------
 阿里 | [支付宝 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%B7%B1%E5%9C%B3--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
+#### 珠海
+公司  | JD 地址 | 一句话诱惑 | 联系人
+:------------- | :------------- | :-------------  | :-------------
+猎豹 | [猎豹 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%B7%B1%E5%9C%B3--JD/%E9%98%BF%E9%87%8C%20Android.md) | 不服雾!有食堂!走路上班! | [yangyuting@cmcm.com](mailto:yangyuting@cmcm.com"有效期至 2015-12-31")
+
 ####广东
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
