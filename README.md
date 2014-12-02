@@ -23,6 +23,7 @@ Android 全国职位列表
 空空科技 | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/空空科技%20Android.md) | 期权 技术大牛坐镇 移动社交等方向  | [hr@kongkong-inc.com](mailto:hr@kongkong-inc.com "有效期至 2014-12-31")
 考拉FM | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%80%83%E6%8B%89FM%20Android.md) | 听我不同 车载音频NO.1  | [crazier9527@gmail.com](mailto:crazier9527@gmail.com "有效期至 2015-12-31")
 跟我学 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B7%9F%E6%88%91%E5%AD%A6%20Android.md) | 期权 团建 晋升机会大 弹性上下班| [zubin.jiang@gmail.com](mailto:zubin.jiang@gmail.com "有效期至 2014-12-31")
+神剧 | [Android 开发](https://github.com/AllenDang/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%A5%9E%E5%89%A7%20Android.md) | A轮 妹子多 零食多 期权 弹性上下班 | [hr@shanpow.com](mailto:hr@shanpow.com "有效期至2015-12-31")
 
 
 ####上海
