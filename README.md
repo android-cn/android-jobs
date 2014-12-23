@@ -67,7 +67,7 @@ CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%
 ####成都
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-待定 |  |  |  |
+正欣德 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E6%88%90%E9%83%BD--JD/%E6%AD%A3%E6%AC%A3%E5%BE%B7%20Android.md) | 15薪+出国旅游 | [harteyang@gmail.com](mailto:harteyang@gmail.com "有效期至 2015-01-31")
 
 ####武汉
 公司  | JD 地址 | 一句话诱惑 | 联系人
