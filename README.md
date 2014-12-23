@@ -1,9 +1,9 @@
 Android 全国职位列表  
 ==========  
-**我们相信来到这里的，无论工程师还是招聘者都是靠谱的!!!**  
+**我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  
 
-> 招聘者：欢迎[添加职位](# "Fork 后修改直接 Commit 即可")，不过请遵守[规范](https://github.com/android-cn/android-recruitment/wiki "查看添加和编辑规范")。欢迎`Star`、`Fork`  
-> 求职者：`Watch` 这个项目，当有新职位发布时会收到邮件通知并出现在你的 New Feed 中  
+> 招聘者：欢迎按照规范[添加职位](https://github.com/android-cn/android-recruitment/wiki "查看职位添加步骤和规范")。欢迎`Star`、`Fork`  
+> 求职者：`Watch` 这个项目，当有新职位发布时会收到在你的通知中心、New Feed 以及邮件中收到通知  
 > 分享：<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2Fandroid-cn%2Fandroid-jobs
 &title=%E8%BF%99%E9%87%8C%E6%98%AF+Android+%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8B%9B%E8%81%98%E5%8C%BA%E5%9F%9F%EF%BC%8C%E8%BF%99%E9%87%8C%E6%9C%89%E6%9C%80%E9%85%B7%E6%9C%80+Geek+%E7%9A%84%E8%81%8C%E4%BD%8D%EF%BC%8C%E8%BF%99%E9%87%8C%E6%9C%89%E4%BD%A0%E6%83%B3%E8%A6%81%E5%92%8C%E7%AD%89%E4%BD%A0%E7%9A%84%E4%BA%BA%EF%BC%81%E6%AC%A2%E8%BF%8E%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E6%8B%9B%E8%81%98%E8%81%8C%E4%BD%8D+%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/>  
 
@@ -11,7 +11,7 @@ Android 全国职位列表
 
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93%20Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
 豌豆荚 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B1%8C%E8%B1%86%E8%8D%9A%20Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
 魔方天空 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/魔方天空%20Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2015-7-31")
@@ -30,7 +30,7 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 安居客 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E5%AE%89%E5%B1%85%E5%AE%A2%20Android.md) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2014-12-31")
-阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 薄荷 | [Android 开发](http://www.boohee.com/boohee/zhaopin.htm#at10) | 妹子多 13薪 自由的做技术| [zhangqi@boohee.com](mailto:zhangqi@boohee.com "有效期至 2015-12-31")
 哔哩哔哩 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/bilibili%20Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2014-12-31")
 爱吧婚恋 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%88%B1%E5%90%A7%E5%A9%9A%E6%81%8B%20Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2014-12-31")
@@ -40,7 +40,7 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 ####深圳
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [支付宝 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%B7%B1%E5%9C%B3--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [支付宝 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%B7%B1%E5%9C%B3--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 #### 珠海
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -56,7 +56,7 @@ CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%
 ####杭州
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-阿里 | [阿里集团 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E9%98%BF%E9%87%8C%20Android.md) | 薪水及发的月份不知道上限!! | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [阿里集团 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 多听 | [FM/V电台 Android](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 
 ####南京
