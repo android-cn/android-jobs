@@ -25,4 +25,4 @@
 7. 对移动产品有浓厚兴趣。  
 
 ####联系方式
-[hr@iscs.com.cn](mailto:hr@iscs.com.cn)
+[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) 对，这是 [Trinea](https://github.com/Trinea) 邮箱，因为这是她妹子公司
