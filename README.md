@@ -8,9 +8,8 @@ Android 全国职位列表
 &title=%E8%BF%99%E9%87%8C%E6%98%AF+Android+%E8%87%AA%E5%B7%B1%E7%9A%84%E6%8B%9B%E8%81%98%E5%8C%BA%E5%9F%9F%EF%BC%8C%E8%BF%99%E9%87%8C%E6%9C%89%E6%9C%80%E9%85%B7%E6%9C%80+Geek+%E7%9A%84%E8%81%8C%E4%BD%8D%EF%BC%8C%E8%BF%99%E9%87%8C%E6%9C%89%E4%BD%A0%E6%83%B3%E8%A6%81%E5%92%8C%E7%AD%89%E4%BD%A0%E7%9A%84%E4%BA%BA%EF%BC%81%E6%AC%A2%E8%BF%8E%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E6%8B%9B%E8%81%98%E8%81%8C%E4%BD%8D+%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="分享到新浪微博" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="分享到新浪微博"/>  
 
 ### 目录
-[北京](https://github.com/android-cn/android-jobs#bei-jing)  [上海](https://github.com/android-cn/android-jobs#bei-jing)  [深圳](https://github.com/android-cn/android-jobs#shen-zhen)  [杭州](https://github.com/android-cn/android-jobs#hang-zhou)  [广东](https://github.com/android-cn/android-jobs#guang-dong)  [珠海](https://github.com/android-cn/android-jobs#zhu-hai)  
-[成都](https://github.com/android-cn/android-jobs#cheng-du)  [武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  [东莞](https://github.com/android-cn/android-jobs#dong-guan)  [厦门](https://github.com/android-cn/android-jobs#xia-men)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  
-[西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
+[北京](https://github.com/android-cn/android-jobs#bei-jing)  [上海](https://github.com/android-cn/android-jobs#shang-hai)  [深圳](https://github.com/android-cn/android-jobs#shen-zhen)  [杭州](https://github.com/android-cn/android-jobs#hang-zhou)  [广东](https://github.com/android-cn/android-jobs#guang-dong)  [珠海](https://github.com/android-cn/android-jobs#zhu-hai)  [成都](https://github.com/android-cn/android-jobs#cheng-du)  [武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  
+[东莞](https://github.com/android-cn/android-jobs#dong-guan)  [厦门](https://github.com/android-cn/android-jobs#xia-men)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  [西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
 
 ####Bei Jing
 
