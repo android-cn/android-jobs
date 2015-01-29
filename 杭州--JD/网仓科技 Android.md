@@ -21,8 +21,8 @@
 3. 熟悉 Java 语言，了解 Android 的运行机制；  
 4. 熟悉 Android 开发技术、开发工具和相关开发测试工具的使用；  
 5. 有良好的代码习惯，要求结构清晰，命名规范；  
-6. 对移动产品有浓厚兴趣，  
-7.掌握 UML 和面向对象的分析设计工具加分。   
+6. 对移动产品有浓厚兴趣；  
+7. 掌握 UML 和面向对象的分析设计工具加分。   
 
 ####联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) 对，这是 [Trinea](https://github.com/Trinea) 邮箱，因为这是他妹子公司
