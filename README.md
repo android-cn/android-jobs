@@ -50,8 +50,9 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-阿里 | [阿里集团 Android](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-多听 | [FM/V电台 Android](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
+阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")  
+多听 | [Android 开发](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
+网仓科技 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E6%9D%AD%E5%B7%9E--JD/%E7%BD%91%E4%BB%93%E7%A7%91%E6%8A%80%20Android.md) | 不加班、天使轮、核心业务、妹子多 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Guang Dong
 公司  | JD 地址 | 一句话诱惑 | 联系人
