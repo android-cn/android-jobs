@@ -32,7 +32,7 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 一起玩耍 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E4%B8%80%E8%B5%B7%E7%8E%A9%E8%80%8D%20Android.md) | 一起上路，打怪升级，有肉偿 | [lianxiang@wan123.tv](mailto:lianxiang@wan123.tv "有效期至 2015-12-31")
 手表控 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%89%8B%E8%A1%A8%E6%8E%A7%EF%BC%88%E4%B9%90%E5%8A%A8%E5%8A%9B%EF%BC%89%20Android.md) | 运动健康专家 智能穿戴 A轮期权13薪 | [new_hero@ledongli.me](mailto:new_hero@ledongli.me "有效期至 2015-12-31")
 美团 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%BE%8E%E5%9B%A2%20Android.md) | 高薪，技术氛围好，随时上市 | [flyouting@gmail.com](mailto:flyouting@gmail.com "有效期至 2015-12-31")
-创新工场(易遨) | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%98%93%E9%81%A8%20-%20Android.md) | 技术成长，弹性上下班 | [sunpengshuai@eallcn.com](mailto:sunpengshuai@eallcn.com "有效期至 2015-12-31")
+易遨 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%98%93%E9%81%A8%20-%20Android.md) | 创新工场旗下 技术成长 弹性上下班 | [sunpengshuai@eallcn.com](mailto:sunpengshuai@eallcn.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
