@@ -44,7 +44,7 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 爱吧婚恋 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%88%B1%E5%90%A7%E5%A9%9A%E6%81%8B%20Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2014-12-31")
 乔布简历 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E4%B9%94%E5%B8%83%E7%AE%80%E5%8E%86%20Android.md) | A轮 弹性上班 薪水视能力定 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 微盟 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E5%BE%AE%E7%9B%9FWeimob%20Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
-电视猫 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%94%B5%E8%A7%86%E7%8C%AB%E5%85%AC%E5%8F%B8%20Android.md) | 25W 左右，开放，发展迅速，空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
+电视猫 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E7%94%B5%E8%A7%86%E7%8C%AB%E5%85%AC%E5%8F%B8%20Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
 
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
