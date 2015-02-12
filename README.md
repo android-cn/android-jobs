@@ -18,7 +18,6 @@ Android 全国职位列表
 阿里 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93%20Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
 豌豆荚 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B1%8C%E8%B1%86%E8%8D%9A%20Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
-穷游网 | [Android 开发](http://www.qyer.com/job/vacancies.html#pos92) | 13薪+季度奖+MacBook+海外旅行年会(14年普吉岛狂欢7天)| [tom5953@163.com](mailto:tom5953@163.com "有效期至 2015-12-31")
 快乐迭代 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/快乐迭代-Android.md) | 工程师做主 务实的geeks 丰厚期权 | [wuzhe@bobo.me](mailto:wuzhe@bobo.me "有效期至 2015-12-31")
 魔方天空 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/魔方天空%20Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2015-7-31")
 幻腾[已满] | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/北京--JD/幻腾智能%20Android.md) | 清华校内 智能家居 Geek轻松| [join.us@hhttech.com](mailto:join.us@hhttech.com "有效期至 2014-12-31")  
@@ -33,6 +32,7 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 手表控 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%89%8B%E8%A1%A8%E6%8E%A7%EF%BC%88%E4%B9%90%E5%8A%A8%E5%8A%9B%EF%BC%89%20Android.md) | 运动健康专家 智能穿戴 A轮期权13薪 | [new_hero@ledongli.me](mailto:new_hero@ledongli.me "有效期至 2015-12-31")
 美团 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%BE%8E%E5%9B%A2%20Android.md) | 高薪，技术氛围好，随时上市 | [flyouting@gmail.com](mailto:flyouting@gmail.com "有效期至 2015-12-31")
 易遨 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%98%93%E9%81%A8%20-%20Android.md) | 创新工场旗下 技术成长 弹性上下班 | [sunpengshuai@eallcn.com](mailto:sunpengshuai@eallcn.com "有效期至 2015-12-31")
+穷游网 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%A9%B7%E6%B8%B8%E7%BD%91%20Android.md) | 13薪 季度奖 Mac [14年普吉岛狂欢7天](# "海外旅行年会")| [tom5953@163.com](mailto:tom5953@163.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
