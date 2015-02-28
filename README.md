@@ -33,7 +33,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 美团 | [Android 开发](./北京--JD/美团 Android.md) | 高薪，技术氛围好，随时上市 | [flyouting@gmail.com](mailto:flyouting@gmail.com "有效期至 2015-12-31")
 易遨 | [Android 开发](./北京--JD/易遨 Android.md) | 创新工场旗下 技术成长 弹性上下班 | [sunpengshuai@eallcn.com](mailto:sunpengshuai@eallcn.com "有效期至 2015-12-31")
 穷游网 | [Android 开发](./北京--JD/穷游网 Android.md) | 14薪 季度奖 Mac [国外团建&年会](http://v.youku.com/v_show/id_XODg3MTkzMzY0.html?from=y1.2-1-94.3.1-1.1-1-1-0)| [tom5953@163.com](mailto:tom5953@163.com "有效期至 2015-12-31")
-小间科技 | [Android / J2EE](./北京--JD/小间科技 Android-Java 服务端.md) | 高速发展 项目奖金 足够成长空间 | [95143848@qq.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+小间科技 | [Android J2EE](./北京--JD/小间科技 Android-Java 服务端.md) | 高速发展 项目奖金 足够成长空间 | [95143848@qq.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
