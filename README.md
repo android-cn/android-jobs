@@ -15,7 +15,7 @@ Android 全国职位列表
 
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [Android 开发](./%E5%8C%97%E4%BA%AC--JD/%E9%98%BF%E9%87%8C%20Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+阿里 | [Android 开发](./北京--JD/阿里 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%99%BE%E5%BA%A6%E7%9F%A5%E9%81%93%20Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
 豌豆荚 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B1%8C%E8%B1%86%E8%8D%9A%20Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
 快乐迭代 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/快乐迭代-Android.md) | 工程师做主 务实的geeks 丰厚期权 | [wuzhe@bobo.me](mailto:wuzhe@bobo.me "有效期至 2015-12-31")
