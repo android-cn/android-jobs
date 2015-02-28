@@ -33,6 +33,7 @@ YOU+ | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%
 美团 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%BE%8E%E5%9B%A2%20Android.md) | 高薪，技术氛围好，随时上市 | [flyouting@gmail.com](mailto:flyouting@gmail.com "有效期至 2015-12-31")
 易遨 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E6%98%93%E9%81%A8%20-%20Android.md) | 创新工场旗下 技术成长 弹性上下班 | [sunpengshuai@eallcn.com](mailto:sunpengshuai@eallcn.com "有效期至 2015-12-31")
 穷游网 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%A9%B7%E6%B8%B8%E7%BD%91%20Android.md) | 14薪 季度奖 Mac [国外团建&年会](http://v.youku.com/v_show/id_XODg3MTkzMzY0.html?from=y1.2-1-94.3.1-1.1-1-1-0)| [tom5953@163.com](mailto:tom5953@163.com "有效期至 2015-12-31")
+小间科技 | [Android 开发/JAVA 服务端开发](https://github.com/ltzMaxwell/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E5%B0%8F%E9%97%B4%E7%A7%91%E6%8A%80%20Android:JAVA%20%E6%9C%8D%E5%8A%A1%E7%AB%AF.md) | 高速发展 项目奖金 足够成长空间 | [95143848@qq.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
