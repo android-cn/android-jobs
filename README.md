@@ -34,6 +34,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 易遨 | [Android 开发](./北京--JD/易遨 Android.md) | 创新工场旗下 技术成长 弹性上下班 | [sunpengshuai@eallcn.com](mailto:sunpengshuai@eallcn.com "有效期至 2015-12-31")
 穷游网 | [Android 开发](./北京--JD/穷游网 Android.md) | 14薪 季度奖 Mac [国外团建&年会](http://v.youku.com/v_show/id_XODg3MTkzMzY0.html?from=y1.2-1-94.3.1-1.1-1-1-0)| [tom5953@163.com](mailto:tom5953@163.com "有效期至 2015-12-31")
 小间科技 | [Android J2EE](./北京--JD/小间科技 Android-Java 服务端.md) | 高速发展 项目奖金 足够成长空间 | [95143848@qq.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+新浪微博私信 | [Android 开发](./北京--JD/微博私信 Android.md) | 技术氛围浓厚 开春每周有足球 | [shuangquan@staff.weibo.com](mailto:shuangquan@staff.weibo.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
