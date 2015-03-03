@@ -66,6 +66,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 :------------- | :------------- | :-------------  | :-------------
 CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/) | 13薪+季度奖+年终奖+很多软妹子！| [renzhibin@cvte.cn](mailto:renzhibin@cvte.cn "有效期至 2014-12-31")  
 广州经传 | [Android 项目经理](./广州--JD/广州经传 Android.md) | 提前兑现期权，领导好，扁平化，美女多 | [yijshu@gmail.com](mailto:yijshu@gmail.com "有效期至 2015-12-31")  
+广州9377 | [Android 开发](./广州--JD/广州 9377 Android.md) | 高薪，成长型 | [zhhanguo@qq.com](mailto:zhhanguo@qq.com "有效期至 2015-12-31")
 
 ####Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
