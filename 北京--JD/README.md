@@ -1,5 +1,5 @@
 ####1. 新添加文件
-格式如下，语法是[MarkDown 语法](https://github.com/android-cn/blog/blob/master/dev-tool/markdown.md)  
+格式如下，语法是 [MarkDown 语法](https://github.com/android-cn/blog/blob/master/dev-tool/markdown.md)  
 ```
 XX 公司 Android 高级工程师
 ==========
