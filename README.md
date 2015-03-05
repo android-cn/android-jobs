@@ -20,13 +20,12 @@ Android 全国职位列表
 豌豆荚 | [Android 开发](./北京--JD/豌豆荚 Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
 快乐迭代 | [Android 开发](./北京--JD/快乐迭代 Android.md) | 工程师做主 务实的geeks 丰厚期权 | [wuzhe@bobo.me](mailto:wuzhe@bobo.me "有效期至 2015-12-31")
 魔方天空 | [Android 开发](./北京--JD/魔方天空 Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2015-7-31")
-幻腾[已满] | [Android 开发](./北京--JD/幻腾智能 Android.md) | 清华校内 智能家居 Geek轻松| [join.us@hhttech.com](mailto:join.us@hhttech.com "有效期至 2014-12-31")  
 朱李叶 | [Android 开发](./北京--JD/朱李叶 Android.md) | 健康医疗创业 成长空间 资金稳定 | [tangren@zlycare.com](mailto:tangren@zlycare.com "有效期至 2015-12-31")
-千鱼教育 | [Android 开发](./北京--JD/千鱼教育 Android.md) | 16薪 年终奖金 足够成长空间 | [tangxinghua@iyuanzi.com](mailto:tangxinghua@iyuanzi.com "有效期至 2014-12-31")
-点名时间 | [Android 开发](./北京--JD/点名时间 Android.md) | 智能新品预购平台 年终奖  | [handong@demohour.com](mailto:handong@demohour.com "有效期至 2014-12-31")
+千鱼教育 | [Android 开发](./北京--JD/千鱼教育 Android.md) | 16薪 年终奖金 足够成长空间 | [tangxinghua@iyuanzi.com](mailto:tangxinghua@iyuanzi.com "有效期至 2015-12-31")
+点名时间 | [Android 开发](./北京--JD/点名时间 Android.md) | 智能新品预购平台 年终奖  | [handong@demohour.com](mailto:handong@demohour.com "有效期至 2015-12-31")
 YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http://weibo.com/1749127163/Bykq35t22)，全员配期权  | [liusong@youplus.cc](mailto:liusong@youplus.cc "有效期至 2015-07-31")
 考拉 FM | [Android 开发](./北京--JD/考拉FM Android.md) | 听我不同 车载音频NO.1  | [crazier9527@gmail.com](mailto:crazier9527@gmail.com "有效期至 2015-12-31")
-跟我学 | [Android 开发](./北京--JD/跟我学 Android.md) | 期权 团建 晋升机会大 弹性上下班| [zubin.jiang@gmail.com](mailto:zubin.jiang@gmail.com "有效期至 2014-12-31")
+跟我学 | [Android 开发](./北京--JD/跟我学 Android.md) | 期权 团建 晋升机会大 弹性上下班| [zubin.jiang@gmail.com](mailto:zubin.jiang@gmail.com "有效期至 2015-12-31")
 神剧 | [Android 开发](./北京--JD/神剧 Android.md) | A轮 妹子多 零食多 期权 弹性上下班 | [hr@shanpow.com](mailto:hr@shanpow.com "有效期至2015-12-31")
 一起玩耍 | [Android 开发](./北京--JD/一起玩耍 Android.md) | 一起上路，打怪升级，有肉偿 | [lianxiang@wan123.tv](mailto:lianxiang@wan123.tv "有效期至 2015-12-31")
 手表控 | [Android 开发](./北京--JD/手表控（乐动力） Android.md) | 运动健康专家 智能穿戴 A轮期权13薪 | [new_hero@ledongli.me](mailto:new_hero@ledongli.me "有效期至 2015-12-31")
@@ -41,11 +40,11 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-安居客 | [Android 开发](./上海--JD/安居客 Android.md) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2014-12-31")
+安居客 | [Android 开发](./上海--JD/安居客 Android.md) | 13薪 季度奖金 足够成长空间 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里 | [Android 开发](./上海--JD/阿里 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 薄荷科技 | [Android 工程师](./上海--JD/薄荷 Android.md) | B轮 弹性工作制 妹子多 技术成长| [zhangqi@boohee.com](mailto:zhangqi@boohee.com "有效期至 2015-12-31")
-哔哩哔哩 | [Android 开发](./上海--JD/bilibili Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2014-12-31")
-爱吧婚恋 | [Android 开发](./上海--JD/爱吧婚恋 Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2014-12-31")
+哔哩哔哩 | [Android 开发](./上海--JD/bilibili Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2015-12-31")
+爱吧婚恋 | [Android 开发](./上海--JD/爱吧婚恋 Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2015-12-31")
 乔布简历 | [Android 开发](./上海--JD/乔布简历 Android.md) | A轮 弹性上班 薪水视能力定 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 微盟 | [Android 开发](./上海--JD/微盟Weimob Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
@@ -65,9 +64,9 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 ####Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/) | 13薪+季度奖+年终奖+很多软妹子！| [renzhibin@cvte.cn](mailto:renzhibin@cvte.cn "有效期至 2014-12-31")  
-广州经传 | [Android 项目经理](./广州--JD/广州经传 Android.md) | 提前兑现期权，领导好，扁平化，美女多 | [yijshu@gmail.com](mailto:yijshu@gmail.com "有效期至 2015-12-31")  
-广州9377 | [Android 开发](./广州--JD/广州 9377 Android.md) | 高薪，成长型 | [zhhanguo@qq.com](mailto:zhhanguo@qq.com "有效期至 2015-12-31")
+经传科技 | [Android 项目经理](./广州--JD/经传 Android.md) | 提前兑现期权，领导好，扁平化，美女多 | [yijshu@gmail.com](mailto:yijshu@gmail.com "有效期至 2015-12-31")  
+9377游戏 | [Android 开发](./广州--JD/9377 Android.md) | 高薪，成长型 | [zhhanguo@qq.com](mailto:zhhanguo@qq.com "有效期至 2015-12-31")
+极飞 | [Android 开发](./广州--JD/极飞 Android.md) | 民用无人飞机研发制造 | [xieanping@xair.cn](mailto:xieanping@xair.cn "有效期至 2015-12-31")
 
 ####Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -87,7 +86,6 @@ CVTE | [Android 开发](http://hr.cvte.cn/android%E5%BA%94%E7%94%A8%E5%BC%80%E5%
 ####Wu Han
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-AcFun | [iOS 开发/测试](./武汉--JD/AcFun iOS.md) | 二次元文化 武汉地区极有竞争力的薪酬 | [jobs@acfun.tv](mailto:jobs@acfun.tv "有效期至 2014-12-31")
 
 ####Dong Guan
 公司  | JD 地址 | 一句话诱惑 | 联系人

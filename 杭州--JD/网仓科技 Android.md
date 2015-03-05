@@ -1,5 +1,6 @@
 网仓科技公司 Android 工程师
 ==========  
+
 ####公司简介
 浙江网仓科技有限公司是一家**电商第三方精细化仓配一体化服务提供商**。  
 从整体电商供应链的角度出发，为客户提供电商仓储仓配业务流程改造、电商仓库内部设备集成、电商仓储配送系统开发与实施、流程与操作辅导、电商供应链协同效应改善、分析及追踪等服务及支持。  
@@ -25,4 +26,4 @@
 7. 掌握 UML 和面向对象的分析设计工具加分。   
 
 ####联系方式
-[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) 对，这是 [Trinea](https://github.com/Trinea) 邮箱，因为这是他妹子公司
+[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) 对，这是 [Trinea](https://github.com/Trinea)   
