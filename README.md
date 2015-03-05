@@ -36,6 +36,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 小间科技 | [Android J2EE](./北京--JD/小间科技 Android-Java 服务端.md) | 高速发展 项目奖金 足够成长空间 | [95143848@qq.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")  
 微博微博私信 | [Android 开发](./北京--JD/微博私信 Android.md) | 技术氛围浓厚 开春每周有足球 | [shuangquan@staff.weibo.com](mailto:shuangquan@staff.weibo.com "有效期至 2015-12-31")
 萝卜科技 | [Android 开发](./北京--JD/萝卜科技 Android.md) | 期权奖励 福利好 美女陪写 弹性上班 | [yangxin@roo.bo](mailto:yangxin@roo.bo "有效期至 2015-12-31")  
+贵学教育 | [Android 开发](./北京--JD/贵学教育 Android.md) | 冲着上市去的 弹性上班 | [346870986@qq.com](mailto:346870986@qq.com "有效期至 2015-12-31")  
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
