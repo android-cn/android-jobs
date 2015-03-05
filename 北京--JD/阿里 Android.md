@@ -6,7 +6,7 @@
 阿里其他职位请到 [阿里巴巴集团招聘](http://job.alibaba.com/zhaopin/position_list.htm) 搜索后，简历加职位链接到 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)   
 
 ####目录
-[北京](http://www.codekk.com/jobs/detail/%E5%8C%97%E4%BA%AC/%E9%98%BF%E9%87%8C/Android%20%E5%BC%80%E5%8F%91) [杭州](http://localhost:3000/jobs/detail/%E6%9D%AD%E5%B7%9E/%E9%98%BF%E9%87%8C/Android%20%E5%BC%80%E5%8F%91) [上海](http://localhost:3000/jobs/detail/%E4%B8%8A%E6%B5%B7/%E9%98%BF%E9%87%8C/Android%20%E5%BC%80%E5%8F%91) [深圳](http://localhost:3000/jobs/detail/%E6%B7%B1%E5%9C%B3/%E9%98%BF%E9%87%8C/%E6%94%AF%E4%BB%98%E5%AE%9D%20Android)  
+[北京](http://www.codekk.com/jobs/detail/%E5%8C%97%E4%BA%AC/%E9%98%BF%E9%87%8C/Android%20%E5%BC%80%E5%8F%91) [杭州](http://www.codekk.com/jobs/detail/%E6%9D%AD%E5%B7%9E/%E9%98%BF%E9%87%8C/Android%20%E5%BC%80%E5%8F%91) [上海](http://www.codekk.com/jobs/detail/%E4%B8%8A%E6%B5%B7/%E9%98%BF%E9%87%8C/Android%20%E5%BC%80%E5%8F%91) [深圳](http://www.codekk.com/jobs/detail/%E6%B7%B1%E5%9C%B3/%E9%98%BF%E9%87%8C/%E6%94%AF%E4%BB%98%E5%AE%9D%20Android)  
 
 ###北京职位
 ####一. 蚂蚁金服(支付宝) Android 中高级开发  
