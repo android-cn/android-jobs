@@ -26,6 +26,6 @@
 6. 了解第三方开发平台集成，如地图、支付等；   
 
 ####联系方式：
-姓名：吴先生
-邮箱：[barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn)
-QQ: 1585403173
+姓名：吴先生  
+邮箱：[barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn)  
+QQ: 1585403173  

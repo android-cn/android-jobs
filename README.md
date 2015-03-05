@@ -48,7 +48,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 乔布简历 | [Android 开发](./上海--JD/乔布简历 Android.md) | A轮 弹性上班 薪水视能力定 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 微盟 | [Android 开发](./上海--JD/微盟Weimob Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
-松明屋 | [Android 开发](./上海--JD/松明屋 Android.md) | 健康服务业 技术自主权大 资金稳定 | [barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn "有效期至 2015-12-31")
+松明屋 | [Android 开发](./上海--JD/松明屋 Android.md) | 健康服务业 技术自主选 资金稳定 | [barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn "有效期至 2015-12-31")
 
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
