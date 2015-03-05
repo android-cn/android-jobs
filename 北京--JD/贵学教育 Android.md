@@ -12,7 +12,7 @@
 * 2年以上Android平台开发经验，完整开发过一个以上的Android客户端；
 * 精通Android UI布局，精通不同分辨率适配、多线程等
 * 熟悉HTTP通讯协议、深刻理解Restful API，熟悉JSON数据格式
-* 有图片、音频等应用开发经验
+* 有音频应用开发经验
 
 #####加分项
 * 熟悉Android OS系统体系结构、framwork及底层库
