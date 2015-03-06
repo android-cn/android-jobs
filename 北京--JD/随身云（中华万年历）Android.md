@@ -1,6 +1,8 @@
-随身云（中华万年历），移动互联网公司，B轮融资结束，业务扩大，急需大量优秀人才！
 Android开发工程师
 ==========  
+####公司简介
+随身云（中华万年历），移动互联网公司，B轮融资结束，业务扩大，急需大量优秀人才！  
+
 ####工作职责  
 - Android软件的设计、开发、系统调优；
 - 辅助进行系统的功能定义,程序设计； 
@@ -24,7 +26,4 @@ Android开发工程师
   
 ####联系方式  
 邮件标题：（Github）应聘android_《你的姓名》  
-发送邮箱：[h-resume@etouch.cn](mailto:h-resume@etouch.cn)  
-
-####了解更多公司招聘信息，请移步至
-[http://www.lagou.com/gongsi/1826.html?speedShow=true](http://www.lagou.com/gongsi/1826.html?speedShow=true)
+发送邮箱：[h-resume@etouch.cn](mailto:h-resume@etouch.cn)
