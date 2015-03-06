@@ -36,7 +36,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 微博微博私信 | [Android 开发](./北京--JD/微博私信 Android.md) | 技术氛围浓厚 开春每周有足球 | [shuangquan@staff.weibo.com](mailto:shuangquan@staff.weibo.com "有效期至 2015-12-31")
 萝卜科技 | [Android 开发](./北京--JD/萝卜科技 Android.md) | 期权奖励 福利好 美女陪写 弹性上班 | [yangxin@roo.bo](mailto:yangxin@roo.bo "有效期至 2015-12-31")  
 贵学教育 | [Android 开发](./北京--JD/贵学教育 Android.md) | 冲着上市去的 弹性上班 | [346870986@qq.com](mailto:346870986@qq.com "有效期至 2015-12-31")  
-随身云（中华万年历） | [Android 开发](./北京--JD/随身云（中华万年历）Android.md) | 高薪聘技术大神，一起开天辟地！ | [h-resume@etouch.cn](mailto:h-resume@etouch.cn "有效期至 2015-12-31")  
+中华万年历 | [Android 开发](./北京--JD/随身云（中华万年历）Android.md) | 高薪聘技术大神，一起开天辟地！ | [h-resume@etouch.cn](mailto:h-resume@etouch.cn "有效期至 2015-12-31")  
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
