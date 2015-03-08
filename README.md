@@ -6,7 +6,7 @@ Android 全国职位列表
 
 **招聘者：** 欢迎按照规范 [添加职位](https://github.com/android-cn/android-recruitment/wiki "查看职位添加步骤和规范")  
 
-**求职者：**  关注我们的微信：codekk，接收最新职位通知。二维码如下：  
+**求职者：**  关注我们的微信公众号 codekk，接收最新职位通知。二维码如下：  
  ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
  或`Watch`这个项目接收新职位通知  
  
