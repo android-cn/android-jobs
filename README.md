@@ -2,13 +2,11 @@ Android 全国职位列表
 ==========  
 **我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  
 
-**我们的网页版：[www.codekk.com](http://www.codekk.com/jobs)**
+> 我们的网页版：[www.codekk.com](http://www.codekk.com/jobs)
 
-**招聘者：**  
-> 欢迎按照规范 [添加职位](https://github.com/android-cn/android-recruitment/wiki "查看职位添加步骤和规范")  
+**招聘者：** 欢迎按照规范 [添加职位](https://github.com/android-cn/android-recruitment/wiki "查看职位添加步骤和规范")  
 
-**求职者：**  
-> 关注我们的微信：codekk，接收最新职位通知。二维码如下：  
+**求职者：**  关注我们的微信：codekk，接收最新职位通知。二维码如下：  
  ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
  或`Watch`这个项目接收新职位通知  
  
