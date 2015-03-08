@@ -4,9 +4,14 @@ Android 全国职位列表
 
 **我们的网页版：[www.codekk.com](http://www.codekk.com/jobs)**
 
-> 招聘者：欢迎按照规范 [添加职位](https://github.com/android-cn/android-recruitment/wiki "查看职位添加步骤和规范")  
-> 求职者：`Watch`这个项目，当有新职位发布时会在你的通知中心、New Feed 及邮件中收到通知  
+**招聘者：**  
+> 欢迎按照规范 [添加职位](https://github.com/android-cn/android-recruitment/wiki "查看职位添加步骤和规范")  
 
+**求职者：**  
+> 关注我们的微信：codekk，接收最新职位通知。二维码如下：  
+ ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
+ 或`Watch`这个项目接收新职位通知  
+ 
 ### 目录
 [北京](https://github.com/android-cn/android-jobs#bei-jing)  [上海](https://github.com/android-cn/android-jobs#shang-hai)  [深圳](https://github.com/android-cn/android-jobs#shen-zhen)  [杭州](https://github.com/android-cn/android-jobs#hang-zhou)  [广州](https://github.com/android-cn/android-jobs#guang-zhou)  [珠海](https://github.com/android-cn/android-jobs#zhu-hai)  [成都](https://github.com/android-cn/android-jobs#cheng-du)  [武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  
 [东莞](https://github.com/android-cn/android-jobs#dong-guan)  [厦门](https://github.com/android-cn/android-jobs#xia-men)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  [西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
