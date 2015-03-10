@@ -40,6 +40,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 萝卜科技 | [Android 开发](./北京--JD/萝卜科技 Android.md) | 期权奖励 福利好 美女陪写 弹性上班 | [yangxin@roo.bo](mailto:yangxin@roo.bo "有效期至 2015-12-31")  
 贵学教育 | [Android 开发](./北京--JD/贵学教育 Android.md) | 冲着上市去的 弹性上班 | [346870986@qq.com](mailto:346870986@qq.com "有效期至 2015-12-31")  
 中华万年历 | [Android 开发](./北京--JD/随身云（中华万年历）Android.md) | 高薪聘技术大神，一起开天辟地！ | [h-resume@etouch.cn](mailto:h-resume@etouch.cn "有效期至 2015-12-31")  
+蚂蜂窝 | [Android 开发](./北京--JD/蚂蜂窝 Android.md) | 男女比率1:1,Mac,高薪 | [wenhao@mafengwo.com](mailto:wenhao@mafengwo.com "有效期至 2015-12-31") 
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -51,7 +52,8 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 乔布简历 | [Android 开发](./上海--JD/乔布简历 Android.md) | A轮 弹性上班 薪水视能力定 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 微盟 | [Android 开发](./上海--JD/微盟Weimob Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
-松明屋 | [Android 开发](./上海--JD/松明屋 Android.md) | 健康服务业 技术自主选 资金稳定 | [barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn "有效期至 2015-12-31")
+松明屋 | [Android 开发](./上海--JD/松明屋 Android.md) | 健康服务业 技术自主选 资金稳定 | [barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn "有效期至 2015-12-31") 
+饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 弹性工作 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
 
 ####Shen Zhen
