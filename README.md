@@ -60,6 +60,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 阿里 | [支付宝 Android](./深圳--JD/阿里 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+多彩人生 | [Android 开发](./深圳--JD/多彩人生 Android.md) | 高奖金、分股权、扁平管理 | [hr@varicom.cn](mailto:hr@varicom.cn "有效期至 2015-12-31")
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
