@@ -56,7 +56,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 松明屋 | [Android 开发](./上海--JD/松明屋 Android.md) | 健康服务业 技术自主选 资金稳定 | [barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn "有效期至 2015-12-31") 
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 弹性工作 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
-快的 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+快的打车 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -71,7 +71,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 多听 | [Android 开发](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 网仓科技 | [Android 开发](./杭州--JD/网仓科技 Android.md) | 不加班、天使轮、核心业务、妹子多 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 网易LOFTER | [Android 开发](./杭州--JD/网易LOFTER Android.md) | 有技术追求的伙伴 | [shi-qiang@corp.netease.com](mailto:shi-qiang@corp.netease.com "有效期至 2015-12-31")
-快的 | [Android 开发](./杭州--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+快的打车 | [Android 开发](./杭州--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
