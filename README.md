@@ -43,6 +43,8 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 蚂蜂窝 | [Android 开发](./北京--JD/蚂蜂窝 Android.md) | 男女比率1:1,Mac,高薪 | [wenhao@mafengwo.com](mailto:wenhao@mafengwo.com "有效期至 2015-12-31") 
 233 手游直播 | [Android 开发](./北京--JD/233 手游直播 Android.md) | 和这个星球上的其他用户实时分享你那块原本孤独的屏幕 | [crossle@shou.tv](mailto:crossle@shou.tv "有效期至 2016-12-31") 
 滴滴打车 | [Android 开发](./北京--JD/滴滴打车 Android.md) | 高薪、期权及有技术追求的伙伴 | [zhangjiantao@diditaxi.com.cn](mailto:zhangjiantao@diditaxi.com.cn "有效期至 2015-12-31")
+一起吃 | [Android 开发](https://github.com/bboyfeiyu/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E4%B8%80%E8%B5%B7%E5%90%83%20Android.md) | 氛围好，期权，高薪，专业团队 | [hr@yiqichi.cc](mailto:hr@yiqichi.cc "有效期至 2015-12-31")     
+
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
