@@ -49,7 +49,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 阿里 | [Android 开发](./上海--JD/阿里 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-薄荷科技 | [Android 工程师](./上海--JD/薄荷 Android.md) | B轮 弹性工作制 妹子多 技术成长| [zhangqi@boohee.com](mailto:zhangqi@boohee.com "有效期至 2015-12-31")
+薄荷科技(已满) | [Android 工程师](./上海--JD/薄荷 Android.md) | B轮 弹性工作制 妹子多 技术成长| [zhangqi@boohee.com](mailto:zhangqi@boohee.com "有效期至 2015-12-31")
 哔哩哔哩 | [Android 开发](./上海--JD/bilibili Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2015-12-31")
 爱吧婚恋 | [Android 开发](./上海--JD/爱吧婚恋 Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2015-12-31")
 乔布简历 | [Android 开发](./上海--JD/乔布简历 Android.md) | A轮 弹性上班 薪水视能力定 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
