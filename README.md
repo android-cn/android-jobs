@@ -15,7 +15,6 @@
 [武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  [西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
 
 ####Bei Jing
-
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 阿里 | [Android 开发](./北京--JD/阿里 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
@@ -60,6 +59,8 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
 快的打车 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 足记FotoPlace | [Android 开发](./上海--JD/足记 Android.md) | 高薪 快速成长 发展空间大 妹子多 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
+大众点评 | [Android 开发](./上海--JD/大众点评 Android.md) | 高薪 技术氛围好 快速成长 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+大众点评 | [资深 Android](./上海--JD/大众点评 资深Android.md.md) | 高薪 技术氛围好 快速成长 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
