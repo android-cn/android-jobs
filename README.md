@@ -86,6 +86,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 :------------- | :------------- | :-------------  | :-------------
 猎豹 | [Android 开发](./珠海--JD/CMCM Android.md) | 不服雾!有食堂!走路上班! | [yangyuting@cmcm.com](mailto:yangyuting@cmcm.com"有效期至 2015-12-31")  
 魅族MEIZU | [Android 开发](./珠海--JD/MEIZU Android.md) | 空气好!福利好!压力小!美女多! 高薪！股票期权！| [zx19899891@163.com](mailto:zx19899891@163.com"有效期至 2015-12-31")  
+唯美网 | [Android 开发](./珠海--JD/唯美网 Android.md) | 弹性工作、期权、高薪、扁平化管理、空气好！ | [hr@vmei.com](mailto:hr@vmei.com "有效期至 2015-12-31")  
 
 ####Nan Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
