@@ -1,4 +1,4 @@
-[Android 全国职位列表 ](http://www.codekk.com/jobs) 
+﻿[Android 全国职位列表 ](http://www.codekk.com/jobs) 
 ==========  
 **我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  
 
@@ -45,6 +45,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 滴滴打车 | [Android 开发](./北京--JD/滴滴打车 Android.md) | 高薪、期权及有技术追求的伙伴 | [zhangjiantao@diditaxi.com.cn](mailto:zhangjiantao@diditaxi.com.cn "有效期至 2015-12-31")
 一起吃 | [Android 开发](./北京--JD/一起吃 Android.md) | 氛围好，期权，高薪，专业团队 | [hr@yiqichi.cc](mailto:hr@yiqichi.cc "有效期至 2015-12-31")     
 58同城 | [Android 开发](./北京--JD/58同城 Android.md) | 上市公司，高薪，专注技术 | [majian@58.com](mailto:majian@58.com "有效期至 2015-12-31") 
+为知笔记 | [Android 开发](./北京--JD/为知笔记 Android.md) | 创业公司，气氛好，专注技术，期权 | [weishijun@msn.com](mailto:weishijun@msn.com "有效期至 2015-12-31") 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
