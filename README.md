@@ -58,6 +58,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 弹性工作 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
 快的打车 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+足记FotoPlace | [Android 开发](./上海--JD/足记 Android.md) | 高薪 快速成长 发展空间大 妹子多 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
 
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
