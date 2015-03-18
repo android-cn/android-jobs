@@ -16,4 +16,7 @@ XX 公司招聘 Android 高级工程师
 - 10k-15k，年终奖2个月。  
 
 ####联系方式
-[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)
+[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
+
+####具体地址
+上海陆家嘴软件园
