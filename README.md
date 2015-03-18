@@ -83,6 +83,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 经传科技 | [Android 项目经理](./广州--JD/经传 Android.md) | 提前兑现期权，领导好，扁平化，美女多 | [yijshu@gmail.com](mailto:yijshu@gmail.com "有效期至 2015-12-31")  
 9377游戏 | [Android 开发](./广州--JD/9377 Android.md) | 高薪，成长型 | [zhhanguo@qq.com](mailto:zhhanguo@qq.com "有效期至 2015-12-31")
 极飞 | [Android 开发](./广州--JD/极飞 Android.md) | 民用无人飞机研发制造 | [xieanping@xair.cn](mailto:xieanping@xair.cn "有效期至 2015-12-31")
+际讯 | [Android 开发](./广州--JD/际讯.md) | 足球 高薪 成长 | [huangzhilian@jetsun6383.com](huangzhilian@jetsun6383.com "有效期至 2015-12-31")
 
 ####Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
