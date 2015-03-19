@@ -18,7 +18,7 @@
 7. 熟悉Linux系统者优先考虑，关注开源应用者优先考虑。
 
 ####薪资福利
-- 15k-30k，年终奖 3 - 6 个月。 
+- 15k-40k，年终奖 3 - 6 个月。 
 
 ####联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)   
