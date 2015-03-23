@@ -17,7 +17,6 @@
 ####Bei Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-口袋购物 | [高级 Android](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权、人手mackbook、来自BAT技术团队 | [zhangjianbo@koudai.com](mailto:zhangjianbo@koudai.com "有效期至 2015-12-31")
 蚂蚁金服 | [高级 Android](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里妈妈 | [高级 Android](./北京--JD/阿里妈妈 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](./北京--JD/百度知道 Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
@@ -47,6 +46,8 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 一起吃 | [Android 开发](./北京--JD/一起吃 Android.md) | 氛围好，期权，高薪，专业团队 | [hr@yiqichi.cc](mailto:hr@yiqichi.cc "有效期至 2015-12-31")     
 58同城 | [Android 开发](./北京--JD/58同城 Android.md) | 上市公司，高薪，专注技术 | [majian@58.com](mailto:majian@58.com "有效期至 2015-12-31") 
 为知笔记 | [Android 开发](./北京--JD/为知笔记 Android.md) | 创业公司，气氛好，专注技术，期权 | [weishijun@msn.com](mailto:weishijun@msn.com "有效期至 2015-12-31") 
+口袋购物 | [高级 Android](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权、人手mackbook、来自BAT技术团队 | [zhangjianbo@koudai.com](mailto:zhangjianbo@koudai.com "有效期至 2015-12-31")
+
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
