@@ -122,6 +122,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 联想 | [Android主管工程师](./厦门--JD/联想 Android.md) | 厦门顶级薪资 国企福利 | [zhangyang12@lenovo.com](mailto:zhangyang12@lenovo.com "有效期至 2015-12-31")
+多块好省 | [Android开发](./厦门--JD/多块好省 Android.md) | 互联网金融 技术氛围好  | [zhoujunzhou@dkhs.com(mailto:zhoujunzhou@dkhs.com "有效期至 2015-12-31")
 
 ####Fu Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
