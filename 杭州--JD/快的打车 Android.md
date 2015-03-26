@@ -26,10 +26,10 @@
 8. 对熟悉 IPC，参与过底层 Library 开发者优先考虑。
 
 ####薪资福利
-- 15k-20k 
-- 15 薪资 
+- 15K - 20K 
+- 年终 3 个月，全年 15 薪
 
 ####联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
-这个职位由 [@Trinea](https://github.com/trinea) 待帮招聘和内推。  
+这个职位由 [@Trinea](https://github.com/trinea) 带帮招聘和内推。  

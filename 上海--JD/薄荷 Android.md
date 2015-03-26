@@ -6,8 +6,8 @@
 我们是薄荷科技，移动健康领域领头羊，是一家帮助女性健康生活、健康减肥的互联网公司。坐标：上海浦东新区展想大厦。  
 想更多的了解我们可以下载体验我们的App：  
 - [薄荷](http://www.wandoujia.com/apps/com.boohee.one) 公司的主要App，总用户已过千万
-- [食物图书馆](http://app.mi.com/detail/80550) 昨天才刚上线的一款小而美的App, 目前只有Android版
-- [轻卡减肥](https://itunes.apple.com/cn/app/qing-ka-jian-fei/id931801154?mt=8) 也是最近刚上线的一款App，上线前几天就冲到苹果App Store健康类第一名，目前只有iOS版，后续会推出Android版。  
+- [食物图书馆](http://app.mi.com/detail/80550) 最近刚上线的一款小而美的App
+- [轻卡减肥](https://itunes.apple.com/cn/app/qing-ka-jian-fei/id931801154?mt=8) 针对减肥人群定制的一款App  
 
 ####基本要求
 - 全日制本科及以上学历(虽然我们更看重能力但通过简历筛选效率更高，谅解)

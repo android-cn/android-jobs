@@ -25,10 +25,10 @@
 7. 性别，经验，学历不限。 
 
 ####薪资福利
-- 12k-24k 
-- 15 薪资 
+- 12K - 24K 
+- 年终 3 个月，全年 15 薪
 
 ####联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
-这个职位由 [@Trinea](https://github.com/trinea) 待帮招聘和内推。  
+这个职位由 [@Trinea](https://github.com/trinea) 带帮招聘和内推。  
