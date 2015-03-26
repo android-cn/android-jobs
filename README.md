@@ -41,14 +41,14 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 贵学教育 | [Android 开发](./北京--JD/贵学教育 Android.md) | 冲着上市去的 弹性上班 | [346870986@qq.com](mailto:346870986@qq.com "有效期至 2015-12-31")  
 中华万年历 | [Android 开发](./北京--JD/随身云（中华万年历）Android.md) | 高薪聘技术大神，一起开天辟地！ | [h-resume@etouch.cn](mailto:h-resume@etouch.cn "有效期至 2015-12-31")  
 蚂蜂窝 | [Android 开发](./北京--JD/蚂蜂窝 Android.md) | 男女比率1:1,Mac,高薪 | [wenhao@mafengwo.com](mailto:wenhao@mafengwo.com "有效期至 2015-12-31") 
-233 手游直播 | [Android 开发](./北京--JD/233 手游直播 Android.md) | 和这个星球上的其他用户实时分享你那块原本孤独的屏幕 | [crossle@shou.tv](mailto:crossle@shou.tv "有效期至 2016-12-31") 
+233 手游直播 | [Android 开发](./北京--JD/233 手游直播 Android.md) | 和这个星球上的其他用户实时分享你那块原本孤独的屏幕 | [crossle@shou.tv](mailto:crossle@shou.tv "有效期至 2016-12-31")
 滴滴打车 | [Android 开发](./北京--JD/滴滴打车 Android.md) | 高薪、期权及有技术追求的伙伴 | [zhangjiantao@diditaxi.com.cn](mailto:zhangjiantao@diditaxi.com.cn "有效期至 2015-12-31")
 一起吃 | [Android 开发](./北京--JD/一起吃 Android.md) | 氛围好，期权，高薪，专业团队 | [hr@yiqichi.cc](mailto:hr@yiqichi.cc "有效期至 2015-12-31")     
 58同城 | [Android 开发](./北京--JD/58同城 Android.md) | 上市公司，高薪，专注技术 | [majian@58.com](mailto:majian@58.com "有效期至 2015-12-31") 
 为知笔记 | [Android 开发](./北京--JD/为知笔记 Android.md) | 创业公司，气氛好，专注技术，期权 | [weishijun@msn.com](mailto:weishijun@msn.com "有效期至 2015-12-31") 
 口袋购物 | [高级 Android](./北京--JD/口袋购物 Android.md) | 高薪、期权、人手mackbook、来自BAT技术团队 | [zhangjianbo@koudai.com](mailto:zhangjianbo@koudai.com "有效期至 2015-12-31")
 车网互联 | [Android 开发](./北京--JD/车网互联 Android.md) | 车联网的广阔市场 | [liyanshun@che08.com](mailto:liyanshun@che08.com "有效期至 2015-12-31")
-友盟 | [Android 架构师](https://github.com/bboyfeiyu/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%e5%8f%8b%e7%9b%9f%20Android.md) | 氛围好，弹性工作时间，福利好，专业团队 | [simplecoder.h@gmail.com](mailto:simplecoder.h@gmail.com "有效期至 2015-12-31")  |
+友盟 | [Android 架构师](./北京--JD/友盟 Android.md) | 氛围好，弹性工作时间，福利好，专业团队 | [simplecoder.h@gmail.com](mailto:simplecoder.h@gmail.com "有效期至 2015-12-31")  |
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
