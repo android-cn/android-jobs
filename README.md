@@ -61,13 +61,14 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 微盟 | [Android 开发](./上海--JD/微盟Weimob Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
 松明屋 | [Android 开发](./上海--JD/松明屋 Android.md) | 健康服务业 技术自主选 资金稳定 | [barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn "有效期至 2015-12-31") 
-饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 弹性工作 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
+饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
 快的打车 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 足记FotoPlace | [Android 开发](./上海--JD/足记 Android.md) | 高薪 快速成长 发展空间大 妹子多 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
 大众点评 | [资深 Android](./上海--JD/大众点评 资深Android.md) | 高薪 技术氛围好 快速成长 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 美天 | [Android 开发](./上海--JD/美天 Android.md) | 期权 美女多 快速成长 | [tao@meitoday.com](mailto:tao@meitoday.com "有效期至 2015-12-31")
 华为EMUI | [Android 开发](./上海--JD/华为EMUI Android .md) | 华为EMUI开发  | [bisheng7@huawei.com](mailto:bisheng7@huawei.com "有效期至 2015-03-31")
+
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
