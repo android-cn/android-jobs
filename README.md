@@ -71,6 +71,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 美天 | [Android 开发](./上海--JD/美天 Android.md) | 期权 美女多 快速成长 | [tao@meitoday.com](mailto:tao@meitoday.com "有效期至 2015-12-31")
 华为EMUI | [Android 开发](./上海--JD/华为EMUI Android .md) | 华为EMUI开发  | [bisheng7@huawei.com](mailto:bisheng7@huawei.com "有效期至 2015-03-31")
 云收益 | [Android 开发](./上海--JD/云收益Android.md) | 90后 氛围轻松 高配装备 | [fj@yunshouyi.pro](mailto:fj@yunshouyi.pro "有效期至 2015-06-31")
+Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围好 弹性工作 | [hr@teambition.com](mailto:hr@teambition.com)
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
