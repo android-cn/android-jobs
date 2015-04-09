@@ -1,14 +1,12 @@
-Teambition Android 团队
+Teambition 招聘 Android 软件开发工程师
 ==========
 
 ####公司介绍
 Teambition，最好的项目协作工具，改善你的工作方式。  
 制作一个广告案，研发一款新产品， 又或是打造一架无人机？ 你只需要在 Teambition 上创建一个项目。   目前，已经有横跨十多个行业的数十万项目在 Teambition 上推进，用户的主动推荐比例高达93%。  
 今年，Teambition 还发布了个人效率产品线「今天」，通过聚合各类企业服务的数据，以日历服务为核心，帮助用户轻松安排重要的事务；还有企业协同IM产品线「简聊」，﻿通过话题分组聊天，为用户解决协作中的即时沟通和信息流聚合汇总需求。  
-在 Teambition 我们是如何工作的，观看视频：[http://v.qq.com/boke/page/a/b/q/a0148pgpdbq.html](http://v.qq.com/boke/page/a/b/q/a0148pgpdbq.html)
+在 Teambition 我们是如何工作的，观看视频：[http://v.qq.com/boke/page/a/b/q/a0148pgpdbq.html](http://v.qq.com/boke/page/a/b/q/a0148pgpdbq.html)  
 
-Android 软件开发工程师
-==========
 ####职位描述
 - 负责 Teambition 各个产品线 Android 端应用的开发和维护工作
 
