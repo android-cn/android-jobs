@@ -28,7 +28,7 @@
 ####联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
-这个职位由 [@Trinea](https://github.com/trinea) 带帮内推。  
+这个职位由 [@Trinea](https://github.com/trinea) 代帮内推。  
 
 ####具体地址
 北京中关村
