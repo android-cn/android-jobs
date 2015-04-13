@@ -52,6 +52,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 台达中国研发中心 | [Android 开发](./北京--JD/台达中国研发中心 Android.md) | 移动安全 物联网 | [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn"有效期至 2015-12-31")
 礼物说 | [Android 开发](./北京--JD/礼物说 Android.md) | 快速成长、20% 涨薪、期权、Mac | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-08-31")
 5TV | [Android 开发](./北京--JD/5TV Android.md) | 期权 A轮 娱乐短视频 | [gaominglun@gmail.com](mailto:gaominglun@gmail.com "有效期至 2015-6-31")
+悟空理财 | [Android 开发](./北京--JD/悟空理财 Android.md) | 弹性工作、无限零食、各种福利 | [baoyz@live.com](mailto:baoyz@live.com "有效期至 2015-05-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
