@@ -15,7 +15,7 @@
 1. 一年以上的Android开发经验
 2. 熟练掌握Android SDK、自定义View
 3. 熟悉HTTP协议，Android中的网络编程
-4. 熟悉Android中数据库编程，使用过LoaderManager。
+4. 熟悉Android中数据库编程，使用过LoaderManager
 5. 有丰富的三方库使用经验，活跃于GitHub
 6. 熟练使用Android Studio进行开发
 
