@@ -57,7 +57,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-燃运动 | [Android 开发](./上海--JD/森融网络科技 Android.md) | 高薪 创业团队该有的都有 火辣的健康方向 | [banzi@rrr.me](mailto:banzi@rrr.me "有效期至 2015-12-31")
+燃运动 | [Android 开发](./上海--JD/燃运动 Android.md) | 高薪 创业团队该有的都有 火辣的健康方向 | [banzi@rrr.me](mailto:banzi@rrr.me "有效期至 2015-12-31")
 蚂蚁金服 | [高级 Android](./上海--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里数娱 | [Android 专家](./上海--JD/阿里数字娱乐 Android 专家.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 哔哩哔哩 | [Android 开发](./上海--JD/bilibili Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2015-12-31")
