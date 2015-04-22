@@ -116,7 +116,8 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 ####Cheng Du
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-正欣德 | [Android 开发](./成都--JD/正欣德 Android.md) | 15薪+出国旅游 | [harteyang@gmail.com](mailto:harteyang@gmail.com "有效期至 2015-01-31")  
+正欣德 | [Android 开发](./成都--JD/正欣德 Android.md) | 15薪+出国旅游 | [harteyang@gmail.com](mailto:harteyang@gmail.com "有效期至 2015-01-31")
+甲生米 | [Android 开发](./成都--JD/甲生米科技 Android.md) | 公司期权、弹性工作、扁平管理、双休加班少，目前核心产品:单身GO | [leege100@gmail.com](mailto:leege100@gmail.com "有效期至 2015-12-31")   
 
 ####Wu Han
 公司  | JD 地址 | 一句话诱惑 | 联系人
