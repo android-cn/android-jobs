@@ -50,7 +50,6 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 车网互联 | [Android 开发](./北京--JD/车网互联 Android.md) | 车联网的广阔市场 | [liyanshun@che08.com](mailto:liyanshun@che08.com "有效期至 2015-12-31")
 友盟 | [Android 架构师](./北京--JD/友盟 Android.md) | 氛围好，弹性工作时间，福利好，专业团队 | [simplecoder.h@gmail.com](mailto:simplecoder.h@gmail.com "有效期至 2015-12-31")  |
 台达中国研发中心 | [Android 开发](./北京--JD/台达中国研发中心 Android.md) | 移动安全 物联网 | [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn"有效期至 2015-12-31")
-礼物说 | [Android 开发](./北京--JD/礼物说 Android.md) | 快速成长、20% 涨薪、期权、Mac | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-08-31")
 5TV | [Android 开发](./北京--JD/5TV Android.md) | 期权 A轮 娱乐短视频 | [gaominglun@gmail.com](mailto:gaominglun@gmail.com "有效期至 2015-6-31")
 悟空理财 | [Android 开发](./北京--JD/悟空理财 Android.md) | 弹性工作、无限零食、各种福利 | [baoyz@live.com](mailto:baoyz@live.com "有效期至 2015-05-31")
 
@@ -89,7 +88,6 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [高级 Android](./深圳--JD/阿里安全部 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 多彩人生 | [Android 开发](./深圳--JD/多彩人生 Android.md) | 高奖金、分股权、扁平管理 | [hr@varicom.cn](mailto:hr@varicom.cn "有效期至 2015-12-31")
 赤雨科技 | [Android 开发](./深圳--JD/赤雨科技 Android.md) | 绝对有竞争力的薪资体系 | [3866849@qq.com](mailto:3866849@qq.com "有效期至 2015-12-31")
 
