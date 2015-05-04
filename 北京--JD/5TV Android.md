@@ -1,4 +1,4 @@
-5TV Android 高级工程师
+5TV Android 高级工程师（推荐成功送apple watch）
 ==========
 
 ####公司介绍
@@ -27,6 +27,10 @@ A轮
 
 ####工作地址
 北京市东城区北新桥
+
+####推荐奖励
+推荐成功录用后，推荐人可以获奖apple watch一枚（非土豪版）。
+以首封推荐邮件为准。
 
 ####联系方式
 [gaominglun@gmail.com](mailto:gaominglun@gmail.com)
