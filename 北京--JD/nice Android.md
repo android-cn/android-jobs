@@ -49,4 +49,4 @@ nice的氛围和成长：定期技术分享，code巡讲，技术会议，产品
 18k-30k  
 
 ####联系方式
-[119249674@qq.com](mailto:119249674@qq.com)
+[mazixuan@oneniceapp.com](mailto:mazixuan@oneniceapp.com)
