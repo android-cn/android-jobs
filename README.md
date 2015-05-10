@@ -52,7 +52,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 台达中国研发中心 | [Android 开发](./北京--JD/台达中国研发中心 Android.md) | 移动安全 物联网 | [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn"有效期至 2015-12-31")
 5TV | [Android 开发](./北京--JD/5TV Android.md) | 期权 A轮 娱乐短视频 | [gaominglun@gmail.com](mailto:gaominglun@gmail.com "有效期至 2015-6-31")
 悟空理财 | [Android 开发](./北京--JD/悟空理财 Android.md) | 弹性工作、无限零食、各种福利 | [baoyz@live.com](mailto:baoyz@live.com "有效期至 2015-05-31")
-nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长空间大，同事超nice | [mazixuan@oneniceapp.com](mailto:mazixuan@oneniceapp.com "有效期至 2015-12-31")
+nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长空间大 | [mazixuan@oneniceapp.com](mailto:mazixuan@oneniceapp.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -121,7 +121,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 正欣德 | [Android 开发](./成都--JD/正欣德 Android.md) | 15薪+出国旅游 | [harteyang@gmail.com](mailto:harteyang@gmail.com "有效期至 2015-01-31")
-甲生米 | [Android 开发](./成都--JD/甲生米科技 Android.md) | 公司期权、弹性工作、扁平管理、双休加班少，目前核心产品:单身GO | [leege100@gmail.com](mailto:leege100@gmail.com "有效期至 2015-12-31")   
+甲生米 | [Android 开发](./成都--JD/甲生米科技 Android.md) | 公司期权、弹性工作、扁平管理 | [leege100@gmail.com](mailto:leege100@gmail.com "有效期至 2015-12-31")   
 
 ####Wu Han
 公司  | JD 地址 | 一句话诱惑 | 联系人
