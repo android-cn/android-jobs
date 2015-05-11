@@ -20,7 +20,7 @@
 蚂蚁金服 | [高级 Android](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里妈妈 | [高级 Android](./北京--JD/阿里妈妈 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](./北京--JD/百度知道 Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
-豌豆荚 | [Android 开发](./北京--JD/豌豆荚 Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
+豌豆荚 | [Android 开发](./北京--JD/豌豆荚 Android.md) | Google 范儿有格调的 Lab | [zengcen@wandoujia.com](mailto:zengcen@wandoujia.com "有效期至 2015-12-31")
 快乐迭代 | [Android 开发](./北京--JD/快乐迭代 Android.md) | 工程师做主 务实的geeks 丰厚期权 | [wuzhe@bobo.me](mailto:wuzhe@bobo.me "有效期至 2015-12-31")
 魔方天空 | [Android 开发](./北京--JD/魔方天空 Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2015-7-31")
 朱李叶 | [Android 开发](./北京--JD/朱李叶 Android.md) | 健康医疗创业 成长空间 资金稳定 | [tangren@zlycare.com](mailto:tangren@zlycare.com "有效期至 2015-12-31")
