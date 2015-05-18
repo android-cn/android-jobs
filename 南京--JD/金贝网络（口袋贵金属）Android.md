@@ -29,7 +29,7 @@
 
 ####联系方式  
 邮件标题：（Github）应聘android_《你的姓名》  
-发送邮箱：[hr@sojex.cn](mailto:hr@sojex.cn)  
+发送邮箱：[hr@gkoudai.com](mailto:hr@gkoudai.com)  
 
 
 ####了解更多公司招聘信息，请移步至
