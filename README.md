@@ -100,6 +100,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 9377游戏 | [Android 开发](./广州--JD/9377 Android.md) | 高薪，成长型 | [zhhanguo@qq.com](mailto:zhhanguo@qq.com "有效期至 2015-12-31")
 极飞 | [Android 开发](./广州--JD/极飞 Android.md) | 民用无人飞机研发制造 | [xieanping@xair.cn](mailto:xieanping@xair.cn "有效期至 2015-12-31")
 际讯 | [Android 开发](./广州--JD/际讯.md) | 足球 高薪 成长 | [huangzhilian@jetsun6383.com](huangzhilian@jetsun6383.com "有效期至 2015-12-31")
+超级课程表 | [Android 开发](./广州--JD/超级课程表 Android.md) | 高薪、扁平管理、弹性时间 | [Quennel@myfriday.cn](Quennel@myfriday.cn "有效期至 2015-12-31")
 
 ####Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
