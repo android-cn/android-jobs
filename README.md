@@ -59,6 +59,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
+布丁动画 | [Android Hacker](./上海--JD/布丁动画 Android.md) | 二次元，前景好，待遇好 | [light@huohua.in](mailto:light@huohua.in "有效期至 2015-12-31")
 一起 | [Android主工程师](./上海--JD/一起 主程Android.md) | 前景好、待遇好、期权| [jiangfengbo@yiqixxx.com](mailto:jiangfengbo@yiqixxx.com "有效期至 2015-07-31")
 到喜啦 | [Android 开发](./上海--JD/到喜啦Android.md) | 高薪 C轮 技术氛围好 期权| [captainjack6688@gmail.com](mailto:captainjack6688@gmail.com "有效期至 2015-12-31")
 燃运动 | [Android 开发](./上海--JD/燃运动 Android.md) | 高薪 创业团队该有的都有 火辣的健康方向 | [banzi@rrr.me](mailto:banzi@rrr.me "有效期至 2015-12-31")
