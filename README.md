@@ -20,7 +20,7 @@
 蚂蚁金服 | [高级 Android](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里妈妈 | [高级 Android](./北京--JD/阿里妈妈 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 百度知道 | [Android 开发](./北京--JD/百度知道 Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
-豌豆荚 | [Android 开发](./北京--JD/豌豆荚 Android.md) | Google 范儿有格调的 Lab | [joe.haiwang@gmail.com](mailto:joe.haiwang@gmail.com "有效期至 2015-12-31")
+豌豆荚 | [Android 开发](./北京--JD/豌豆荚 Android.md) | Google 范儿有格调的 Lab | [zengcen@wandoujia.com](mailto:zengcen@wandoujia.com "有效期至 2015-12-31")
 快乐迭代 | [Android 开发](./北京--JD/快乐迭代 Android.md) | 工程师做主 务实的geeks 丰厚期权 | [wuzhe@bobo.me](mailto:wuzhe@bobo.me "有效期至 2015-12-31")
 魔方天空 | [Android 开发](./北京--JD/魔方天空 Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2015-7-31")
 朱李叶 | [Android 开发](./北京--JD/朱李叶 Android.md) | 健康医疗创业 成长空间 资金稳定 | [tangren@zlycare.com](mailto:tangren@zlycare.com "有效期至 2015-12-31")
@@ -50,13 +50,17 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 车网互联 | [Android 开发](./北京--JD/车网互联 Android.md) | 车联网的广阔市场 | [liyanshun@che08.com](mailto:liyanshun@che08.com "有效期至 2015-12-31")
 友盟 | [Android 架构师](./北京--JD/友盟 Android.md) | 氛围好，弹性工作时间，福利好，专业团队 | [simplecoder.h@gmail.com](mailto:simplecoder.h@gmail.com "有效期至 2015-12-31")  |
 台达中国研发中心 | [Android 开发](./北京--JD/台达中国研发中心 Android.md) | 移动安全 物联网 | [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn"有效期至 2015-12-31")
-礼物说 | [Android 开发](./北京--JD/礼物说 Android.md) | 快速成长、20% 涨薪、期权、Mac | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-08-31")
 5TV | [Android 开发](./北京--JD/5TV Android.md) | 期权 A轮 娱乐短视频 | [gaominglun@gmail.com](mailto:gaominglun@gmail.com "有效期至 2015-6-31")
 悟空理财 | [Android 开发](./北京--JD/悟空理财 Android.md) | 弹性工作、无限零食、各种福利 | [baoyz@live.com](mailto:baoyz@live.com "有效期至 2015-05-31")
+nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长空间大 | [mazixuan@oneniceapp.com](mailto:mazixuan@oneniceapp.com "有效期至 2015-12-31")
+腾讯QQ | [Android 工程师](./北京--JD/腾讯手机QQ Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+腾讯路宝 | [Android 工程师](./北京--JD/腾讯路宝 Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
+一起 | [Android主工程师](./上海--JD/一起 主程Android.md) | 前景好、待遇好、期权| [jiangfengbo@yiqixxx.com](mailto:jiangfengbo@yiqixxx.com "有效期至 2015-07-31")
+到喜啦 | [Android 开发](./上海--JD/到喜啦Android.md) | 高薪 C轮 技术氛围好 期权| [captainjack6688@gmail.com](mailto:captainjack6688@gmail.com "有效期至 2015-12-31")
 燃运动 | [Android 开发](./上海--JD/燃运动 Android.md) | 高薪 创业团队该有的都有 火辣的健康方向 | [banzi@rrr.me](mailto:banzi@rrr.me "有效期至 2015-12-31")
 蚂蚁金服 | [高级 Android](./上海--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里数娱 | [Android 专家](./上海--JD/阿里数字娱乐 Android 专家.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
@@ -75,6 +79,8 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 华为EMUI | [Android 开发](./上海--JD/华为EMUI Android .md) | 华为EMUI开发  | [bisheng7@huawei.com](mailto:bisheng7@huawei.com "有效期至 2015-03-31")
 云收益 | [Android 开发](./上海--JD/云收益Android.md) | 90后 氛围轻松 高配装备 | [fj@yunshouyi.pro](mailto:fj@yunshouyi.pro "有效期至 2015-06-31")
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围好 弹性工作 | [hr@teambition.com](mailto:hr@teambition.com)
+衣见如故 | [Android 开发](./上海--JD/衣见如故 Android.md) | 高薪 期权 弹性工作 妹子多 各种福利 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
+腾讯QQ | [Android 工程师](./上海--JD/腾讯SNG04 Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -85,13 +91,17 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 多听 | [Android 开发](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 网易LOFTER | [Android 开发](./杭州--JD/网易LOFTER Android.md) | 有技术追求的伙伴 | [shi-qiang@corp.netease.com](mailto:shi-qiang@corp.netease.com "有效期至 2015-12-31")
 快的打车 | [Android 开发](./杭州--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+网易 | [Android 开发](./杭州--JD/网易杭州研究院 Android.md) | 16薪 快速成长 福利好 | [hzzhuzhiqiang@corp.netease.com](mailto:hzzhuzhiqiang@corp.netease.com "有效期至 2015-6-1")
 
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里 | [高级 Android](./深圳--JD/阿里安全部 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 多彩人生 | [Android 开发](./深圳--JD/多彩人生 Android.md) | 高奖金、分股权、扁平管理 | [hr@varicom.cn](mailto:hr@varicom.cn "有效期至 2015-12-31")
 赤雨科技 | [Android 开发](./深圳--JD/赤雨科技 Android.md) | 绝对有竞争力的薪资体系 | [3866849@qq.com](mailto:3866849@qq.com "有效期至 2015-12-31")
+小恩爱 | [Android 高级工程师](./深圳--JD/小恩爱 Android.md) | 配备MAC , 弹性工作, 上升空间 | [hr@xiaoenai.com](mailto:hr@xiaoenai.com "有效期至 2015-12-31")
+唯一 | [Android 高级工程师](./深圳--JD/唯依 Android.md) | 轻松氛围，做有理想的产品，股票期权分享成果 | [ajowei@foxmail.com](mailto:ajowei@foxmail.com "有效期至 2015-06-31")
+腾讯QQ | [Android 工程师](./深圳--JD/腾讯手机QQ Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+腾讯QZone | [Android 工程师](./深圳--JD/腾讯手机Qzone Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -112,12 +122,13 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 ####Nan Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-待定 |  |  |  |  
+口袋金融 | [Android 开发](./南京--JD/金贝网络（口袋贵金属）Android.md) | 妹子多 零食多 福利多 期权 弹性上下班！ | [hr@gkoudai.com](mailto:hr@gkoudai.com "有效期至 2015-12-31")   
 
 ####Cheng Du
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-正欣德 | [Android 开发](./成都--JD/正欣德 Android.md) | 15薪+出国旅游 | [harteyang@gmail.com](mailto:harteyang@gmail.com "有效期至 2015-01-31")  
+正欣德 | [Android 开发](./成都--JD/正欣德 Android.md) | 15薪+出国旅游 | [harteyang@gmail.com](mailto:harteyang@gmail.com "有效期至 2015-01-31")
+甲生米 | [Android 开发](./成都--JD/甲生米科技 Android.md) | 公司期权、弹性工作、扁平管理 | [leege100@gmail.com](mailto:leege100@gmail.com "有效期至 2015-12-31")   
 
 ####Wu Han
 公司  | JD 地址 | 一句话诱惑 | 联系人
