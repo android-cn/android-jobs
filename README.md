@@ -75,7 +75,6 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 快的打车 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 足记FotoPlace | [Android 开发](./上海--JD/足记 Android.md) | 高薪 快速成长 发展空间大 妹子多 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
 大众点评 | [资深 Android](./上海--JD/大众点评 资深Android.md) | 高薪 技术氛围好 快速成长 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-美天 | [Android 开发](./上海--JD/美天 Android.md) | 期权 美女多 快速成长 | [tao@meitoday.com](mailto:tao@meitoday.com "有效期至 2015-12-31")
 华为EMUI | [Android 开发](./上海--JD/华为EMUI Android .md) | 华为EMUI开发  | [bisheng7@huawei.com](mailto:bisheng7@huawei.com "有效期至 2015-03-31")
 云收益 | [Android 开发](./上海--JD/云收益Android.md) | 90后 氛围轻松 高配装备 | [fj@yunshouyi.pro](mailto:fj@yunshouyi.pro "有效期至 2015-06-31")
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围好 弹性工作 | [hr@teambition.com](mailto:hr@teambition.com)
