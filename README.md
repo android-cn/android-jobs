@@ -55,6 +55,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长空间大 | [mazixuan@oneniceapp.com](mailto:mazixuan@oneniceapp.com "有效期至 2015-12-31")
 腾讯QQ | [Android 工程师](./北京--JD/腾讯手机QQ Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 腾讯路宝 | [Android 工程师](./北京--JD/腾讯路宝 Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+京东 | [Android 开发](./北京--JD/京东 Android.md) | 新项目，数据驱动，工程师决策 | [anlijun@jd.com](mailto:anlijun@jd.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
