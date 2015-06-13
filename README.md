@@ -104,6 +104,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 唯一 | [Android 高级工程师](./深圳--JD/唯依 Android.md) | 轻松氛围，做有理想的产品，股票期权分享成果 | [ajowei@foxmail.com](mailto:ajowei@foxmail.com "有效期至 2015-06-31")
 腾讯QQ | [Android 工程师](./深圳--JD/腾讯手机QQ Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 腾讯QZone | [Android 工程师](./深圳--JD/腾讯手机Qzone Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+Darma | [Android 开发](./深圳--JD/Darma Android.md) | 高薪、高奖金、高期权、扁平管理、创新奋进的硅谷归国团队 | [vic@darma.co](mailto:vic@darma.co "有效期至 2015-12-31")
 
 ####Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
