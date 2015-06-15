@@ -1,7 +1,7 @@
 ####1. 新添加文件
 格式如下，语法是 [MarkDown 语法](https://github.com/android-cn/blog/blob/master/dev-tool/markdown.md)  
 ```
-XX 公司 Android 高级工程师
+XX 公司招聘 Android 高级工程师
 ==========
 
 ####公司介绍
@@ -15,8 +15,14 @@ XX 公司 Android 高级工程师
 1. 
 2. 
 
+####薪资福利
+- 10k-15k，年终奖 2 个月。  
+
 ####联系方式
-[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)
+[trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
+
+####具体地址
+上海陆家嘴软件园
 
 ```
 
