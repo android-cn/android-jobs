@@ -56,9 +56,9 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 腾讯QQ | [Android 工程师](./北京--JD/腾讯手机QQ Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 腾讯路宝 | [Android 工程师](./北京--JD/腾讯路宝 Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 京东 | [Android 开发](./北京--JD/京东 Android.md) | 新项目，数据驱动，工程师决策 | [anlijun@jd.com](mailto:anlijun@jd.com "有效期至 2015-12-31")
-半糖 | [Android/IOS开发](./北京--JD/半糖 Android.md) | 13薪+Mac+丰厚期权 | [tom5953@163.com](mailto:tom5953@163.com "有效期至 2016-12-31")
+半糖 | [Android 开发](./北京--JD/半糖 Android.md) | 13薪+Mac+丰厚期权 | [tom5953@163.com](mailto:tom5953@163.com "有效期至 2016-12-31")
 悦优博迈 | [Android开发](./北京--JD/悦优博迈 Android.md) | 高薪期权，资本热捧空间无限量 | [hr@yueyou.me](mailto:hr@yueyou.me "有效期至 2015-8-30")
-杏树林 | [Android/iOS开发](./北京--JD/杏树林 Android iOS.md) | 有竞争力的薪资，高颜值开发妹纸，一日三餐 | [hr-team@xingshulin.com](mailto:hr-team@xingshulin.com "有效期至 2016-12-31")
+杏树林 | [Android 开发](./北京--JD/杏树林 Android iOS.md) | 有竞争力的薪资，高颜值开发妹纸，一日三餐 | [hr-team@xingshulin.com](mailto:hr-team@xingshulin.com "有效期至 2016-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -84,7 +84,6 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 魔蛋 | [Android 开发](./上海--JD/魔蛋科技 Android.md) | 高薪、期权及有情怀的技术小伙伴 | [iwebpp@gmail.com](mailto:iwebpp@gmail.com "有效期至 2015-12-31")
 一起 | [Android主工程师](./上海--JD/一起 主程Android.md) | 前景好、待遇好、期权| [jiangfengbo@yiqixxx.com](mailto:jiangfengbo@yiqixxx.com "有效期至 2015-07-31")
 到喜啦 | [Android 开发](./上海--JD/到喜啦Android.md) | 高薪 C轮 技术氛围好 期权| [captainjack6688@gmail.com](mailto:captainjack6688@gmail.com "有效期至 2015-12-31")
-燃运动 | [Android 开发](./上海--JD/燃运动 Android.md) | 高薪 创业团队该有的都有 火辣的健康方向 | [banzi@rrr.me](mailto:banzi@rrr.me "有效期至 2015-12-31")
 安居客 | [Android 开发](./上海--JD/安居客 Android.md) | 高薪、较好的成长环境 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 
 ####Hang Zhou
