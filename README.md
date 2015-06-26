@@ -19,7 +19,6 @@
 :------------- | :------------- | :-------------  | :-------------
 蚂蚁金服 | [高级 Android](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里妈妈 | [高级 Android](./北京--JD/阿里妈妈 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-百度知道 | [Android 开发](./北京--JD/百度知道 Android.md) | 专注技术 | [li_xuejian@baidu.com](mailto:li_xuejian@baidu.com "有效期至 2015-12-31")
 豌豆荚 | [Android 开发](./北京--JD/豌豆荚 Android.md) | Google 范儿有格调的 Lab | [zengcen@wandoujia.com](mailto:zengcen@wandoujia.com "有效期至 2015-12-31")
 快乐迭代 | [Android 开发](./北京--JD/快乐迭代 Android.md) | 工程师做主 务实的geeks 丰厚期权 | [wuzhe@bobo.me](mailto:wuzhe@bobo.me "有效期至 2015-12-31")
 魔方天空 | [Android 开发](./北京--JD/魔方天空 Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2015-7-31")
@@ -59,6 +58,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 半糖 | [Android 开发](./北京--JD/半糖 Android.md) | 13薪+Mac+丰厚期权 | [tom5953@163.com](mailto:tom5953@163.com "有效期至 2016-12-31")
 悦优博迈 | [Android开发](./北京--JD/悦优博迈 Android.md) | 高薪期权，资本热捧空间无限量 | [hr@yueyou.me](mailto:hr@yueyou.me "有效期至 2015-8-30")
 杏树林 | [Android 开发](./北京--JD/杏树林 Android iOS.md) | 有竞争力的薪资，高颜值开发妹纸，一日三餐 | [hr-team@xingshulin.com](mailto:hr-team@xingshulin.com "有效期至 2016-12-31")
+360你财富 | [Android 开发](./北京--JD/360你财富 Android.md) | 有竞争力的薪资，免费的三餐 | [lizetong@nicaifu.com](mailto:lizetong@nicaifu.com "有效期至 2016-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -70,7 +70,6 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 乔布简历 | [Android 开发](./上海--JD/乔布简历 Android.md) | A轮 弹性上班 薪水视能力定 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 微盟 | [Android 开发](./上海--JD/微盟Weimob Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
-松明屋 | [Android 开发](./上海--JD/松明屋 Android.md) | 健康服务业 技术自主选 资金稳定 | [barry.wu@matsumassage.cn](mailto:barry.wu@matsumassage.cn "有效期至 2015-12-31") 
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
 快的打车 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")

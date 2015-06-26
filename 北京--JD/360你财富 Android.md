@@ -1,4 +1,4 @@
-你财富 招聘 Android/iOS 高级工程师
+你财富招聘 Android/iOS 高级工程师
 ==========
 
 #### 公司介绍
@@ -70,7 +70,7 @@
 有竞争力的薪资，五险一金，免费的一日三餐。
 
 #### 联系方式
-[lizetong@nicaifu.com](mailto:lizetong@nicaifu.com) （注：简历请用 PDF 版，标注来自 codeKK）
+[lizetong@nicaifu.com](mailto:lizetong@nicaifu.com) 
 
 #### 具体地址
 北京市朝阳区酒仙桥6号院电子城国际电子总部2号楼B座
