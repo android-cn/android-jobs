@@ -44,4 +44,4 @@
 6. 有C/C++语言开发或移动互联网行业相关产品实际开发经验者优先。
 
 ####联系方式
-[zhangjianbo@koudai.com](mailto:zhangjianbo@koudai.com)
+[zhangjianbo@weidian.com](mailto:zhangjianbo@weidian.com)
