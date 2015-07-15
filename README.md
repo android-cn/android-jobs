@@ -67,7 +67,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 阿里集团 | [Android 各级别](./上海--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 哔哩哔哩 | [Android 开发](./上海--JD/bilibili Android.md) | <s>妹子多</s> 福利好 | [wangyongrong@bilibili.com](mailto:wangyongrong@bilibili.com "有效期至 2015-12-31")
 爱吧婚恋 | [Android 开发](./上海--JD/爱吧婚恋 Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2015-12-31")
-乔布简历 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E4%B8%8A%E6%B5%B7--JD/%E4%B9%94%E5%B8%83%E7%AE%80%E5%8E%86%20Android.md) | 上海靠谱团队寻找3年以上经验android开发大神，薪水你说了算 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
+乔布简历 | [Android 开发](./上海--JD/乔布简历 Android.md) | 3年以上经验 Android 大神，薪水你说了算 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 微盟 | [Android 开发](./上海--JD/微盟Weimob Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
