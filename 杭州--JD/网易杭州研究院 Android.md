@@ -17,4 +17,4 @@
 - 熟悉Smalltalk/Scheme/Haskell
 
 ####联系方式
-[hzzhuzhiqiang@corp.netease.com](mailto:hzzhuzhiqiang@corp.netease.com) 
+[zzq1389xin@163.com](mailto:zzq1389xin@163.com)

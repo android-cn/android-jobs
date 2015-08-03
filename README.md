@@ -97,7 +97,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 多听 | [Android 开发](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 网易LOFTER | [Android 开发](./杭州--JD/网易LOFTER Android.md) | 有技术追求的伙伴 | [shi-qiang@corp.netease.com](mailto:shi-qiang@corp.netease.com "有效期至 2015-12-31")
 快的打车 | [Android 开发](./杭州--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-网易 | [Android 开发](./杭州--JD/网易杭州研究院 Android.md) | 16薪 快速成长 福利好 | [hzzhuzhiqiang@corp.netease.com](mailto:hzzhuzhiqiang@corp.netease.com "有效期至 2015-6-1")
+网易 | [Android 开发](./杭州--JD/网易杭州研究院 Android.md) | 行业最高薪资 有技术追求的伙伴 福利好 | [zzq1389xin@163.com](mailto:zzq1389xin@163.com "有效期至 2015-12-31")
 
 ####Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
