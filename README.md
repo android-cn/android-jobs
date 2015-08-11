@@ -88,6 +88,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 安居客 | [Android 开发](./上海--JD/安居客 Android.md) | 高薪、较好的成长环境 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 65代购 | [Android 研发](./上海--JD/65代购 Android.md) | 低调做实事 处于风口 跨境电商 10~35K | [wengwei@team.65daigou.com](mailto:wengwei@team.65daigou.com "有效期至 2015-12-31")
 我厨 | [Android 研发](./上海--JD/我厨 Android.md) | 生鲜电商、待遇好、妹纸多 9~15K | [zhouli@wochu.cc](mailto:zhouli@wochu.cc "有效期至 2015-12-31")
+招商银行 | [Android 开发](./上海--JD/招商银行Android.md) | O2O新项目，银行不差钱 | [jcb316733855@163.com](mailto:jcb316733855@163.com "有效期至 2015-12-31")
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
