@@ -82,6 +82,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围好 弹性工作 | [hr@teambition.com](mailto:hr@teambition.com)
 衣见如故 | [Android 开发](./上海--JD/衣见如故 Android.md) | 高薪 期权 弹性工作 妹子多 各种福利 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
 腾讯QQ | [Android 工程师](./上海--JD/腾讯SNG04 Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
+腾讯Qzone | [Android 工程师](./上海--JD/腾讯SNG08 Android.md) | 大企鹅、前景待遇福利好 | [kesenhu@tencent.com](mailto:kesenhu@tencent.com "有效期至 2015-09-30")
 魔蛋 | [Android 开发](./上海--JD/魔蛋科技 Android.md) | 高薪、期权及有情怀的技术小伙伴 | [iwebpp@gmail.com](mailto:iwebpp@gmail.com "有效期至 2015-12-31")
 一起 | [Android主工程师](./上海--JD/一起 主程Android.md) | 前景好、待遇好、期权| [jiangfengbo@yiqixxx.com](mailto:jiangfengbo@yiqixxx.com "有效期至 2015-07-31")
 到喜啦 | [Android 开发](./上海--JD/到喜啦Android.md) | 高薪 C轮 技术氛围好 期权| [captainjack6688@gmail.com](mailto:captainjack6688@gmail.com "有效期至 2015-12-31")
