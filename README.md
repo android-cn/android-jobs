@@ -59,7 +59,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 悦优博迈 | [Android开发](./北京--JD/悦优博迈 Android.md) | 高薪期权，资本热捧空间无限量 | [hr@yueyou.me](mailto:hr@yueyou.me "有效期至 2015-8-30")
 杏树林 | [Android 开发](./北京--JD/杏树林 Android iOS.md) | 有竞争力的薪资，高颜值开发妹纸，一日三餐 | [hr-team@xingshulin.com](mailto:hr-team@xingshulin.com "有效期至 2016-12-31")
 360你财富 | [Android 开发](./北京--JD/360你财富 Android.md) | 15-30k，14薪，期权，免费三餐 | [lizetong@nicaifu.com](mailto:lizetong@nicaifu.com "有效期至 2016-12-31")
-微店 | [Android 开发](./北京--JD/微店 Android.md) | 15-35k，14-15薪，高期权前景好，日常福利丰厚 | [zhaoyu@weidian.com](mailto:zhaoyu@weidian.com "有效期至 2015-12-31")
+微店 | [Android 开发](./北京--JD/微店 Android.md) | 有技术追求的小伙伴，高期权前景好，日常福利丰厚 | [zhaoyu@weidian.com](mailto:zhaoyu@weidian.com "有效期至 2015-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
