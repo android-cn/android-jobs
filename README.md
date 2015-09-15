@@ -61,7 +61,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 微店 | [Android 开发](./北京--JD/微店 Android.md) | 15-35k，14-15薪，高期权前景好，日常福利丰厚 | [zhaoyu@weidian.com](mailto:zhaoyu@weidian.com "有效期至 2015-12-31")
 光量子教育 | [Android 工程师](./北京--JD/光量子教育 Android.md) | 能力匹配的薪水、期权、rMBP、有点追求的伙伴 | [wilbur@guangzixuexi.com](mailto:wilbur@guangzixuexi.com "有效期至 2015-12-31")
 滴滴打车 | [Android 开发](./北京--JD/滴滴打车全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-
+花花草草 | [Android 开发](./北京--JD/花花草草 Android.md) | 高薪、全员Mac、有妹子 | [perry@hhcc.io](mailto:perry@hhcc.io "有效期至 2015-12-31")
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
