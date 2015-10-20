@@ -73,8 +73,6 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [ruanyh9918@gmail.com](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 高配装备 高速发展 | [yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me "有效期至 2015-12-31")
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
-快的打车 | [Android 开发](./上海--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-足记FotoPlace | [Android 开发](./上海--JD/足记 Android.md) | 高薪 快速成长 发展空间大 妹子多 | [fengxiao@fotoplace.cc](mailto:fengxiao@fotoplace.cc "有效期至 2015-12-31")
 大众点评 | [资深 Android](./上海--JD/大众点评 资深Android.md) | 高薪 技术氛围好 快速成长 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 华为EMUI | [Android 开发](./上海--JD/华为EMUI Android .md) | 华为EMUI开发  | [bisheng7@huawei.com](mailto:bisheng7@huawei.com "有效期至 2015-03-31")
 云收益 | [Android 开发](./上海--JD/云收益Android.md) | 90后 氛围轻松 高配装备 | [fj@yunshouyi.pro](mailto:fj@yunshouyi.pro "有效期至 2015-06-31")
@@ -97,7 +95,6 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 阿里集团 | [Android 各级别](./杭州--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 多听 | [Android 开发](http://www.lagou.com/jobs/95475.html) | 13薪 景区办公 自由 成长机会 | [jerry0908mo@163.com](mailto:jerry0908mo@163.com "有效期至 2015-12-31")  
 网易LOFTER | [Android 开发](./杭州--JD/网易LOFTER Android.md) | 有技术追求的伙伴 | [shi-qiang@corp.netease.com](mailto:shi-qiang@corp.netease.com "有效期至 2015-12-31")
-快的打车 | [Android 开发](./杭州--JD/快的打车 Android.md) | 15薪 快速成长 期权 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 网易 | [Android 开发](./杭州--JD/网易杭州研究院 Android.md) | 行业最高薪资 有技术追求的伙伴 福利好 | [zzq1389xin@163.com](mailto:zzq1389xin@163.com "有效期至 2015-12-31")
 
 ####Shen Zhen
@@ -105,7 +102,6 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 :------------- | :------------- | :-------------  | :-------------
 蚂蚁金服 | [Android 各级别](./深圳--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 阿里集团 | [Android 各级别](./深圳--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
-多彩人生 | [Android 开发](./深圳--JD/多彩人生 Android.md) | 高奖金、分股权、扁平管理 | [hr@varicom.cn](mailto:hr@varicom.cn "有效期至 2015-12-31")
 赤雨科技 | [Android 开发](./深圳--JD/赤雨科技 Android.md) | 绝对有竞争力的薪资体系 | [3866849@qq.com](mailto:3866849@qq.com "有效期至 2015-12-31")
 小恩爱 | [Android 高级工程师](./深圳--JD/小恩爱 Android.md) | 配备MAC , 弹性工作, 上升空间 | [hr@xiaoenai.com](mailto:hr@xiaoenai.com "有效期至 2015-12-31")
 唯一 | [Android 高级工程师](./深圳--JD/唯依 Android.md) | 轻松氛围，做有理想的产品，股票期权分享成果 | [ajowei@foxmail.com](mailto:ajowei@foxmail.com "有效期至 2015-06-31")
