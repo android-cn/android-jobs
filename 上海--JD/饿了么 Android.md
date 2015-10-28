@@ -29,4 +29,4 @@
 - 刚融完 3.5亿 美金
 
 ####联系方式
-[yang.zhangsh@ele.me](mailto:yang.zhangsh@ele.me)
+[simin.chen@ele.me](mailto:simin.chen@ele.me)
