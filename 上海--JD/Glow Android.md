@@ -1,6 +1,6 @@
 Glow 公司 Android/iOS 开发工程师
 ==========
-
+![Glow](http://mmbiz.qpic.cn/mmbiz/rQUzQorW5vPEIsM19378gZPmIUgQ8QgjI20rFhicZEznicKDTA3ICT4Nw1p0oylYEDVDToy1As72GI01bibrjOIWw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 ####公司介绍
 [Glow](https://glowing.com)是一家来自**硅谷**的创业公司，主要员工来自**Google、腾讯、IBM**等多家著名公司。
 Glow 关注女性生育健康的移动应用公司，成立1年多。
@@ -34,3 +34,7 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 
 ####联系方式
 [j.yin@glowing.com](mailto:j.yin@glowing.com)
+
+####环境
+![Enviroment](http://mmbiz.qpic.cn/mmbiz/rQUzQorW5vM6AcEykRMIG9PEA0qf740nUJibDOIA6iadH7rlgeZQloLhaGAib2hJsEwib4ngQO8hJlszham3lrZicbg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](http://mmbiz.qpic.cn/mmbiz/rQUzQorW5vM6AcEykRMIG9PEA0qf740nok7AicBmD72D0LGynWSGrE8xyhmpICEbxhLFFDSUB40komNJLHy1CMQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
