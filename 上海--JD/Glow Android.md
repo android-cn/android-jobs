@@ -10,7 +10,7 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 如果大家想要和硅谷传奇人物一起工作，在国内这是非常难得的机会。
 
 ####职位描述
-做为一个创业公司的工程师，除了Android开发之外，你也需要完成服务器端的开发，甚至做数据分析或是运维部署。
+做为一个创业公司的工程师，除了Android/iOS开发之外，你也需要完成服务器端的开发，甚至做数据分析或是运维部署。
 你会接触到很多的Open-Source工具和各种云服务。我们的目标是让这里的每一个人都成为全栈工程师。
 
 ####薪酬福利：
@@ -26,7 +26,7 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 ####职位要求 
 * 有丰富Android/iOS的开发经验
 * 扎实的编程基本功，包括算法与数据结构等
-* 除objC/Java之外，至少了解一种服务器端动态语言，Python/Ruby/NodeJS/Clojure等等
+* 除Swift/Java之外，至少了解一种服务器端动态语言，Python/Ruby/NodeJS/Clojure等等
 * 全栈工程师重点考虑！
 * 有python开发web/mobile app经验者优先
 * 较强的英文能力，尤其是读写。
