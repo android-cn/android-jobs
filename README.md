@@ -70,7 +70,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 爱吧婚恋 | [Android 开发](./上海--JD/爱吧婚恋 Android.md) | 有竞争力的薪资和期权 | [sky.shi@aiba.com](mailto:sky.shi@aiba.com "有效期至 2015-12-31")
 乔布简历 | [Android 开发](./上海--JD/乔布简历 Android.md) | 3年以上经验 Android 大神，薪水你说了算 | [Lily@qiaobutang.com](mailto:Lily@qiaobutang.com "有效期至 2015-12-31")
 微盟 | [Android 开发](./上海--JD/微盟Weimob Android.md) | 14薪加季度奖 每年2次旅游 | [hunter.v.wang@gmail.com](mailto:hunter.v.wang@gmail.com "有效期至 2015-12-31")
-电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [dev@moretv.com.cn](mailto:ruanyh9918@gmail.com "有效期至 2015-12-31")
+电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [dev@moretv.com.cn](mailto:dev@moretv.com.cn "有效期至 2016-12-31")
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 高配装备 高速发展 | [simin.chen@ele.me](mailto:simin.chen@ele.me "有效期至 2015-12-31")
 爱奇艺（上海） | [Android 开发](./上海--JD/爱奇艺Android.md) | 高薪、期权及有技术追求的伙伴 | [shenyunlong@qiyi.com](mailto:shenyunlong@qiyi.com "有效期至 2015-12-31")
 大众点评 | [资深 Android](./上海--JD/大众点评 资深Android.md) | 高薪 技术氛围好 快速成长 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
@@ -87,6 +87,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 我厨 | [Android 研发](./上海--JD/我厨 Android.md) | 生鲜电商、待遇好、妹纸多 9~15K | [zhouli@wochu.cc](mailto:zhouli@wochu.cc "有效期至 2015-12-31")
 招商银行 | [Android 开发](./上海--JD/招商银行Android.md) | O2O新项目，银行不差钱 | [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com "有效期至 2015-12-31")
 筹道股权 | [Android 开发](./上海--JD/筹道股权 Android.md) | 扁平管理、弹性工作、福利好 | [niedh@choudao.com](mailto:niedh@choudao.com "有效期至 2015-12-31")
+微鲸科技 | [Android/iOS 开发](./上海--JD/微鲸科技 Android/iOS.md) | 互联网电视 高薪期权 | [zhang.yang@whaley.cn](mailto:zhang.yang@whaley.cn "有效期至 2016-05-31") 
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
