@@ -1,4 +1,4 @@
-Glow 公司 Android 开发工程师
+Glow 公司 Android/iOS 开发工程师
 ==========
 
 ####公司介绍
@@ -24,9 +24,9 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 * rMBP + 显示器
 
 ####职位要求 
-* 有丰富Android的开发经验
+* 有丰富Android/iOS的开发经验
 * 扎实的编程基本功，包括算法与数据结构等
-* 除Java之外，至少了解一种服务器端动态语言，Python/Ruby/NodeJS/Clojure等等
+* 除objC/Java之外，至少了解一种服务器端动态语言，Python/Ruby/NodeJS/Clojure等等
 * 全栈工程师重点考虑！
 * 有python开发web/mobile app经验者优先
 * 较强的英文能力，尤其是读写。
