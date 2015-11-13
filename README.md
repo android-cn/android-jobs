@@ -32,7 +32,6 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 一起玩耍 | [Android 开发](./北京--JD/一起玩耍 Android.md) | 一起上路，打怪升级，有肉偿 | [lianxiang@wan123.tv](mailto:lianxiang@wan123.tv "有效期至 2015-12-31")
 手表控 | [Android 开发](./北京--JD/手表控（乐动力） Android.md) | 运动健康专家 智能穿戴 A轮期权13薪 | [new_hero@ledongli.me](mailto:new_hero@ledongli.me "有效期至 2015-12-31")
 美团 | [Android 开发](./北京--JD/美团 Android.md) | 高薪，技术氛围好，随时上市 | [flyouting@gmail.com](mailto:flyouting@gmail.com "有效期至 2015-12-31")
-易遨 | [Android 开发](./北京--JD/易遨 Android.md) | 创新工场旗下 技术成长 弹性上下班 | [sunpengshuai@eallcn.com](mailto:sunpengshuai@eallcn.com "有效期至 2015-12-31")
 穷游网 | [Android 开发](./北京--JD/穷游网 Android.md) | 14薪 季度奖 Mac [国外团建&年会](http://v.youku.com/v_show/id_XODg3MTkzMzY0.html?from=y1.2-1-94.3.1-1.1-1-1-0)| [tom5953@163.com](mailto:tom5953@163.com "有效期至 2016-12-31")
 小间科技 | [Android J2EE](./北京--JD/小间科技 Android-Java 服务端.md) | 高速发展 项目奖金 足够成长空间 | [95143848@qq.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")  
 微博微博私信 | [Android 开发](./北京--JD/微博私信 Android.md) | 技术氛围浓厚 开春每周有足球 | [shuangquan@staff.weibo.com](mailto:shuangquan@staff.weibo.com "有效期至 2015-12-31")
