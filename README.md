@@ -112,6 +112,7 @@ Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，
 腾讯QQ | [Android 工程师](./深圳--JD/腾讯手机QQ Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 腾讯QZone | [Android 工程师](./深圳--JD/腾讯手机Qzone Android.md) | 高薪、靠谱产品及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 Darma | [Android 开发](./深圳--JD/Darma Android.md) | 高薪、高奖金、高期权、扁平管理、创新奋进的硅谷归国团队 | [vic@darma.co](mailto:vic@darma.co "有效期至 2015-12-31")
+纷享销客|[Android高级工程师](./深圳--JD/纷享销客深圳研发中心 Android.md) |高薪、技术大牛、扁平化管理|[wusj@fxiaoke.com](mailto:wusj@fxiaoke.com)
 
 ####Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
