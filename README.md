@@ -88,7 +88,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 我厨 | [Android 研发](./上海--JD/我厨 Android.md) | 生鲜电商、待遇好、妹纸多 9~15K | [zhouli@wochu.cc](mailto:zhouli@wochu.cc "有效期至 2015-12-31")
 招商银行 | [Android 开发](./上海--JD/招商银行Android.md) | O2O新项目，银行不差钱 | [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com "有效期至 2015-12-31")
 筹道股权 | [Android 开发](./上海--JD/筹道股权 Android.md) | 扁平管理、弹性工作、福利好 | [niedh@choudao.com](mailto:niedh@choudao.com "有效期至 2015-12-31")
-微鲸科技 | [Android/iOS 开发](./上海--JD/微鲸科技 Android/iOS.md) | 互联网电视 高薪期权 | [zhang.yang@whaley.cn](mailto:zhang.yang@whaley.cn "有效期至 2016-05-31") 
+微鲸科技 | [Android/iOS 开发](./上海--JD/微鲸科技 Android.md) | 互联网电视 高薪期权 | [zhang.yang@whaley.cn](mailto:zhang.yang@whaley.cn "有效期至 2016-05-31") 
 Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，15-30k，大量股权激励 |[j.yin@glowing.com](mailto:j.yin@glowing.com "有效期至 2016-12-31") 
 
 ####Hang Zhou
