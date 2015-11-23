@@ -62,6 +62,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 花花草草 | [Android 开发](./北京--JD/花花草草 Android.md) | 高薪、全员Mac、有妹子 | [perry@hhcc.io](mailto:perry@hhcc.io "有效期至 2015-12-31")
 GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期权、无限前景 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2015-12-31")
 鲜老虎 | [Android 开发](./北京--JD/鲜老虎 Android.md) | 高薪、期权、靠谱的伙伴跟老大 | [zhuohong@xianlaohu.com](mailto:zhuohong@xianlaohu.com "有效期至 2015-12-31")
+阿里神马 | [Android 开发](./北京--JD/阿里神马事业部 Android.md.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
