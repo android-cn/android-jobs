@@ -83,7 +83,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 技术氛围
 腾讯Qzone | [Android 工程师](./上海--JD/腾讯SNG08 Android.md) | 大企鹅、前景待遇福利好 | [kesenhu@tencent.com](mailto:kesenhu@tencent.com "有效期至 2015-09-30")
 魔蛋 | [Android 开发](./上海--JD/魔蛋科技 Android.md) | 高薪、期权及有情怀的技术小伙伴 | [iwebpp@gmail.com](mailto:iwebpp@gmail.com "有效期至 2015-12-31")
 一起 | [Android主工程师](./上海--JD/一起 主程Android.md) | 前景好、待遇好、期权| [jiangfengbo@yiqixxx.com](mailto:jiangfengbo@yiqixxx.com "有效期至 2015-07-31")
-到喜啦 | [Android 开发](./上海--JD/到喜啦Android.md) | 高薪 C轮 技术氛围好 期权| [captainjack6688@gmail.com](mailto:captainjack6688@gmail.com "有效期至 2015-12-31")
+到喜啦 | [Android 开发](./上海--JD/到喜啦Android.md) | 高薪 C轮 技术氛围好 期权 | [captainjack6688@gmail.com](mailto:captainjack6688@gmail.com "有效期至 2015-12-31")
 安居客 | [Android 开发](./上海--JD/安居客 Android.md) | 高薪、较好的成长环境 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2015-12-31")
 65代购 | [Android 研发](./上海--JD/65代购 Android.md) | 低调做实事 处于风口 跨境电商 10~35K | [wengwei@team.65daigou.com](mailto:wengwei@team.65daigou.com "有效期至 2015-12-31")
 我厨 | [Android 研发](./上海--JD/我厨 Android.md) | 生鲜电商、待遇好、妹纸多 9~15K | [zhouli@wochu.cc](mailto:zhouli@wochu.cc "有效期至 2015-12-31")
