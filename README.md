@@ -46,7 +46,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 口袋购物 | [高级 Android](./北京--JD/口袋购物 Android.md) | 高薪、期权、人手mackbook、来自BAT技术团队 | [zhangjianbo@koudai.com](mailto:zhangjianbo@koudai.com "有效期至 2015-12-31")
 车网互联 | [Android 开发](./北京--JD/车网互联 Android.md) | 车联网的广阔市场 | [liyanshun@che08.com](mailto:liyanshun@che08.com "有效期至 2015-12-31")
 友盟 | [Android 架构师](./北京--JD/友盟 Android.md) | 氛围好，弹性工作时间，福利好，专业团队 | [simplecoder.h@gmail.com](mailto:simplecoder.h@gmail.com "有效期至 2015-12-31")  |
-台达中国研发中心 | [Android 开发](./北京--JD/台达中国研发中心 Android.md) | 移动安全 物联网 | [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn"有效期至 2015-12-31")
+台达中国研发中心 | [Android 高级开发](./北京--JD/台达中国研发中心 Android.md) | 稳定 加班少 快速成长 物联网 | [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn"有效期至 2016-12-31")
 5TV | [Android 开发](./北京--JD/5TV Android.md) | 期权 A轮 娱乐短视频 | [gaominglun@gmail.com](mailto:gaominglun@gmail.com "有效期至 2015-6-31")
 悟空理财 | [Android 开发](./北京--JD/悟空理财 Android.md) | 弹性工作、无限零食、各种福利 | [baoyz@live.com](mailto:baoyz@live.com "有效期至 2015-05-31")
 nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长空间大 | [mazixuan@oneniceapp.com](mailto:mazixuan@oneniceapp.com "有效期至 2015-12-31")
