@@ -22,5 +22,4 @@ IDG资本A轮融资
 5. 本科以上学历，3年以上工作经验。(特别优秀者，可适当放宽条件)  
 
 ####联系方式
-[jack.ruan@cnnreits.com](jack.ruan@cnnreits.com)  
-或者加QQ：644229871（微信）  
+[dev@moretv.com.cn](dev@moretv.com.cn)  
