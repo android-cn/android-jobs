@@ -17,3 +17,6 @@
 **非技术要求：**  
 - 团队简单、团结、有爱。所以，你应该也是！
 - 有团队合作精神，和积极向上的人生观
+
+####联系方式
+[talents@mofunsky.com](mailto:talents@mofunsky.com)  

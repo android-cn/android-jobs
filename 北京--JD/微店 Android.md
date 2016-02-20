@@ -56,4 +56,4 @@ Android应用/架构开发工程师
 - 15k~35k  
 
 ####联系方式
-[zhaoyu@weidian.com](mailto:zhaoyu@weidian.com)   
+[zhangjianbo@weidian.com](mailto:zhangjianbo@weidian.com)  

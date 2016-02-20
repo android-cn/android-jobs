@@ -28,5 +28,5 @@
 - 其实面试的时候主要还是看你的经验和工作技能，如果你对某个方面，例如SDK，android framework层，通讯层比较擅长，可以在发简历的时候注明下，我可以直接将你的简历内推至我们内部的各位老大们，这样更准确，也能让你找到心仪的工作。  
 
 ####联系方式
-[zx19899891@163.com](mailto:zx19899891@163.com)  
+[zhangxin@meizu.com](mailto:zhangxin@meizu.com)  
 建议投递简历时附上GitHub链接。  

@@ -17,4 +17,4 @@
 - 15k-30k
 
 ####联系方式
-[anlijun@jd.com](mailto:anlijun@jd.com)
+[liudengyong@jd.com](mailto:liudengyong@jd.com)
