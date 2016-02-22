@@ -8,7 +8,7 @@
 可直接在 [阿里社招主页](https://job.alibaba.com/zhaopin/position_list.htm) 搜索你感兴趣的职位，然后把职位链接和简历给我即可 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
 ####薪资福利
-- 15k - 50k，年终奖 3 - 6 个月
+- 15k - 40k，至少 16 薪
 - 股票
 
 ####联系方式

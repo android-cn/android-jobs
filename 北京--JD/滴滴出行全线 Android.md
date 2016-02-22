@@ -32,7 +32,7 @@
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
 ####薪资福利
-薪资 20k-50k，六险一金，期权，福及全家人的商业保险等奖励。  
+薪资 20k-45k，至少 16 薪，六险一金，期权，福及全家人的商业保险等奖励。  
 
 二、顺风车事业部招 Android 工程师/高级工程师
 ==========
@@ -53,7 +53,7 @@
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
 ####薪资福利
-薪资 20k-40k，六险一金，期权，福及全家人的商业保险等奖励。  
+薪资 20k-40k，至少 16 薪，六险一金，期权，福及全家人的商业保险等奖励。  
 
 三、快车事业部招 Android 高级工程师
 ==========
@@ -78,7 +78,7 @@
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
 ####薪资福利
-薪资 20k-40k，六险一金，期权，福及全家人的商业保险等奖励。  
+薪资 20k-40k，至少 16 薪，六险一金，期权，福及全家人的商业保险等奖励。  
 
 > 更多 Android 及 iOS 职位可直接在 [滴滴社招主页](http://job.xiaojukeji.com/social) 搜索你感兴趣的职位，然后把职位链接和简历给我即可 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
