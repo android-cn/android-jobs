@@ -13,7 +13,7 @@
 
 ####薪资福利
 - 15k-40k，至少 16 薪
-- 股票
+- 六险一金、股票
 
 ####联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
