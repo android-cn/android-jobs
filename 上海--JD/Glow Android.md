@@ -13,13 +13,13 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 你会接触到很多的Open-Source工具和各种云服务。我们的目标是让这里的每一个人都成为全栈工程师。
 
 ####薪酬福利：
-* 15k - 30k月薪 + 大量的股权激励
-* 10天带薪年假
+* 15k - 30k月薪 + 大量的股权激励 (绝不让你失望！)
+* 15天带薪年假
 * 带薪病假（暂无上限）
 * 全天水果、零食、饮料无限供应
 * 免费午餐和晚餐
-* 工作地点在人民广场，3条地铁线交汇，交通方便
-* 高端医疗保险
+* 工作地点在人民广场，地铁1/2/8线交汇，交通方便
+* 高端医疗保险，告别医院长队
 * rMBP + 显示器
 
 ####职位要求 
@@ -32,3 +32,7 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 
 ####联系方式
 [j.yin@glowing.com](mailto:j.yin@glowing.com)
+
+![](http://www.lagou.com/image1/M00/45/A1/CgYXBlXb7_SAbNrhAA4REc63f0M074.jpg)
+![](http://www.lagou.com/image1/M00/45/A1/CgYXBlXb8DWAUx8qAA3x8V7MGNA997.jpg)
+![](http://www.lagou.com/image1/M00/45/A1/CgYXBlXb8KeASBD7AAMC62PGY6g816.jpg)
