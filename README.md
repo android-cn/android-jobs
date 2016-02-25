@@ -1,8 +1,8 @@
-[Android 全国职位列表 ](http://www.codekk.com/jobs) 
+[Android 全国职位列表 ](http://j.codekk.com) 
 ==========  
 **我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  
 
-> 我们的网页版：[www.codekk.com](http://www.codekk.com/jobs)
+> 我们的网页版：[j.codekk.com](http://j.codekk.com)
 
 **招聘者：** 欢迎 [添加职位](https://github.com/android-cn/android-jobs/wiki/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%81%8C%E4%BD%8D%E5%8F%8A%E5%86%85%E5%AE%B9%E8%A7%84%E8%8C%83 "查看职位添加步骤和规范")  
 
@@ -11,7 +11,7 @@
  或`Watch`这个项目接收新职位通知  
  
 ### 目录
-[北京](http://www.codekk.com/jobs/city/beijing)  [上海](http://www.codekk.com/jobs/city/shanghai)  [杭州](http://www.codekk.com/jobs/city/hangzhou)  [广州](http://www.codekk.com/jobs/city/guangzhou)  [深圳](http://www.codekk.com/jobs/city/shenzhen)  [珠海](http://www.codekk.com/jobs/city/zhuhai)  [成都](http://www.codekk.com/jobs/city/chengdu)  [厦门](http://www.codekk.com/jobs/city/xiamen)  [东莞](http://www.codekk.com/jobs/city/dongguan)  
+[北京](http://j.codekk.com/city/beijing)  [上海](http://j.codekk.com/city/shanghai)  [杭州](http://j.codekk.com/city/hangzhou)  [广州](http://j.codekk.com/city/guangzhou)  [深圳](http://j.codekk.com/city/shenzhen)  [珠海](http://j.codekk.com/city/zhuhai)  [成都](http://j.codekk.com/city/chengdu)  [厦门](http://j.codekk.com/city/xiamen)  [东莞](http://j.codekk.com/city/dongguan)  
 [武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  [西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
 
 ####Bei Jing
