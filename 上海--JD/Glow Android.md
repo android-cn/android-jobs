@@ -2,7 +2,7 @@ Glow 公司 Android/iOS 开发工程师
 ==========
 ####公司介绍
 [Glow](https://glowing.com)是一家来自**硅谷**的创业公司，主要员工来自**Google、腾讯、IBM**等多家著名公司。
-Glow 关注女性生育健康的移动应用公司，成立1年多。
+Glow 关注女性生育健康的移动应用公司，2013年成立。
 Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也是**Yahoo, Evernote**的董事会成员，在硅谷也是传奇式人物。
 公司由产品与技术主导，总部在上海。
 
