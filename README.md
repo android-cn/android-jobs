@@ -7,7 +7,7 @@
 **招聘者：** 欢迎 [添加职位](https://github.com/android-cn/android-jobs/wiki/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%81%8C%E4%BD%8D%E5%8F%8A%E5%86%85%E5%AE%B9%E8%A7%84%E8%8C%83 "查看职位添加步骤和规范")  
 
 **求职者：**  关注我们的微信公众号 codekk，接收最新职位通知。二维码如下：  
- ![img](https://raw.githubusercontent.com/aosp-exchange-group/about/master/weixin-qrcode.jpg)  
+ ![img](http://p.codekk.com/images/weixin-codekk-160.jpg)  
  或`Watch`这个项目接收新职位通知  
  
 ### 目录
