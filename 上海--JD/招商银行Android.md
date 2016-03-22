@@ -30,4 +30,4 @@ Android/iOS/Java/Web前端 开发 18-30W+
 [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com)
 
 可扫描以下二维码直接投递：  
- ![img](http://media.xtwind.com/images/2016/03/22/16f5f99e0c44ba6bfc767b87da8699ab.png)  
+ ![img](http://media.xtwind.com/images/2016/03/22/0244f12356ddec3886446a0bd925561d.png)  
