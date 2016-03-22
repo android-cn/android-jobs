@@ -1,4 +1,4 @@
-北京万桥达观信息技术有限公司(Everbridge)  Android工程师
+北京万桥达观信息技术有限公司(Everbridge)  Android/iOS工程师
 
 关于公司业务：
 http://www.fortunechina.com/business/c/2013-05/10/content_155675.htm
@@ -6,6 +6,8 @@ http://www.fortunechina.com/business/c/2013-05/10/content_155675.htm
 诱惑：
 
 Mac Pro(16G)/每周二自助餐/无限饮品、零食/无!加!班!/弹性时间/自由度高...
+
+Android工程师
 
 职位描述
 
@@ -32,6 +34,31 @@ Mac Pro(16G)/每周二自助餐/无限饮品、零食/无!加!班!/弹性时间/
 6.能承担较大工作压力，具备良好沟通能力与团队合作精神，有良好的学习能力和逻辑思维能力；
 
 7.英语读写良好。
+
+iOS工程师
+
+岗位职责：
+
+1、根据需求进行IPhone客户端软件的设计、开发和维护及文档的编写；
+
+2、不断学习Iphone新产品开发技术，跟踪技术发展方向；
+
+3、负责与产品人员沟通和其他相关资源的协调。
+
+任职要求：
+
+1、计算机或相关专业，本科以上学历，英语四级以上，能熟练阅读英文文档；
+
+2、2年及以上IPHONE平台应用程序开发经验；
+
+3、熟悉面向对象设计和实现，熟悉iOS SDK、REST协议，熟练掌握Objective-C，有Swift经验优先，熟悉CoreData或其他ORM framework，多线程编程；
+
+4、熟练掌握iOS界面开发，熟悉Interface builder, Storyboard, Autolayout等相关技术；
+
+5、工作踏实认真，有良好的学习能力、团队合作精神，能承受工作压力；
+
+6、有App Store上线应用者优先。
+
 
 
 关于我们
