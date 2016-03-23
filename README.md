@@ -42,7 +42,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 蚂蚁金服 | [Android 各级别](./上海--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 阿里集团 | [Android 各级别](./上海--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 腾讯 | [Android 工程师](./上海--JD/腾讯 Android.md) | 高薪、靠谱产品、数亿用户、无息房贷 | [315226895@qq.com](mailto:315226895@qq.com "有效期至 2016-12-31")
-招商银行 | [Android 开发](./上海--JD/招商银行Android.md) | O2O新项目，银行不差钱 | [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com "有效期至 2016-12-31")
+招商银行 | [Android/IOS 开发](./上海--JD/招商银行Android.md) | 各类补贴、落户、行员贷款 | [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com "有效期至 2016-12-31")
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 高配装备 高速发展 | [simin.chen@ele.me](mailto:simin.chen@ele.me "有效期至 2016-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [dev@moretv.com.cn](mailto:dev@moretv.com.cn "有效期至 2016-12-31")
 筹道股权 | [Android 开发](./上海--JD/筹道股权 Android.md) | 扁平管理、弹性工作、福利好 | [niedh@choudao.com](mailto:niedh@choudao.com "有效期至 2016-12-31")

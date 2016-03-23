@@ -1,16 +1,16 @@
-招商银行信用卡中心 Android 开发工程师
+招商银行信用卡中心 Android/IOS/架构师/Java/测试
 ==========
 
 ####公司介绍
-招商银行新成立的 o2o 项目，急招架构师、Android、iOS、Java、前端开发工程师  
+招商银行信用卡中心，急招架构师、Android、iOS、Java、WEB前端，交互设计师， 测试。 
 
-####职位描述
+####Android职位描述
 1. 负责移动产品的开发和优化，参与软件的设计、实现、测试、集成以及维护； 
 2. 按照开发流程编写设计文档； 
 3. 根据项目计划按时完成开发、测试及上线工作； 
 4. 根据业务变化、不断改善升级产品，保证系统的性能、稳定性及可靠性。
 
-####任职资格：
+####Android任职资格：
 1. 2 年以上 Android 应用开发经验； 
 2. 熟练掌握 Android SDK 相关技术，Eclipse/SVN 环境，及 Java 开发； 
 3. 具有 Android 平台软件总体架构规划和设计能力； 
@@ -20,9 +20,15 @@
 7. 有 iOS，Mysql 和 TCP/IP 等开发经验者优先。
 
 ####待遇
-Android/iOS 开发 25W+  
+Android/iOS/Java/Web前端 开发 18-30W+  
 架构师 40W+  
-银行你懂得  
+银行你懂得,除了各类福利补贴，可以办理上海落户(本科亦可哦)
+行员贷款买房  
+
 
 ####联系方式
 [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com)
+
+手机扫描二维码直接投递简历：  
+ ![img](http://media.xtwind.com/images/2016/03/22/0244f12356ddec3886446a0bd925561d.png)  
+请留意邮箱补全信息
