@@ -17,6 +17,7 @@
 ####Bei Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
+秒拍&小咖秀 | [Android 开发](./北京--JD/秒拍&小咖秀 Android.md ) | 高薪、期权及有技术追求的伙伴 | [zhuliang@yixia.com](mailto:zhuliang@yixia.com "有效期至 2016-12-31")
 蚂蚁金服 | [Android 各级别](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 阿里集团 | [Android 各级别](./北京--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 滴滴打车 | [Android 开发](./北京--JD/滴滴出行全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
