@@ -17,7 +17,6 @@
 ####Bei Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-秒拍&小咖秀 | [Android 开发](./北京--JD/秒拍&小咖秀 Android.md ) | 高薪、期权及有技术追求的伙伴 | [zhuliang@yixia.com](mailto:zhuliang@yixia.com "有效期至 2016-12-31")
 蚂蚁金服 | [Android 各级别](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 阿里集团 | [Android 各级别](./北京--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 滴滴打车 | [Android 开发](./北京--JD/滴滴出行全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
@@ -36,7 +35,7 @@ YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http:
 GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期权、无限前景 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2016-12-31")
 下厨房 | [Android 开发](./北京--JD/下厨房 Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2016-12-31")
 北京万桥达观信息技术有限公司 | [Android 开发](./北京--JD/北京万桥达观信息技术有限公司 Android.md) | Mac Pro(16G) 无!加!班! 无限饮品、零食 | [marco.liu@everbridge.com](marco.liu@everbridge.com "有效期至 2016-12-31")
-秒排&小咖秀 | [Android 开发](./北京--JD/秒排&小咖 Android.md) | 15薪、股票、福利好 | [zhuliang@yixia.com](zhuliang@yixia.com "有效期至 2016-12-31")
+秒拍&小咖秀 | [Android 开发](./北京--JD/秒拍&小咖秀 Android.md ) | 高薪、期权及有技术追求的伙伴 | [zhuliang@yixia.com](mailto:zhuliang@yixia.com "有效期至 2016-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
