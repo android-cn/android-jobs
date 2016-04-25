@@ -30,6 +30,7 @@ YOU+ | [Andriod 开发](https://github.com/android-cn/android-jobs/blob/master/%
 跟我学 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E8%B7%9F%E6%88%91%E5%AD%A6%20Android.md) | 期权 团建 晋升机会大 弹性上下班| [zubin.jiang@gmail.com](mailto:zubin.jiang@gmail.com "有效期至 2014-12-31")
 神剧 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E7%A5%9E%E5%89%A7%20Android.md) | A轮 妹子多 零食多 期权 弹性上下班 | [hr@shanpow.com](mailto:hr@shanpow.com "有效期至2015-12-31")
 一起玩耍 | [Android 开发](https://github.com/android-cn/android-jobs/blob/master/%E5%8C%97%E4%BA%AC--JD/%E4%B8%80%E8%B5%B7%E7%8E%A9%E8%80%8D%20Android.md) | 一起上路，打怪升级，有肉偿 | [lianxiang@wan123.tv](mailto:lianxiang@wan123.tv "有效期至 2015-12-31")
+乐动力 | [Android 开发] (./北京--JD/乐动力 Android.md) | 健康生活健康coding | [wangzushan@ledongli.me](mailto:wangzushan@ledongli.me "有效期至 2016-8-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
