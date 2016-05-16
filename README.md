@@ -84,7 +84,7 @@ Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，
 ####Cheng Du
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-待定 |  |  |  |
+多点 | [Android 开发](./成都--JD/多点 Android.md) | 高薪、股份、上升空间大、方向靠谱、团队靠谱 | [hao.ni@dmall.com](mailto:hao.ni@gmail.com "有效期至 2016-7-31")
 
 ####Wu Han
 公司  | JD 地址 | 一句话诱惑 | 联系人
