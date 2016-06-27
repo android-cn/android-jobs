@@ -84,12 +84,12 @@ Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，
 ####Cheng Du
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-多点 | [Android 开发](./成都--JD/多点 Android.md) | 高薪、股份、上升空间大、方向靠谱、团队靠谱 | [hao.ni@dmall.com](mailto:hao.ni@gmail.com "有效期至 2016-7-31")
+多点 | [Android 开发](./成都--JD/多点 Android.md) | 高薪、股份、上升空间大、方向靠谱、团队靠谱 | [hao.ni@dmall.com](mailto:hao.ni@gmail.com "有效期至 2016-07-31")
 
 ####Wu Han
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-泰乐奇 | [Android 开发](./武汉--JD/泰乐奇 Android.md) | 期权，快速成长，弹性工时 | [liyuan_new@foxmail.com](mailto:liyuan_new@foxmail.com "有效期至 2016-8-31")
+泰乐奇 | [Android 开发](./武汉--JD/泰乐奇 Android.md) | 期权，快速成长，弹性工时 | [liyuan_new@foxmail.com](mailto:liyuan_new@foxmail.com "有效期至 2016-08-31")
 
 ####Dong Guan
 公司  | JD 地址 | 一句话诱惑 | 联系人
