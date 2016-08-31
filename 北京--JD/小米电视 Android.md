@@ -26,5 +26,4 @@ MITV是小米3大业务板块之一，内部是创业公司氛围；电视盒子
 - 期权
 
 ####联系方式
-[jun.zhang@xiaomi.com](mailto:junzhang@xiaomi.com)  
-[wangwei1@xiaomi.com](mailto:wangwei1@xiaomi.com)
+[jun.zhang@xiaomi.com](mailto:junzhang@xiaomi.com) [wangwei1@xiaomi.com](mailto:wangwei1@xiaomi.com)  

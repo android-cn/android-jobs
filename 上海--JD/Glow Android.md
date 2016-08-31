@@ -32,6 +32,7 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 * 较强的英文能力，尤其是读写。
 
 ####办公环境
+  
 ![](http://www.lagou.com/image1/M00/45/A1/CgYXBlXb7_SAbNrhAA4REc63f0M074.jpg)  
 ![](http://www.lagou.com/image1/M00/45/A1/CgYXBlXb8DWAUx8qAA3x8V7MGNA997.jpg)  
 ![](http://www.lagou.com/image1/M00/45/A1/CgYXBlXb8KeASBD7AAMC62PGY6g816.jpg)  
