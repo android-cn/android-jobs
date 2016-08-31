@@ -31,8 +31,9 @@ bilibil网站以动漫游戏为主，为用户提供一个稳定的弹幕视频�
 - 二次元特色节日
 - Bilibili养猪厂提供的免费零食饮料
 
-#### 联系方式
-邮箱：[xiexiaofeng@bilibili.com](mailto:xiexiaofeng@bilibili.com)  
 其他详情请见：[招聘主页](http://www.bilibili.com/html/join-list.html)
 
-![欢迎您的加入](http://i4.piimg.com/fe14309549173955.png)
+![欢迎您的加入](http://i4.piimg.com/fe14309549173955.png)  
+
+#### 联系方式
+邮箱：[xiexiaofeng@bilibili.com](mailto:xiexiaofeng@bilibili.com)  

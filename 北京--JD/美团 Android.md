@@ -33,4 +33,5 @@
 - 熟悉Linux系统，了解Kernel，有嵌入式系统或硬件研发经验者优先；
 - 热爱移动互联网，有创业经历者优先。
 
-联系方式：[gaofei04@meituan.com](mailto:gaofei04@meituan.com)  
+####联系方式
+[gaofei04@meituan.com](mailto:gaofei04@meituan.com)  

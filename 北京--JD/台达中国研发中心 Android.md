@@ -38,8 +38,8 @@
 ####薪资福利
 - 15k~30k  
 
+####具体地址
+北京市朝阳区北辰东路6号院7号楼  
+
 ####联系方式
 [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn)  
-
-####具体地址
-北京市朝阳区北辰东路6号院7号楼

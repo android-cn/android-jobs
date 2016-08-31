@@ -25,16 +25,14 @@
 美团 | [Android 开发](./北京--JD/美团 Android.md) | 高薪，技术氛围好，随时上市 | [gaofei04@meituan.com](mailto:gaofei04@meituan.com "有效期至 2016-12-31")
 58同城 | [Android 开发](./北京--JD/58同城 Android.md) | 上市公司，高薪，专注技术 | [majian@58.com](mailto:majian@58.com "有效期至 2016-12-31")
 微店 | [Android 开发](./北京--JD/微店 Android.md) | 15-35k，14-15薪，高期权前景好，福利丰厚 | [zhangjianbo@weidian.com](mailto:zhangjianbo@weidian.com "有效期至 2016-12-31")
-豌豆荚 | [Android 开发](./北京--JD/豌豆荚 Android.md) | Google 范儿有格调的 Lab | [zengcen@wandoujia.com](mailto:zengcen@wandoujia.com "有效期至 2016-12-31")
 魔方天空 | [Android 开发](./北京--JD/魔方天空 Android.md) | 在线教育，A轮刚完，有期权 | [talents@mofunsky.com](mailto:talents@mofunsky.com  "有效期至 2016-12-31")
 YOU+ | [Android 开发](./北京--JD/YOU+ Android.md) | [雷军投资A轮](http://weibo.com/1749127163/Bykq35t22)，全员配期权  | [liusong@youplus.cc](mailto:liusong@youplus.cc "有效期至 2016-12-31")
 一起玩耍 | [Android 开发](./北京--JD/一起玩耍 Android.md) | 一起上路，打怪升级，有肉偿 | [lianxiang@wan123.tv](mailto:lianxiang@wan123.tv "有效期至 2016-12-31")
-小间科技 | [Android J2EE](./北京--JD/小间科技 Android-Java 服务端.md) | 高速发展 项目奖金 足够成长空间 | [95143848@qq.com](mailto:95143848@qq.com "有效期至 2016-12-31")  
 233 手游直播 | [Android 开发](./北京--JD/233 手游直播 Android.md) | 和这个星球上的TA实时分享你那块原本孤独的屏幕 | [crossle@shou.tv](mailto:crossle@shou.tv "有效期至 2016-12-31")
 台达中国研发中心 | [Android 高级开发](./北京--JD/台达中国研发中心 Android.md) | 稳定 加班少 快速成长 物联网 | [jianlong.chen@deltaww.com.cn](mailto:jianlong.chen@deltaww.com.cn"有效期至 2016-12-31")
 GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期权、无限前景 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2016-12-31")
 下厨房 | [Android 开发](./北京--JD/下厨房 Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2016-12-31")
-北京万桥达观信息技术有限公司 | [Android 开发](./北京--JD/北京万桥达观信息技术有限公司 Android.md) | Mac Pro(16G) 无!加!班! 无限饮品、零食 | [marco.liu@everbridge.com](marco.liu@everbridge.com "有效期至 2016-12-31")
+北京万桥达观信息技术有限公司 | [Android 开发](./北京--JD/北京万桥达观信息技术有限公司 Android.md) | Mac Pro(16G) 无加班！ 无限饮品、零食 | [marco.liu@everbridge.com](marco.liu@everbridge.com "有效期至 2016-12-31")
 秒拍&小咖秀 | [Android 开发](./北京--JD/秒拍-小咖秀 Android.md) | 高薪、期权及有技术追求的伙伴 | [zhuliang@yixia.com](mailto:zhuliang@yixia.com "有效期至 2016-12-31")
 小米电视 | [Android 开发](./北京--JD/小米电视 Android.md) | 20-40k，13-15薪，高期权前景好，福利丰厚 | [jun.zhang@xiaomi.com](mailto:jun.zhang@xiaomi.com "有效期至 2016-12-31")
 
@@ -73,7 +71,7 @@ Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，
 ####Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-魅族MEIZU | [Android 开发](./珠海--JD/MEIZU Android.md) | 空气好!福利好!压力小!美女多! 高薪！股票期权！| [zhangxin@meizu.com](mailto:zhangxin@meizu.com "有效期至 2016-12-31")  
+魅族MEIZU | [Android 开发](./珠海--JD/MEIZU Android.md) | 空气好！福利好！压力小！美女多！高薪！股票期权！| [zhangxin@meizu.com](mailto:zhangxin@meizu.com "有效期至 2016-12-31")  
 
 ####Nan Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人

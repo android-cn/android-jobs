@@ -25,10 +25,5 @@ Android/iOS/Java/Web前端 开发 18-30W+
 银行你懂得,除了各类福利补贴，可以办理上海落户(本科亦可哦)
 行员贷款买房  
 
-
 ####联系方式
 [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com)
-
-手机扫描二维码直接投递简历：  
- ![img](http://media.xtwind.com/images/2016/03/22/0244f12356ddec3886446a0bd925561d.png)  
-请留意邮箱补全信息
