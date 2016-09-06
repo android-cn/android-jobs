@@ -38,4 +38,4 @@ Glow 的创始人Max Levchin之前创立了**Paypal, Slide，Yelp**，同时也�
 ![](http://www.lagou.com/image1/M00/45/A1/CgYXBlXb8KeASBD7AAMC62PGY6g816.jpg)  
 
 ####联系方式
-[j.yin@glowing.com](mailto:j.yin@glowing.com)
+[jay@glowing.com](mailto:jay@glowing.com)
