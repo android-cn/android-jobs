@@ -45,7 +45,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 招商银行 | [Android/IOS 开发](./上海--JD/招商银行Android.md) | 各类补贴、落户、行员贷款 | [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com "有效期至 2016-12-31")
 饿了么 | [Android 开发](./上海--JD/饿了么 Android.md) | 高配装备 高速发展 | [simin.chen@ele.me](mailto:simin.chen@ele.me "有效期至 2016-12-31")
 电视猫 | [Android 开发](./上海--JD/电视猫公司 Android.md) | 25W左右 开放 发展迅速 空间巨大 | [dev@moretv.com.cn](mailto:dev@moretv.com.cn "有效期至 2016-12-31")
-Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，15-30k，大量股权激励 |[j.yin@glowing.com](mailto:j.yin@glowing.com "有效期至 2016-12-31")
+Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，15-30k，大量股权激励 |[jay@glowing.com](mailto:jay@glowing.com "有效期至 2016-12-31")
 哔哩哔哩(B站) | [Android/iOS开发](./上海--JD/Bilibili Android.md) | 中二二次元技术宅集聚地，20-30k，高薪高逼格技术风格、大量绝度领域妹子 |[xiexiaofeng@bilibili.com](mailto:xiexiaofeng@bilibili.com "有效期至 2016-12-31") 
 
 ####Hang Zhou
