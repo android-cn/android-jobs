@@ -1,10 +1,11 @@
-## Teambition 高级 Android 工程师 ##
+Teambition 高级 Android 工程师
+====
 
-职位描述
+####职位描述####
 
 Teambition Android团队主要负责 Teambition Android客户端的开发、单元测试、模块设计，并不断优化我们产品架构，对App用户体验提出建议。
 
-###你的工作内容###
+####你的工作内容####
 
 1、完成 Android客户端底层及基础模块开发和优化；
 
@@ -18,7 +19,7 @@ Teambition Android团队主要负责 Teambition Android客户端的开发、单�
 
 6、参与代码评审，编写测试用例，保证代码质量；
 
-###我们的期望###
+####我们的期望####
 
 1、3年及以上Android开发经验；
 
@@ -35,4 +36,7 @@ Teambition Android团队主要负责 Teambition Android客户端的开发、单�
 7、编写单元测试，有测试驱动开发经验的可以优先考虑；
 
 8、理解和驾驭一些开源框架如Retrofit，Dagger2，Realm的可以优先考虑；
+
+####联系方式
+[meiling@teambition.com](mailto:meiling@teambition.com)
 
