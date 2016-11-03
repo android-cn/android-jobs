@@ -49,7 +49,7 @@ Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，
 哔哩哔哩(B站) | [Android/iOS开发](./上海--JD/Bilibili Android.md) | 中二二次元技术宅集聚地，20-30k，高薪高逼格技术风格、大量绝度领域妹子 |[xiexiaofeng@bilibili.com](mailto:xiexiaofeng@bilibili.com "有效期至 2016-12-31") 
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-30K，期权，免费午餐、晚餐，无加班文化，远程办公 |[meiling@teambition.com](mailto:meiling@teambition.com "有效期至 2016-12-31")
 饿了么 | [移动开发](./上海--JD/饿了么移动开发.md) | 高薪、期权及有技术追求的伙伴 | [biao.hu@ele.me](mailto:biao.hu@ele.me "有效期至 2016-12-31")
-即刻App | Android开发工程师（./上海--即刻App Android.md）| 与一款最有价值的信息获取工具共同成长 | [sara@ruguoapp.com](mailto:sara@ruguoapp.com "有效期至 2016-12-31")
+即刻App |  [Android 开发工程师](./上海--JD/即刻App Android.md) | 与一款最有价值的信息获取工具共同成长 | [sara@ruguoapp.com](mailto:sara@ruguoapp.com "有效期至 2016-12-31")
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
