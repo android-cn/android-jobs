@@ -19,7 +19,7 @@
 :------------- | :------------- | :-------------  | :-------------
 蚂蚁金服 | [Android 各级别](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 阿里集团 | [Android 各级别](./北京--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
-滴滴打车 | [Android 开发](./北京--JD/滴滴出行全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
+滴滴出行 | [Android 开发](./北京--JD/滴滴出行全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2016-12-31")
 腾讯 | [Android 工程师](./北京--JD/腾讯 Android.md) | 高薪、靠谱产品、数亿用户、无息房贷 | [315226895@qq.com](mailto:315226895@qq.com "有效期至 2016-12-31")
 京东 | [Android 开发](./北京--JD/京东 Android.md) | 新项目，数据驱动，工程师决策 | [liudengyong@jd.com](mailto:liudengyong@jd.com "有效期至 2016-12-31")
 美团 | [Android 开发](./北京--JD/美团 Android.md) | 高薪，技术氛围好，随时上市 | [gaofei04@meituan.com](mailto:gaofei04@meituan.com "有效期至 2016-12-31")
