@@ -35,7 +35,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 北京万桥达观信息技术有限公司 | [Android 开发](./北京--JD/北京万桥达观信息技术有限公司 Android.md) | Mac Pro(16G) 无加班！ 无限饮品、零食 | [marco.liu@everbridge.com](marco.liu@everbridge.com "有效期至 2016-12-31")
 秒拍&小咖秀 | [Android 开发](./北京--JD/秒拍-小咖秀 Android.md) | 高薪、期权及有技术追求的伙伴 | [zhuliang@yixia.com](mailto:zhuliang@yixia.com "有效期至 2016-12-31")
 小米电视 | [Android 开发](./北京--JD/小米电视 Android.md) | 20-40k，13-15薪，高期权前景好，福利丰厚 | [jun.zhang@xiaomi.com](mailto:jun.zhang@xiaomi.com "有效期至 2016-12-31")
-今日头条 | [Android 开发](./北京--JD/小米电视 Android.md) | 15薪，高期权，福利丰厚,三餐 | [mazixuan@bytedance.com](mailto:mazixuan@bytedance.com "有效期至 2016-12-31")
+今日头条 | [Android 开发](./北京--JD/今日头条 Android.md) | 15薪，高期权，福利丰厚,三餐 | [mazixuan@bytedance.com](mailto:mazixuan@bytedance.com "有效期至 2016-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
