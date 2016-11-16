@@ -50,6 +50,7 @@ Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-30K，期权，免费午餐、晚餐，无加班文化，远程办公 |[meiling@teambition.com](mailto:meiling@teambition.com "有效期至 2016-12-31")
 饿了么 | [移动开发](./上海--JD/饿了么移动开发.md) | 高薪、期权及有技术追求的伙伴 | [biao.hu@ele.me](mailto:biao.hu@ele.me "有效期至 2016-12-31")
 即刻App |  [Android 开发工程师](./上海--JD/即刻App Android.md) | 与一款最有价值的信息获取工具共同成长 | [sara@ruguoapp.com](mailto:sara@ruguoapp.com "有效期至 2016-12-31")
+英语流利说 |  [Android 开发工程师](./上海--JD/英语流利说 Android.md) | 技术氛围好、高速成长的团队 | [flora.chen@liulishuo.com](mailto:flora.chen@liulishuo.com "有效期至 2016-12-31")
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
