@@ -36,6 +36,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 秒拍&小咖秀 | [Android 开发](./北京--JD/秒拍-小咖秀 Android.md) | 高薪、期权及有技术追求的伙伴 | [zhuliang@yixia.com](mailto:zhuliang@yixia.com "有效期至 2016-12-31")
 小米电视 | [Android 开发](./北京--JD/小米电视 Android.md) | 20-40k，13-15薪，高期权前景好，福利丰厚 | [jun.zhang@xiaomi.com](mailto:jun.zhang@xiaomi.com "有效期至 2016-12-31")
 今日头条 | [Android 开发](./北京--JD/今日头条 Android.md) | 15薪，高期权，福利丰厚,三餐 | [mazixuan@bytedance.com](mailto:mazixuan@bytedance.com "有效期至 2016-12-31")
+知乎 | [Android 开发](./北京--JD/知乎 Android.md) | 工程师文化 | [ge@zhihu.com](mailto:ge@zhihu.com "有效期至 2017-6-30")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
