@@ -50,7 +50,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，15-30k，大量股权激励 |[jay@glowing.com](mailto:jay@glowing.com "有效期至 2016-12-31")
 哔哩哔哩(B站) | [Android/iOS开发](./上海--JD/Bilibili Android.md) | 中二二次元技术宅集聚地，20-30k，高薪高逼格技术风格、大量绝度领域妹子 |[xiexiaofeng@bilibili.com](mailto:xiexiaofeng@bilibili.com "有效期至 2016-12-31") 
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-20K *（ 14-16薪），期权，免费午餐、晚餐，无加班文化，远程办公 |[meiling@teambition.com](mailto:meiling@teambition.com "有效期至 2017-04-30")
-饿了么 | [移动开发](./上海--JD/饿了么移动开发.md) | 高薪、期权及有技术追求的伙伴 | [biao.hu@ele.me](mailto:biao.hu@ele.me "有效期至 2016-12-31")
+饿了么 | [移动开发](./上海--JD/饿了么移动开发.md) | 高薪、期权及有技术追求的伙伴 | [biao.hu@ele.me](mailto:biao.hu@ele.me "有效期至 2017-12-31")
 即刻App |  [Android 开发工程师](./上海--JD/即刻App Android.md) | 与一款最有价值的信息获取工具共同成长 | [sara@ruguoapp.com](mailto:sara@ruguoapp.com "有效期至 2016-12-31")
 英语流利说 |  [Android 开发工程师](./上海--JD/英语流利说 Android.md) | 技术氛围好、高速成长的团队 | [flora.chen@liulishuo.com](mailto:flora.chen@liulishuo.com "有效期至 2016-12-31")
 拼多多 |  [Android 高级工程师](./上海--JD/拼多多 Android.md) | 国内TOP4电商公司，快速发展，潜力无限, 20k-40k*16薪 | [ruita@yiran.com](mailto:ruita@yiran.com "有效期至 2017.12.31")
