@@ -20,8 +20,8 @@
 7. 有 iOS，Mysql 和 TCP/IP 等开发经验者优先。
 
 ####待遇
-Android/iOS/Java/Web前端/测试 30W+
-架构师 40W+  
+Android/iOS/Java/Web前端/测试/产品经理 30W+
+技术经理 40W+  
 银行你懂得,除了各类福利补贴，可以办理上海落户(本科亦可哦)
 行员贷款买房  
 
