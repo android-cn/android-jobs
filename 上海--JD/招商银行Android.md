@@ -11,7 +11,7 @@
 4. 根据业务变化、不断改善升级产品，保证系统的性能、稳定性及可靠性。
 
 ####Android任职资格：
-1. 2 年以上 Android 应用开发经验； 
+1. 3年以上 Android 应用开发经验； 
 2. 熟练掌握 Android SDK 相关技术，Eclipse/SVN 环境，及 Java 开发； 
 3. 具有 Android 平台软件总体架构规划和设计能力； 
 4. 熟练掌握 Android GUI 程序开发，具有自定义 GUI 控件的技能； 
@@ -20,8 +20,8 @@
 7. 有 iOS，Mysql 和 TCP/IP 等开发经验者优先。
 
 ####待遇
-Android/iOS/Java/Web前端 开发 18-30W+  
-架构师 40W+  
+Android/iOS/Java/Web前端/测试/产品经理 30W+
+技术经理 40W+  
 银行你懂得,除了各类福利补贴，可以办理上海落户(本科亦可哦)
 行员贷款买房  
 
