@@ -16,4 +16,4 @@
 - 股票
 
 ####联系方式
-[315226895@qq.com](mailto:315226895@qq.com)，可抄送给 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com) 方便获取进度。
+[315226895@qq.com](mailto:315226895@qq.com)  
