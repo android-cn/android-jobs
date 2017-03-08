@@ -41,6 +41,8 @@ Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，
 拼多多 |  [Android 高级工程师](./上海--JD/拼多多 Android.md) | 国内TOP4电商公司，快速发展，潜力无限, 20k-40k*16薪 | [ruita@yiran.com](mailto:ruita@yiran.com "有效期至 2017.12.31")
 BTCC |  [Android 开发](./上海--JD/BTCC Android.md) | 国内最早比特币交易公司，硅谷工作环境，技术极客团队, 1w-2w*13薪 | [jane.ma@btcc.com](mailto:jane.ma@btcc.com "有效期至 2017.12.31")
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-20K *（ 14-16薪），期权，免费午餐、晚餐，无加班文化，远程办公 |[meiling@teambition.com](mailto:meiling@teambition.com "有效期至 2017-12-31")
+小红书 | [移动开发](./上海--JD/小红书 iOS Android.md) | 硅谷文化、18-35k 16月+、三餐饮料水果、出国团建、业务+技术并重 | [fzhang@xiaohongshu.com](mailto:fzhang@xiaohongshu.com "有效期至 2017-12-31")
+
 
 ####Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
