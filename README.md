@@ -37,7 +37,6 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 Glow | [Android/iOS开发](./上海--JD/Glow Android.md) | 硅谷创业公司，15-30k，大量股权激励 |[jay@glowing.com](mailto:jay@glowing.com "有效期至 2017-12-31")
 即刻App |  [Android 开发工程师](./上海--JD/即刻App Android.md) | 与一款最有价值的信息获取工具共同成长 | [sara@ruguoapp.com](mailto:sara@ruguoapp.com "有效期至 2017-12-31")
 英语流利说 |  [Android 开发工程师](./上海--JD/英语流利说 Android.md) | 技术氛围好、高速成长的团队 | [flora.chen@liulishuo.com](mailto:flora.chen@liulishuo.com "有效期至 2017-12-31")
-招商银行 | [Android/iOS 开发](./上海--JD/招商银行Android.md) | 30W起，高福利、落户、行员贷款 | [danny_jiang@cmbchina.com](mailto:danny_jiang@cmbchina.com "有效期至 2017-12-31")
 拼多多 |  [Android 高级工程师](./上海--JD/拼多多 Android.md) | 国内TOP4电商公司，快速发展，潜力无限, 20k-40k*16薪 | [ruita@yiran.com](mailto:ruita@yiran.com "有效期至 2017.12.31")
 BTCC |  [Android 开发](./上海--JD/BTCC Android.md) | 国内最早比特币交易公司，硅谷工作环境，技术极客团队, 1w-2w*13薪 | [jane.ma@btcc.com](mailto:jane.ma@btcc.com "有效期至 2017.12.31")
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-20K *（ 14-16薪），期权，免费午餐、晚餐，无加班文化，远程办公 |[meiling@teambition.com](mailto:meiling@teambition.com "有效期至 2017-12-31")
