@@ -13,7 +13,7 @@
 ### 目录
 [北京](http://j.codekk.com/city/beijing)  [上海](http://j.codekk.com/city/shanghai)  [杭州](http://j.codekk.com/city/hangzhou)  [广州](http://j.codekk.com/city/guangzhou)  [深圳](http://j.codekk.com/city/shenzhen)  [珠海](http://j.codekk.com/city/zhuhai)  [成都](http://j.codekk.com/city/chengdu)  [厦门](http://j.codekk.com/city/xiamen)  [东莞](http://j.codekk.com/city/dongguan)  
 [武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  [西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
-####Bei Jing
+#### Bei Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 蚂蚁金服 | [Android 各级别](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
@@ -27,7 +27,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 今日头条 | [Android 开发](./北京--JD/今日头条 Android.md) | 15薪，高期权，福利丰厚,三餐 | [mazixuan@bytedance.com](mailto:mazixuan@bytedance.com "有效期至 2017-12-31")
 微店 | [Android 开发](./北京--JD/微店 Android.md) | 18-35k，14+薪，高期权，福利好 | [jinbin@weidian.com](mailto:jinbin@weidian.com "有效期至 2017-12-31")
 
-####Shang Hai
+#### Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 蚂蚁金服 | [Android 各级别](./上海--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
@@ -44,61 +44,61 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-20K *（ 
 萌宝科技 | [Android 工程师](./上海--JD/萌宝科技Android.md) | 工程师文化，高速成长中的团队 | [dingke@mampod.com](mailto:dingke@mampod.com "有效期至 2017-12-31")
 
 
-####Hang Zhou
+#### Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 蚂蚁金服 | [Android 各级别](./杭州--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 阿里集团 | [Android 各级别](./杭州--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 微店 | [Android 开发](./杭州--JD/微店 Android.md) | 18-35k，14+薪，高期权，福利好 | [jinbin@weidian.com](mailto:jinbin@weidian.com "有效期至 2017-12-31")
 
-####Shen Zhen
+#### Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 蚂蚁金服 | [Android 各级别](./深圳--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 阿里集团 | [Android 各级别](./深圳--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 腾讯 | [Android 工程师](./深圳--JD/腾讯 Android.md) | 高薪、靠谱产品、数亿用户、无息房贷 | [315226895@qq.com](mailto:315226895@qq.com "有效期至 2017-12-31")
 
-####Guang Zhou
+#### Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 阿里集团 | [Android 各级别](./广州--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 腾讯微信 | [Android 工程师](./广州--JD/腾讯 Android.md) | 高薪、靠谱产品、数亿用户、无息房贷 | [315226895@qq.com](mailto:315226895@qq.com "有效期至 2017-12-31")
 
-####Zhu Hai
+#### Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 
-####Nan Jing
+#### Nan Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |
 
-####Cheng Du
+#### Cheng Du
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |
 
-####Wu Han
+#### Wu Han
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |
 
-####Dong Guan
+#### Dong Guan
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 待定 |  |  |  |
 
-####Xia Men
+#### Xia Men
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |
 
-####Fu Zhou
+#### Fu Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |
 
-####Xi An
+#### Xi An
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |

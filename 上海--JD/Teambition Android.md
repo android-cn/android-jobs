@@ -1,10 +1,10 @@
 Teambition Android 工程师
 ==========
 
-####职位描述
+#### 职位描述
 Teambition Android团队主要负责 Teambition Android客户端的开发、单元测试、模块设计，并不断优化我们产品架构，对App用户体验提出建议。
 
-####你的工作内容
+#### 你的工作内容
 1. 独立负责定制化开发任务及日常维护工作;
 2. 评估定制开发对架构的冲击及依赖，不断完善现有架构；
 3. 从定制需求的角度，调研插件化支持方案；
@@ -12,7 +12,7 @@ Teambition Android团队主要负责 Teambition Android客户端的开发、单�
 5. 参与主产品版本的开发任务及单元测试编写；
 6. 参与代码评审，保证代码质量；
 
-####我们的期望
+#### 我们的期望
 1. 2年及以上Android开发经验；
 2. 扎实的编程基础，熟练掌握 Java 语言；
 3. 扎实的网络编程基础，熟悉 HTTP 通信协议；有 RN、Weex 或者其他混合开发模式者优先考虑；
@@ -20,7 +20,7 @@ Teambition Android团队主要负责 Teambition Android客户端的开发、单�
 5. 持续关注新的技术，有较强的学习能力；
 6. 思路清晰、敏捷，有责任心和驱动能力，良好的团队协作沟通能力。
 
-####在 Teambition 你能获得哪些？
+#### 在 Teambition 你能获得哪些？
 1. 干净到透明的企业文化贯穿（每周五 Ask Me Anything ， CEO 回复内部 club 匿名提问、全开放的办公环境）
 2. 五险一金全额缴纳（ 11 年创业至今， Teambition 想先做一个好公司，然后是好产品。）
 3. 你问我有没有加班？我的回答是：我们没有加班文化，且不打卡
@@ -32,5 +32,5 @@ Teambition Android团队主要负责 Teambition Android客户端的开发、单�
 9. 我们有丰厚的内部+外部推荐奖金，说明我们对人才的重视程度。 （若你现在不想换工作，你可以推荐你的好友，可获得 iphone7 128GB 或者 iphone7 plus 256GB ，入职就送，且不需要简历，可能是一个 Github + 一个微信 + 他处于 available 的信息）
 10. 18年应届Android实习生也开放招聘1名，若实习期表现优秀，Teambition的全职薪资可在实习期就生效。
 
-####联系方式
+#### 联系方式
 [meiling@teambition.com](mailto:meiling@teambition.com)
