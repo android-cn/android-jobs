@@ -42,6 +42,7 @@ BTCC |  [Android 开发](./上海--JD/BTCC Android.md) | 国内最早比特币�
 Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-20K *（ 14-16薪），期权，免费午餐、晚餐，无加班文化，远程办公 |[meiling@teambition.com](mailto:meiling@teambition.com "有效期至 2017-12-31")
 小红书 | [移动开发](./上海--JD/小红书 iOS Android.md) | 硅谷文化、18-35k 16月+、三餐饮料水果、出国团建、业务+技术并重 | [fzhang@xiaohongshu.com](mailto:fzhang@xiaohongshu.com "有效期至 2017-12-31")
 萌宝科技 | [Android 工程师](./上海--JD/萌宝科技Android.md) | 工程师文化，高速成长中的团队 | [dingke@mampod.com](mailto:dingke@mampod.com "有效期至 2017-12-31")
+Wiredcraft | [Android 开发工程师](./上海--JD/WiredcraftAndroid.md) | 外企，弹性工作（无加班），工程师文化 | [job@wiredcraft.com](mailto:job@wiredcraft.com "有效期至 2017-12-31")
 
 
 #### Hang Zhou
