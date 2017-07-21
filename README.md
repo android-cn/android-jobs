@@ -43,6 +43,7 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-20K *（ 
 小红书 | [移动开发](./上海--JD/小红书 iOS Android.md) | 硅谷文化、18-35k 16月+、三餐饮料水果、出国团建、业务+技术并重 | [fzhang@xiaohongshu.com](mailto:fzhang@xiaohongshu.com "有效期至 2017-12-31")
 萌宝科技 | [Android 工程师](./上海--JD/萌宝科技Android.md) | 工程师文化，高速成长中的团队 | [dingke@mampod.com](mailto:dingke@mampod.com "有效期至 2017-12-31")
 Wiredcraft | [Android 开发工程师](./上海--JD/WiredcraftAndroid.md) | 外企，弹性工作（无加班），工程师文化, 远程办公 | [job@wiredcraft.com](mailto:job@wiredcraft.com "有效期至 2017-12-31")
+美团点评 | [Android 工程师](./上海--JD/美团点评 Android.md) | 美团图书馆、丰富的技术分享| [fangwei10@meituan.com](mailto:fangwei10@meituan.com "有效期至 2017-12-31")
 
 
 #### Hang Zhou
