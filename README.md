@@ -30,7 +30,6 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 #### Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-中通快递| [IOS资深](./上海--JD/中通快递 IOS.md) | 高薪、技术leader有技术追求的伙伴 | [Sunguorong@zto.cn](mailto:Sunguorong@zto.cn "有效期至 2017-12-31")
 蚂蚁金服 | [Android 各级别](./上海--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 阿里集团 | [Android 各级别](./上海--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 腾讯 | [Android 工程师](./上海--JD/腾讯 Android.md) | 高薪、靠谱产品、数亿用户、无息房贷 | [315226895@qq.com](mailto:315226895@qq.com "有效期至 2017-12-31")
@@ -44,8 +43,8 @@ Teambition | [Android 开发](./上海--JD/Teambition Android.md) | 15-20K *（ 
 小红书 | [移动开发](./上海--JD/小红书 iOS Android.md) | 硅谷文化、18-35k 16月+、三餐饮料水果、出国团建、业务+技术并重 | [fzhang@xiaohongshu.com](mailto:fzhang@xiaohongshu.com "有效期至 2017-12-31")
 萌宝科技 | [Android 工程师](./上海--JD/萌宝科技Android.md) | 工程师文化，高速成长中的团队 | [dingke@mampod.com](mailto:dingke@mampod.com "有效期至 2017-12-31")
 Wiredcraft | [Android 开发工程师](./上海--JD/WiredcraftAndroid.md) | 外企，弹性工作（无加班），工程师文化, 远程办公 | [job@wiredcraft.com](mailto:job@wiredcraft.com "有效期至 2017-12-31")
-美团点评 | [Android 工程师](./上海--JD/美团点评 Android.md) | 美团图书馆、丰富的技术分享| [fangwei10@meituan.com](mailto:fangwei10@meituan.com "有效期至 2017-12-31")
-
+美团点评 | [Android 工程师](./上海--JD/美团点评 Android.md) | 美团图书馆、丰富的技术分享| [fangwei10@meituan.com](mailto:fangwei10@meituan.com "有效期至 2017-12-31")  
+中通快递| [IOS资深](./上海--JD/中通快递 IOS.md) | 高薪、技术leader有技术追求的伙伴 | [Sunguorong@zto.cn](mailto:Sunguorong@zto.cn "有效期至 2017-12-31")  
 
 #### Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
