@@ -52,7 +52,7 @@ Wiredcraft | [Android 开发工程师](./上海--JD/WiredcraftAndroid.md) | 外�
 蚂蚁金服 | [Android 各级别](./杭州--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 阿里集团 | [Android 各级别](./杭州--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2017-12-31")
 微店 | [Android 开发](./杭州--JD/微店 Android.md) | 18-35k，14+薪，高期权，福利好 | [jinbin@weidian.com](mailto:jinbin@weidian.com "有效期至 2017-12-31")
-网易杭州 | [各种开发](./杭州--JD/网易 公司 Android.md) | 16-35k，16+薪 大公司 有情怀| [zhongjinbao1994@163.com](mailto:zhongjinbao1994@163.com "有效期至 2020-12-31")
+网易杭州 | [网易开发](./杭州--JD/网易公司.md) | 16-35k，16+薪 大公司 有情怀| [zhongjinbao1994@163.com](mailto:zhongjinbao1994@163.com "有效期至 2020-12-31")
 
 #### Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
