@@ -26,6 +26,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 下厨房 | [Android 开发](./北京--JD/下厨房 Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2017-12-31")
 今日头条 | [Android 开发](./北京--JD/今日头条 Android.md) | 15薪，高期权，福利丰厚,三餐 | [mazixuan@bytedance.com](mailto:mazixuan@bytedance.com "有效期至 2017-12-31")
 微店 | [Android 开发](./北京--JD/微店 Android.md) | 18-35k，14+薪，高期权，福利好 | [jinbin@weidian.com](mailto:jinbin@weidian.com "有效期至 2017-12-31")
+美团外卖| [Android各级别](./北京--JD/美团外卖 Android.md) | 高薪、丰富的团建、良好的技术氛围 | [ruilyforcn@gmail.com](mailto:ruilyforcn@gmail.com "有效期至 2017-12-31") 
 
 #### Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -105,3 +106,5 @@ Wiredcraft | [Android 开发工程师](./上海--JD/WiredcraftAndroid.md) | 外�
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |
+
+
