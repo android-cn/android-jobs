@@ -23,7 +23,7 @@
 - 技术专家 30k+
 
 #### 联系方式
-[shijian95@foxmail.com](mailto:shijian95@foxmail.com)   
+[shijian06@meituan.com](mailto:shijian06@meituan.com)   
 
 #### 具体地址
 北京市朝阳区望京东路4号恒电大厦
