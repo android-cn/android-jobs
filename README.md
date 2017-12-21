@@ -30,6 +30,8 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 快手| [Android开发](./北京--JD/快手Android开发.md) | 30k-60k, 16薪+年终奖、高速发展、技术氛围浓厚 | [zhulantian@kuaishou.com](mailto:zhulantian@kuaishou.com "有效期至 2017-12-31") 
 美团金融| [Android中高级](./北京--JD/美团金融 Android开发.md) |  高薪、不加班，战略项目、技术氛围好 | [shijian06@meituan.com](mailto:shijian06@meituan.com "有效期至 2017-12-31") 
 蚂蜂窝 | [Android 开发](./北京--JD/蚂蜂窝Android.md) | 15-30k，班车接送，靠谱友爱，技术氛围好 | [xusheng@mafengwo.com](mailto:xusheng@mafengwo.com "有效期至 2018-12-31")
+微博 | [Android 开发](./北京--JD/微博Android.md) | 15-30k，用户量大，有挑战，环境好 | [ruibin1@staff.sina.com.cn](mailto:ruibin1@staff.sina.com.cn "有效期至 2018-06-22")
+
 
 
 #### Shang Hai
