@@ -4,6 +4,8 @@
 #### 公司介绍
 新浪微博，是中国最具影响力的社会化媒体平台，是一个基于用户关系的信息分享、传播以及获取的平台，用户可以通过WEB、WAP以及各种客户端即时分享信息。目前日活已超过 1.5 亿。
 
+![sina](https://ws1.sinaimg.cn/large/6fb50cedly1fmoczmof09j20zk0k0dyw.jpg)
+
 #### 职位描述
 1. 负责微博客户端的功能迭代开发
 2. 负责微博客户端性能优化
@@ -26,3 +28,4 @@
 
 #### 联系方式
 [ruibin1@staff.sina.com.cn](mailto:ruibin1@staff.sina.com.cn)
+
