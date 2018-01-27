@@ -28,7 +28,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期�
 微店 | [Android 开发](./北京--JD/微店 Android.md) | 18-35k，14+薪，高期权，福利好 | [jinbin@weidian.com](mailto:jinbin@weidian.com "有效期至 2018-12-31")
 美团外卖| [Android各级别](./北京--JD/美团外卖 Android.md) | 高薪、丰富的团建、良好的技术氛围 | [ruilyforcn@gmail.com](mailto:ruilyforcn@gmail.com "有效期至 2018-12-31") 
 快手| [Android开发](./北京--JD/快手Android开发.md) | 30k-60k, 16薪+年终奖、高速发展、技术氛围浓厚 | [zhulantian@kuaishou.com](mailto:zhulantian@kuaishou.com "有效期至 2018-12-31") 
-美团金融| [Android中高级](./北京--JD/美团金融 Android开发.md) |  高薪、不加班，战略项目、技术氛围好 | [shijian06@meituan.com](mailto:shijian06@meituan.com "有效期至 2018-12-31") 
+美团金融| [Android中高级](./北京--JD/美团金融 Android.md) |  高薪、不加班，战略项目、技术氛围好 | [shijian06@meituan.com](mailto:shijian06@meituan.com "有效期至 2018-12-31") 
 蚂蜂窝 | [Android 开发](./北京--JD/蚂蜂窝Android.md) | 15-30k，班车接送，靠谱友爱，技术氛围好 | [xusheng@mafengwo.com](mailto:xusheng@mafengwo.com "有效期至 2018-12-31")
 微博 | [Android 工程师](./北京--JD/微博Android.md) | 用户量大，工作有挑战，办公环境一流，高薪、期权 | [ruibin1@staff.sina.com.cn](mailto:ruibin1@staff.sina.com.cn "有效期至 2018-06-22")  
 
