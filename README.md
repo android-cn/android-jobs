@@ -22,7 +22,7 @@
 腾讯 | [Android 工程师](./北京--JD/腾讯 Android.md) | 高薪、靠谱产品、数亿用户、无息房贷 | [315226895@qq.com](mailto:315226895@qq.com "有效期至 2018-12-31")
 小米电视 | [Android 开发](./北京--JD/小米电视 Android.md) | 20-40k，13-15薪，高期权前景好，福利丰厚 | [jun.zhang@xiaomi.com](mailto:jun.zhang@xiaomi.com "有效期至 2018-12-31")
 知乎 | [Android 开发](./北京--JD/知乎 Android.md) | 工程师文化 | [ge@zhihu.com](mailto:ge@zhihu.com "有效期至 2017-6-30")
-GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期权、无限前景 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2018-12-31")
+GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期权、数据产品、技术氛围和挑战 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2018-12-31")
 下厨房 | [Android 开发](./北京--JD/下厨房 Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2018-12-31")
 今日头条 | [Android 开发](./北京--JD/今日头条 Android.md) | 15薪，高期权，福利丰厚,三餐 | [mazixuan@bytedance.com](mailto:mazixuan@bytedance.com "有效期至 2018-12-31")
 微店 | [Android 开发](./北京--JD/微店 Android.md) | 18-35k，14+薪，高期权，福利好 | [jinbin@weidian.com](mailto:jinbin@weidian.com "有效期至 2018-12-31")
