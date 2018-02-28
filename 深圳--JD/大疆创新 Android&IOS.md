@@ -39,4 +39,4 @@
 - 无息房贷
 
 #### 联系方式
-请注明来自codekk  [software-sz@dji.com](mailto:software-sz@dji.com)
+[nathan.yan@dji.com](mailto:nathan.yan@dji.com)
