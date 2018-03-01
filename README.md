@@ -93,7 +93,7 @@ Wiredcraft | [Android 开发工程师](./上海--JD/WiredcraftAndroid.md) | 外�
 #### Dong Guan
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-待定 |  |  |  |
+步步高教育电子 | [Android应用工程师](./东莞--JD/步步高教育电子 Android.md) | 二线城市，临近一线、生活开支低、适合定居长期发展、表现优异有年终奖 | [zmywly8866@gmail.com](mailto:zmywly8866@gmail.com "有效期至 2018-12-31")
 
 #### Xia Men
 公司  | JD 地址 | 一句话诱惑 | 联系人
