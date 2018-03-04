@@ -16,13 +16,13 @@ XX 公司招聘 Android 高级工程师
 2. 
 
 #### 薪资福利
-- 10k-15k，年终奖 2 个月。  
+- 10k-15k，年终奖2个月。  
 
 #### 联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
 #### 具体地址
-上海陆家嘴软件园
+杭州九城创投  
 
 ```
 

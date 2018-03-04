@@ -19,4 +19,4 @@ XX 公司招聘 Android 高级工程师
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
 
 #### 具体地址
-上海陆家嘴软件园
+杭州九城创投  
