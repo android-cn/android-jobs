@@ -11,8 +11,8 @@
  或`Watch`这个项目接收新职位通知  
 
 ### 目录
-[北京](http://j.codekk.com/city/beijing)  [上海](http://j.codekk.com/city/shanghai)  [杭州](http://j.codekk.com/city/hangzhou)  [广州](http://j.codekk.com/city/guangzhou)  [深圳](http://j.codekk.com/city/shenzhen)  [东莞](http://j.codekk.com/city/dongguan)  [珠海](http://j.codekk.com/city/zhuhai)  [成都](http://j.codekk.com/city/chengdu)  [厦门](http://j.codekk.com/city/xiamen)  
-[武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  [西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
+[北京](http://j.codekk.com/city/beijing)  [上海](http://j.codekk.com/city/shanghai)  [杭州](http://j.codekk.com/city/hangzhou)  [广州](http://j.codekk.com/city/guangzhou)  [深圳](http://j.codekk.com/city/shenzhen)  [东莞](http://j.codekk.com/city/dongguan)  
+[珠海](http://j.codekk.com/city/zhuhai)  [成都](http://j.codekk.com/city/chengdu)  [厦门](http://j.codekk.com/city/xiamen)  [武汉](https://github.com/android-cn/android-jobs#wu-han)  [南京](https://github.com/android-cn/android-jobs#nan-jing)  [福州](https://github.com/android-cn/android-jobs#fu-zhou)  [西安](https://github.com/android-cn/android-jobs#xi-an)  [其他](https://github.com/android-cn/android-jobs#others)  
 #### Bei Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
