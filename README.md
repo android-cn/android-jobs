@@ -16,46 +16,46 @@
 #### Bei Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-滴滴出行 | [Android 开发](./北京--JD/滴滴出行全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-蚂蚁金服 | [Android 各级别](./北京--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-阿里集团 | [Android 各级别](./北京--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-小米电视 | [Android 开发](./北京--JD/小米电视 Android.md) | 20-40k，13-15薪，高期权前景好，福利丰厚 | [jun.zhang@xiaomi.com](mailto:jun.zhang@xiaomi.com "有效期至 2018-12-31")
-知乎 | [Android 开发](./北京--JD/知乎 Android.md) | 工程师文化 | [ge@zhihu.com](mailto:ge@zhihu.com "有效期至 2017-6-30")
-GrowingIO | [Android 开发](./北京--JD/GrowingIO Android.md) | 高薪、期权、数据产品、技术氛围和挑战 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2018-12-31")
-下厨房 | [Android 开发](./北京--JD/下厨房 Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2018-12-31")
-马蜂窝 | [Android 开发](./北京--JD/蚂蜂窝Android.md) | 15-30k，班车接送，靠谱友爱，技术氛围好 | [xusheng@mafengwo.com](mailto:xusheng@mafengwo.com "有效期至 2018-12-31")  
+滴滴出行 | [Android 开发](./北京--JD/滴滴出行全线-Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+蚂蚁金服 | [Android 各级别](./北京--JD/蚂蚁金服-Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+阿里集团 | [Android 各级别](./北京--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+小米电视 | [Android 开发](./北京--JD/小米电视-Android.md) | 20-40k，13-15薪，高期权前景好，福利丰厚 | [jun.zhang@xiaomi.com](mailto:jun.zhang@xiaomi.com "有效期至 2018-12-31")
+知乎 | [Android 开发](./北京--JD/知乎-Android.md) | 工程师文化 | [ge@zhihu.com](mailto:ge@zhihu.com "有效期至 2017-6-30")
+GrowingIO | [Android 开发](./北京--JD/GrowingIO-Android.md) | 高薪、期权、数据产品、技术氛围和挑战 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2018-12-31")
+下厨房 | [Android 开发](./北京--JD/下厨房-Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2018-12-31")
+马蜂窝 | [Android 开发](./北京--JD/蚂蜂窝-Android.md) | 15-30k，班车接送，靠谱友爱，技术氛围好 | [xusheng@mafengwo.com](mailto:xusheng@mafengwo.com "有效期至 2018-12-31")  
 
 #### Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-蚂蚁金服 | [Android 各级别](./上海--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-阿里集团 | [Android 各级别](./上海--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-BTCC |  [Android 开发](./上海--JD/BTCC Android.md) | 国内最早比特币交易公司，硅谷工作环境，技术极客团队, 1w-2w*13薪 | [jane.ma@btcc.com](mailto:jane.ma@btcc.com "有效期至 2017.12.31")
-今日头条 | [移动开发](./上海--JD/今日头条Android.md) | 顶级待遇、高薪期权、过亿用户、技术大牛、发展迅速 | [zhangfeibiao@bytedance.com](mailto:zhangfeibiao@bytedance.com "有效期至 2018-12-31")  
+蚂蚁金服 | [Android 各级别](./上海--JD/蚂蚁金服-Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+阿里集团 | [Android 各级别](./上海--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+BTCC |  [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交易公司，硅谷工作环境，技术极客团队, 1w-2w*13薪 | [jane.ma@btcc.com](mailto:jane.ma@btcc.com "有效期至 2017.12.31")
+今日头条 | [移动开发](./上海--JD/今日头条-Android.md) | 顶级待遇、高薪期权、过亿用户、技术大牛、发展迅速 | [zhangfeibiao@bytedance.com](mailto:zhangfeibiao@bytedance.com "有效期至 2018-12-31")  
 
 #### Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-滴滴出行 | [Android 开发](./杭州--JD/滴滴出行全线 Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-蚂蚁金服 | [Android 各级别](./杭州--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-阿里集团 | [Android 各级别](./杭州--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+滴滴出行 | [Android 开发](./杭州--JD/滴滴出行全线-Android.md) | 高薪、期权、无限前景 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+蚂蚁金服 | [Android 各级别](./杭州--JD/蚂蚁金服-Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+阿里集团 | [Android 各级别](./杭州--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
 
 #### Shen Zhen
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-蚂蚁金服 | [Android 各级别](./深圳--JD/蚂蚁金服 Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-阿里集团 | [Android 各级别](./深圳--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-大疆创新 | [Android&IOS 工程师](./深圳--JD/大疆创新 Android&IOS.md) | 高薪、靠谱产品、无息房贷、技术氛围好 |  [nathan.yan@dji.com](mailto:nathan.yan@dji.com "有效期至 2018-12-31")
+蚂蚁金服 | [Android 各级别](./深圳--JD/蚂蚁金服-Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+阿里集团 | [Android 各级别](./深圳--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+大疆创新 | [Android&IOS 工程师](./深圳--JD/大疆创新-Android-iOS.md) | 高薪、靠谱产品、无息房贷、技术氛围好 |  [nathan.yan@dji.com](mailto:nathan.yan@dji.com "有效期至 2018-12-31")
 
 #### Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-阿里集团 | [Android 各级别](./广州--JD/阿里集团 Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+阿里集团 | [Android 各级别](./广州--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
 
 #### Dong Guan
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
-步步高教育电子 | [Android应用工程师](./东莞--JD/步步高教育电子Android.md) | 二线城市，临近一线、行业内有竞争力的待遇、企业文化非常好、生活开支低、适合定居长期发展、表现优异有年终奖和股票 | [zmywly8866@gmail.com](mailto:zmywly8866@gmail.com "有效期至 2018-12-31")
+步步高教育电子 | [Android应用工程师](./东莞--JD/步步高教育电子-Android.md) | 二线城市，临近一线、行业内有竞争力的待遇、企业文化非常好、生活开支低、适合定居长期发展、表现优异有年终奖和股票 | [zmywly8866@gmail.com](mailto:zmywly8866@gmail.com "有效期至 2018-12-31")
 
 #### Zhu Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
