@@ -32,7 +32,7 @@ GrowingIO | [Android 开发](./北京--JD/GrowingIO-Android.md) | 高薪、期�
 :------------- | :------------- | :-------------  | :-------------  
 蚂蚁金服 | [Android 各级别](./上海--JD/蚂蚁金服-Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
 阿里集团 | [Android 各级别](./上海--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
-BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交易公司，硅谷工作环境，技术极客团队, 1w-2w*13薪 | [jane.ma@btcc.com](mailto:jane.ma@btcc.com "有效期至 2017.12.31")
+BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交易公司，硅谷工作环境，技术极客团队, 1w-2w*13薪 | [jane.ma@btcc.com](mailto:jane.ma@btcc.com "有效期至 2018-12-31")
 今日头条 | [移动开发](./上海--JD/今日头条-Android.md) | 顶级待遇、高薪期权、过亿用户、技术大牛、发展迅速 | [zhangfeibiao@bytedance.com](mailto:zhangfeibiao@bytedance.com "有效期至 2018-12-31")  
 
 #### Hang Zhou
