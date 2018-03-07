@@ -1,9 +1,8 @@
-滴滴出行招 Android/iOS，月 20k-55k，年 16 薪
+滴滴出行招 Android/iOS/前端/后端/算法等各类职位，月 20k-55k，年 16 薪
 ==========
 
 #### 公司介绍
 滴滴目前包含智慧交通/国际化/专车快车/保密项目/R Lab/智能出行/顺风车/后市场/金融/公交/地图/安全/租车/豪华车/出租车/企业事业部/代驾/汽车开放平台/质量部/工具组等等几十条业务线，2018 年大量招人，欢迎加入我们。  
-![](http://www.trinea.cn/wp-content/uploads/2016/10/mengdian2.jpg)  
 
 #### 职位描述及要求
 可直接在 [滴滴出行社招主页](http://job.didichuxing.com/social/list/1) 搜索你感兴趣的职位，然后把职位链接和简历给我即可 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
