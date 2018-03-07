@@ -1,14 +1,12 @@
 [2018 年 Android 全国职位列表 ](http://j.codekk.com)
 ==========  
-**我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  
+**我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  我们的网页版：[j.codekk.com](http://j.codekk.com)
 
-> 我们的网页版：[j.codekk.com](http://j.codekk.com)
+**招聘者：** 欢迎 [添加内推职位](https://github.com/android-cn/android-jobs/wiki/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%81%8C%E4%BD%8D%E5%8F%8A%E5%86%85%E5%AE%B9%E8%A7%84%E8%8C%83 "查看职位添加步骤和规范")  
 
-**招聘者：** 欢迎 [添加职位](https://github.com/android-cn/android-jobs/wiki/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%81%8C%E4%BD%8D%E5%8F%8A%E5%86%85%E5%AE%B9%E8%A7%84%E8%8C%83 "查看职位添加步骤和规范")  
-
-**求职者：**  关注我们的微信公众号 codekk，接收最新职位通知。二维码如下：  
- ![img](http://p.codekk.com/images/weixin-codekk-160.jpg)  
- 或`Watch`这个项目接收新职位通知  
+**求职者：**  [2018 技术人员简历如何脱颖而出](http://www.trinea.cn/jobs/2018-%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%BA%E5%91%98%E7%AE%80%E5%8E%86%E5%A6%82%E4%BD%95%E8%84%B1%E9%A2%96%E8%80%8C%E5%87%BA/)  
+关注我们的微信公众号 codekk，接收最新职位通知。二维码如下：   
+ ![img](http://p.codekk.com/images/weixin-codekk-160.jpg)    
 
 ### 目录
 [北京](http://j.codekk.com/city/beijing)  [上海](http://j.codekk.com/city/shanghai)  [杭州](http://j.codekk.com/city/hangzhou)  [广州](http://j.codekk.com/city/guangzhou)  [深圳](http://j.codekk.com/city/shenzhen)  [东莞](http://j.codekk.com/city/dongguan)  
