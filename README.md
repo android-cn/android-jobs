@@ -24,6 +24,8 @@
 GrowingIO | [Android 开发](./北京--JD/GrowingIO-Android.md) | 高薪、期权、数据产品、技术氛围和挑战 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2018-12-31")
 下厨房 | [Android 开发](./北京--JD/下厨房-Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2018-12-31")
 马蜂窝 | [Android 开发](./北京--JD/马蜂窝-Android.md) | 15-30k，班车接送，靠谱友爱，技术氛围好 | [xusheng@mafengwo.com](mailto:xusheng@mafengwo.com "有效期至 2018-12-31")  
+快手| [Android开发](./北京--JD/快手-Android.md) | 30k-60k, 16薪+年终奖、高速发展、技术氛围浓厚 | [zhulantian@kuaishou.com](mailto:zhulantian@kuaishou.com "有效期至 2018-12-31") 
+美团金融| [Android中高级](./北京--JD/美团金融-Android.md) |  高薪、不加班，战略项目、技术氛围好 | [shijian06@meituan.com](mailto:shijian06@meituan.com "有效期至 2018-12-31") 
 
 #### Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
