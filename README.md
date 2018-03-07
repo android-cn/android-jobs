@@ -1,6 +1,8 @@
 [2018 年 Android 全国职位列表 ](http://j.codekk.com)
 ==========  
-**我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  我们的网页版：[j.codekk.com](http://j.codekk.com)
+**我们相信来到这里的，无论工程师还是招聘者都是靠谱的！！！**  
+
+我们的网页版：[j.codekk.com](http://j.codekk.com)
 
 **招聘者：** 欢迎 [添加内推职位](https://github.com/android-cn/android-jobs/wiki/%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E8%81%8C%E4%BD%8D%E5%8F%8A%E5%86%85%E5%AE%B9%E8%A7%84%E8%8C%83 "查看职位添加步骤和规范")  
 
