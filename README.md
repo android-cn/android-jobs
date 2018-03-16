@@ -56,6 +56,7 @@ BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 阿里集团 | [Android 各级别](./广州--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+Bigo| [Android & iOS 各级别](./广州--JD/Bigo_客户端.md) | 高薪、房补、食堂、全球化的产品 |[wusijun@bigo.sg](mailto:wusijun@bigo.sg "有效期至 2018-12-31")
 
 #### Dong Guan
 公司  | JD 地址 | 一句话诱惑 | 联系人
