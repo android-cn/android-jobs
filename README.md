@@ -24,8 +24,11 @@
 GrowingIO | [Android 开发](./北京--JD/GrowingIO-Android.md) | 高薪、期权、数据产品、技术氛围和挑战 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2018-12-31")
 下厨房 | [Android 开发](./北京--JD/下厨房-Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2018-12-31")
 马蜂窝 | [Android 开发](./北京--JD/马蜂窝-Android.md) | 15-30k，班车接送，靠谱友爱，技术氛围好 | [xusheng@mafengwo.com](mailto:xusheng@mafengwo.com "有效期至 2018-12-31")  
-快手| [Android开发](./北京--JD/快手-Android.md) | 30k-60k, 16薪+年终奖、高速发展、技术氛围浓厚 | [zhulantian@kuaishou.com](mailto:zhulantian@kuaishou.com "有效期至 2018-12-31") 
-美团金融| [Android中高级](./北京--JD/美团金融-Android.md) |  高薪、不加班，战略项目、技术氛围好 | [shijian06@meituan.com](mailto:shijian06@meituan.com "有效期至 2018-12-31") 
+快手| [Android开发](./北京--JD/快手-Android.md) | 30k-60k, 16薪+年终奖、高速发展、技术氛围浓厚 | [zhulantian@kuaishou.com](mailto:zhulantian@kuaishou.com "有效期至 2018-12-31")
+美团金融| [Android中高级](./北京--JD/美团金融-Android.md) |  高薪、不加班，战略项目、技术氛围好 | [shijian06@meituan.com](mailto:shijian06@meituan.com "有效期至 2018-12-31")
+Everbridge| [Android高级](./北京--JD/Everbridge-Android.md) |  25-32k、不加班，上市外企、美国交流 | [marco.liu@everbridge.com](mailto:marco.liu@everbridge.com "有效期至 2018-12-31")
+Grab| [Android开发](./北京--JD/Grab中国-Android.md) |  高薪、高期权前景好，不加班，独角兽外企，国外交流 | [liyu.xu@grabtaxi.com](mailto:liyu.xu@grabtaxi.com "有效期至 2018-12-31")
+猿辅导| [Android 开发](./北京--JD/猿辅导-Android.md) |  20-40k、13-16薪、教育行业独角兽，有节奏的工作 | [liqiang@fenbi.com](mailto:liqiang@fenbi.com "有效期至 2018-12-31")
 
 #### Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -53,6 +56,7 @@ BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------
 阿里集团 | [Android 各级别](./广州--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31")
+Bigo| [Android & iOS 各级别](./广州--JD/Bigo_客户端.md) | 高薪、房补、食堂、全球化的产品 |[wusijun@bigo.sg](mailto:wusijun@bigo.sg "有效期至 2018-12-31")
 
 #### Dong Guan
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -66,7 +70,7 @@ BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交
 #### Nan Jing
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
-待定 |  |  |  |
+小米MIUI | [Android 各级别](./南京--JD/小米MIUI-Android.md) | 高薪期权，扁平化结构，技术氛围浓厚 |  [xiamin@xiaomi.com](mailto:xiamin@xiaomi.com "有效期至 2018-12-31")
 
 #### Cheng Du
 公司  | JD 地址 | 一句话诱惑 | 联系人
@@ -92,5 +96,3 @@ BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交
 公司  | JD 地址 | 一句话诱惑 | 联系人
 :------------- | :------------- | :-------------  | :-------------  
 待定 |  |  |  |
-
-
