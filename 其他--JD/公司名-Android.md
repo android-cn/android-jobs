@@ -1,6 +1,3 @@
-#### 1. 新添加文件
-格式如下，语法是 [MarkDown 语法](https://github.com/android-cn/blog/blob/master/dev-tool/markdown.md)  
-```
 XX 公司招聘 Android 高级工程师
 ==========
 
@@ -23,7 +20,3 @@ XX 公司招聘 Android 高级工程师
 
 #### 具体地址
 杭州九城创投  
-
-```
-
-#### 2. 首页添加索引
