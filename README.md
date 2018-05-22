@@ -30,7 +30,7 @@ Everbridge| [Android高级](./北京--JD/Everbridge-Android.md) |  25-32k、不�
 Grab| [Android开发](./北京--JD/Grab中国-Android.md) |  高薪、高期权前景好，不加班，独角兽外企，国外交流 | [liyu.xu@grabtaxi.com](mailto:liyu.xu@grabtaxi.com "有效期至 2018-12-31") | 
 猿辅导| [Android 开发](./北京--JD/猿辅导-Android.md) |  20-40k、13-16薪、教育行业独角兽，有节奏的工作 | [liqiang@fenbi.com](mailto:liqiang@fenbi.com "有效期至 2018-12-31") | 
 今日头条 | [Android 各级别](./北京--JD/今日头条-Android.md) | 过亿用户+技术大牛面对面+丰厚薪资期权 | [sunkun@bytedance.com](mailto:sunkun@bytedance.com "有效期至 2018-12-31") | 
-比特大陆 | [Android 各级别](./北京--JD/比特大陆-Android.md) | 高薪，区块链，不打卡，福利好 | [jintao.yu@bitmain.com](mailto:jintao.yu@bitmain.com "有效期至 2018-12-31") | 
+比特大陆 | [Android 各级别](./北京--JD/比特大陆-Android.md) | 高薪，区块链，不打卡，福利好 | [jintao.yu@bitmain.com](mailto:jintao.yu@bitmain.com "有效期至 2018-12-31") | yujintao529
 #### Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 内推邮箱 | 内推微信
 :------------- | :------------- | :-------------  | :-------------  | :-------------  
