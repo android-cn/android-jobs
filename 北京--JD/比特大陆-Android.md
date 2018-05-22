@@ -37,6 +37,5 @@ SHA256高速集成运算的定制化解决方案——Antpool；
 
 #### 联系方式
 [jintao.yu@bitmain.com](mailto:jintao.yu@bitmain.com)
-qq: 371278842
 #### 具体地址
 北京市海淀区黑泉路宝盛南路1号院奥北科技园25号楼
