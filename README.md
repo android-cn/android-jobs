@@ -20,7 +20,7 @@
 蚂蚁金服 | [Android 各级别](./北京--JD/蚂蚁金服-Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31") | [trinea](http://codekk.com/images/weixin-trinea-256.jpeg "点击扫码")
 阿里集团 | [Android 各级别](./北京--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31") | [trinea](http://codekk.com/images/weixin-trinea-256.jpeg "点击扫码")
 小米电视 | [Android 开发](./北京--JD/小米电视-Android.md) | 20-40k，13-15薪，高期权前景好，福利丰厚 | [jun.zhang@xiaomi.com](mailto:jun.zhang@xiaomi.com "有效期至 2018-12-31") | 
-知乎 | [Android 开发](./北京--JD/知乎-Android.md) | 工程师文化 | [ge@zhihu.com](mailto:ge@zhihu.com "有效期至 2018-12-31") | 
+知乎 | [Android 各级别](./北京--JD/知乎-Android.md) | 高薪、独角兽、工程师文化 | [zhangzhaowen@zhihu.com](mailto:zhangzhaowen@zhihu.com "有效期至 2018-12-31") | 
 GrowingIO | [Android 开发](./北京--JD/GrowingIO-Android.md) | 高薪、期权、数据产品、技术氛围和挑战 | [dingding@growingio.com](mailto:dingding@growingio.com "有效期至 2018-12-31") | presently
 下厨房 | [Android 开发](./北京--JD/下厨房-Android.md) | 唯有美食与爱不可辜负 | [zhoulujue@xiachufang.com](mailto:zhoulujue@xiachufang.com "有效期至 2018-12-31")
 马蜂窝 | [Android 开发](./北京--JD/马蜂窝-Android.md) | 15-30k，班车接送，靠谱友爱，技术氛围好 | [xusheng@mafengwo.com](mailto:xusheng@mafengwo.com "有效期至 2018-12-31") | michaelzhoujay 
