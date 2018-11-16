@@ -33,5 +33,6 @@
 - 年度免费体检
 
 #### 联系方式
-[mengmeng@gaoding.com](mailto:mengmeng@gaoding.com)简邮件请注明标题【简历】前缀，邮件附件
-1. 2年以上Android项目开发经验,深入掌握理解Android Framework、需要有一定的源码阅读能力，基础扎
+[mengmeng@gaoding.com](mailto:mengmeng@gaoding.com)
+
+简历邮件请注明标题【简历】前缀，邮件附件建议使用pdf，谢谢。
