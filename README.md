@@ -52,6 +52,7 @@ BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交
 蚂蚁金服 | [Android 各级别](./深圳--JD/蚂蚁金服-Android.md) | 高薪、期权及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31") | [trinea](http://codekk.com/images/weixin-trinea-256.jpeg "点击扫码")
 阿里集团 | [Android 各级别](./深圳--JD/阿里集团-Android.md) | 高薪、股票及有技术追求的伙伴 | [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com "有效期至 2018-12-31") | [trinea](http://codekk.com/images/weixin-trinea-256.jpeg "点击扫码")
 大疆创新 | [Android&IOS 工程师](./深圳--JD/大疆创新-Android-iOS.md) | 高薪、靠谱产品、无息房贷、技术氛围好 |  [nathan.yan@dji.com](mailto:nathan.yan@dji.com "有效期至 2018-12-31") | csyanwei
+OPPO | [Android 各级别](./深圳--JD/OPPO-Android.md) | 高薪、股票及有技术追求的伙伴 |  [hanshuai@oppo.com](mailto:hanshuai@oppo.com "有效期至 2018-12-31") | csyanwei
 
 #### Guang Zhou
 公司  | JD 地址 | 一句话诱惑 | 内推邮箱 | 内推微信
