@@ -1,4 +1,4 @@
-Oppo ColorOS招聘 Android 开发、资深开发、专家、高级专家
+OPPO ColorOS招聘 Android 开发、资深开发、专家、高级专家
 ==========
 
 #### 公司介绍
@@ -12,4 +12,4 @@ Oppo ColorOS中心招聘
 - 股票 ?? 都可以持股
 
 #### 联系方式
-[37613577@qq.com](37613577@qq.com)  
+[hanshuai@oppo.com](hanshuai@oppo.com)  
