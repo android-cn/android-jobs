@@ -47,6 +47,6 @@ BIGO [www.bigo.sg](https://www.bigo.sg) 是在欢聚时代CEO李学凌于2014年
 广州市番禺区市桥街兴泰路 274 号 C 栋西塔 BIGO 公司
 
 #### 联系方式
-yangcaitao@bigo@sg
+yangcaitao@bigo.sg
 
 PS:其他技术岗位，也可以内推，后台组（C++/PHP/流媒体/安全/运维等）有广州/北京的岗位，算法组（视觉算法/语音算法/机器学习等）有广州/北京/上海/新加坡的岗位；
