@@ -39,7 +39,7 @@ Grab| [Android开发](./北京--JD/Grab中国-Android.md) |  高薪、高期权�
 BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交易公司，硅谷工作环境，技术极客团队, 1w-2w*13薪 | [jane.ma@btcc.com](mailto:jane.ma@btcc.com "有效期至 2018-12-31") | 
 今日头条 | [移动开发](./上海--JD/今日头条-Android.md) | 顶级待遇、高薪期权、过亿用户、技术大牛、发展迅速 | [zhangfeibiao@bytedance.com](mailto:zhangfeibiao@bytedance.com "有效期至 2018-12-31") | fbzhang0513
 拼多多 | [移动开发 各级别](./上海--JD/拼多多-Android.md) | 高薪，大平台，技术大牛，飞速发展 | [zhongyan@pinduoduo.com](mailto:zhongyan@pinduoduo.com "有效期至 2018-12-31") |
-coupang | [首席Android架构师](./上海--JD/Coupang-Android.md) | 薪资福利好、外企氛围浓、飞速发展的电商巨头 | [demi.yu@coupang.com](mailto:demi.yu@coupang.com) | 
+coupang | [首席Android架构师](./上海--JD/Coupang-Android.md) | 薪资福利好、工作生活平衡、股票期权激励、飞速发展的电商巨头 | [demi.yu@coupang.com](mailto:demi.yu@coupang.com) | 
 #### Hang Zhou
 公司  | JD 地址 | 一句话诱惑 | 内推邮箱 | 内推微信
 :------------- | :------------- | :-------------  | :-------------  | :-------------  
