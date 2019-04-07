@@ -19,4 +19,4 @@
 
 #### 联系方式
 [trinea.cn+job@gmail.com](mailto:trinea.cn+job@gmail.com)  
-![](http://www.trinea.cn/wp-content/uploads/2016/10/mengdian3.jpg)  
+![](https://www.trinea.cn/wp-content/uploads/2016/10/mengdian3.jpg)  
