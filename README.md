@@ -59,6 +59,7 @@ nice | [Android 开发](./北京--JD/nice Android.md) | 薪资待遇高，成长
 半糖 | [Android/IOS开发](./北京--JD/半糖 Android.md) | 13薪+Mac+丰厚期权 | [tom5953@163.com](mailto:tom5953@163.com "有效期至 2016-12-31")
 悦优博迈 | [Android开发](./北京--JD/悦优博迈 Android.md) | 高薪期权，资本热捧空间无限量 | [hr@yueyou.me](mailto:hr@yueyou.me "有效期至 2015-8-30")
 杏树林 | [Android/iOS开发](./北京--JD/杏树林 Android iOS.md) | 有竞争力的薪资，高颜值开发妹纸，一日三餐 | [hr-team@xingshulin.com](mailto:hr-team@xingshulin.com "有效期至 2016-12-31")
+字节跳动 | [Android/iOS开发](./北京--JD/字节跳动 Android iOS.md) | 高薪期权，浓厚的技术氛围,一日三餐,多重福利 | [fengkang@bytedance.com](mailto:fengkang@bytedance.com "有效期至 2020-12-31")
 
 ####Shang Hai
 公司  | JD 地址 | 一句话诱惑 | 联系人
