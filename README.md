@@ -73,6 +73,7 @@ BTCC | [Android 开发](./上海--JD/BTCC-Android.md) | 国内最早比特币交
 公司  | JD 地址 | 一句话诱惑 | 内推邮箱 | 内推微信
 :------------- | :------------- | :-------------  | :-------------  | :-------------  
 小米MIUI | [Android 各级别](./南京--JD/小米MIUI-Android.md) | 高薪期权，扁平化结构，技术氛围浓厚 |  [xiamin@xiaomi.com](mailto:xiamin@xiaomi.com "有效期至 2018-12-31") | 
+字节跳动 | [Android App开发](.//南京--JD/字节跳动-Android.md) | 薪资open，以级定薪，越狠越好 | [daqi@bytedance.com](mailto:daqi@bytedance.com) | peacepassion |
 
 #### Cheng Du
 公司  | JD 地址 | 一句话诱惑 | 内推邮箱 | 内推微信
