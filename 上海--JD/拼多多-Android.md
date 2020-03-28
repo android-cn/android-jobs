@@ -58,4 +58,4 @@
     - 优秀团队：技术大牛、优秀同事
 
 ## 联系方式
-zhongyan@pinduoduo.com
+quyang@pinduoduo.com
