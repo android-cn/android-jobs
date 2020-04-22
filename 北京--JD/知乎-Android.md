@@ -31,4 +31,4 @@
 - 其它任何你觉得对知乎 Android App 有很大帮助的知识、经验和见解
 - 对以下任意一项有深入的了解：视频、音频、电子书、富文本编辑、图片编辑、移动端动态化技术
 #### 联系方式
-[zhangzhaowen@zhihu.com](mailto:zhangzhaowen@zhihu.com)
+[yuanfang01@zhihu.com](mailto:yuanfang01@zhihu.com)
